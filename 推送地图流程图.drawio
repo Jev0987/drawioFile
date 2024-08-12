@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-60" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-60" y="370" />
+              <mxPoint x="-140" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -64,7 +64,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-60" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-60" y="670" />
+              <mxPoint x="-140" y="670" />
               <mxPoint x="140" y="670" />
             </Array>
           </mxGeometry>
@@ -73,10 +73,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3yQ-uEPfvCkX8q001NSK-41" value="获取locate_map.data" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="420" width="180" height="80" as="geometry" />
+          <mxGeometry x="-230" y="410" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3yQ-uEPfvCkX8q001NSK-44" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-70" y="570" as="geometry">
+          <mxGeometry x="-140" y="585" as="geometry">
             <mxPoint x="7" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
