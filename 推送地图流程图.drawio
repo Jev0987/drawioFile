@@ -50,7 +50,7 @@
           <mxGeometry x="40" y="490" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3yQ-uEPfvCkX8q001NSK-25" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="730" width="80" height="80" as="geometry" />
+          <mxGeometry x="100" y="1040" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3yQ-uEPfvCkX8q001NSK-27" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="130" y="610" as="geometry">
@@ -61,8 +61,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-60" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-140" y="670" />
-              <mxPoint x="140" y="670" />
+              <mxPoint x="-140" y="860" />
+              <mxPoint x="140" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -84,8 +84,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="670" />
-              <mxPoint x="140" y="670" />
+              <mxPoint x="440" y="860" />
+              <mxPoint x="140" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -103,7 +103,7 @@
             <mxPoint x="7" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yQ-uEPfvCkX8q001NSK-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3yQ-uEPfvCkX8q001NSK-53" target="3yQ-uEPfvCkX8q001NSK-56">
+        <mxCell id="3yQ-uEPfvCkX8q001NSK-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3yQ-uEPfvCkX8q001NSK-53" target="3yQ-uEPfvCkX8q001NSK-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3yQ-uEPfvCkX8q001NSK-53" value="获取机器地图配置&lt;br&gt;对机器地图配置进行操作" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -112,8 +112,29 @@
         <mxCell id="3yQ-uEPfvCkX8q001NSK-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;True&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="590" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="3yQ-uEPfvCkX8q001NSK-56" value="获取机器类型（RobotType）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="620" width="170" height="80" as="geometry" />
+        <mxCell id="3yQ-uEPfvCkX8q001NSK-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3yQ-uEPfvCkX8q001NSK-58" target="3yQ-uEPfvCkX8q001NSK-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3yQ-uEPfvCkX8q001NSK-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3yQ-uEPfvCkX8q001NSK-58" target="3yQ-uEPfvCkX8q001NSK-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3yQ-uEPfvCkX8q001NSK-58" value="获取机器类型（RobotType）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617" y="650" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3yQ-uEPfvCkX8q001NSK-60" value="Unkown_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3yQ-uEPfvCkX8q001NSK-62" value="Else" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="682" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3yQ-uEPfvCkX8q001NSK-64" value="Phoenix_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3yQ-uEPfvCkX8q001NSK-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.949;exitY=0.514;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3yQ-uEPfvCkX8q001NSK-58" target="3yQ-uEPfvCkX8q001NSK-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="877" y="700" as="sourcePoint" />
+            <mxPoint x="1020" y="650" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
