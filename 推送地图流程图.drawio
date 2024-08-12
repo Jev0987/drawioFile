@@ -143,7 +143,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3yQ-uEPfvCkX8q001NSK-64" value="Phoenix_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yQ-uEPfvCkX8q001NSK-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.949;exitY=0.514;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3yQ-uEPfvCkX8q001NSK-58" target="3yQ-uEPfvCkX8q001NSK-64">
           <mxGeometry relative="1" as="geometry">
