@@ -193,6 +193,9 @@
         <mxCell id="r0TrouKlHz-d5kefhsSM-90" value="&lt;span style=&quot;font-size: 16px; text-wrap: wrap;&quot;&gt;layerandelementmanager&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="100" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="r0TrouKlHz-d5kefhsSM-92" value="call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="418" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
