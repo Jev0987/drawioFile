@@ -22,7 +22,7 @@
           <mxGeometry x="20" y="230" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r0TrouKlHz-d5kefhsSM-5" value="contain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r0TrouKlHz-d5kefhsSM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="r0TrouKlHz-d5kefhsSM-81" target="r0TrouKlHz-d5kefhsSM-13">
           <mxGeometry relative="1" as="geometry">
@@ -191,6 +191,9 @@
         </mxCell>
         <mxCell id="r0TrouKlHz-d5kefhsSM-86" value="heap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="125" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TrouKlHz-d5kefhsSM-87" value="Vector" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="365" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
