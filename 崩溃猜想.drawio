@@ -58,6 +58,9 @@
         <mxCell id="r0TrouKlHz-d5kefhsSM-20" value="vector memory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="330" y="170" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="r0TrouKlHz-d5kefhsSM-21" value="point" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
