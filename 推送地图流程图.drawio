@@ -261,7 +261,7 @@
         <mxCell id="yh7_g9KI7OkdkX_SszMg-8" value="凤凰&lt;br&gt;Phoenix_Robot" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
           <mxGeometry y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-9" value="安装工具推图后重启进程一览" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;fontStyle=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-9" value="安装工具推图进程一览" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;fontStyle=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
           <mxGeometry width="1200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-11" value="Mir" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
