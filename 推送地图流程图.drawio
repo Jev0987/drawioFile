@@ -285,6 +285,24 @@
         <mxCell id="yh7_g9KI7OkdkX_SszMg-17" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="420" width="340" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-19" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-20" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="540" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-21" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-22" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="660" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-23" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="720" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-24" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="780" width="340" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
