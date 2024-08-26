@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="3">
   <diagram name="第 1 页" id="W4bSUOw1dxwQHgGHtSeJ">
-    <mxGraphModel dx="1622" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2770" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,15 +225,6 @@
         </mxCell>
         <mxCell id="3yQ-uEPfvCkX8q001NSK-102" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="1560" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3yQ-uEPfvCkX8q001NSK-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3yQ-uEPfvCkX8q001NSK-103" target="3yQ-uEPfvCkX8q001NSK-104" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3yQ-uEPfvCkX8q001NSK-103" value="adbmanager的pushmap操作" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3yQ-uEPfvCkX8q001NSK-104" value="获取机器人类型" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XRLFAyvbxgkjL-5TqYRN-2" value="关联失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-5" y="1838" width="70" height="30" as="geometry" />
