@@ -268,7 +268,7 @@
           <mxGeometry y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-9" value="重启" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry y="300" width="1070" height="60" as="geometry" />
+          <mxGeometry y="300" width="1200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-11" value="Mir" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="340" height="60" as="geometry" />
@@ -277,7 +277,7 @@
           <mxGeometry x="460" y="360" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-14" value="Project one" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="800" y="360" width="270" height="60" as="geometry" />
+          <mxGeometry x="800" y="360" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-16" value="贝拉（Cat_Robot）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="480" width="120" height="60" as="geometry" />
@@ -305,6 +305,9 @@
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-25" value="&lt;div&gt;forceStopList.push_back(&quot;com.pudutech.ota&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.cloud&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.hardware2&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.maptools&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.map&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.navigation&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.iot2&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.maptools&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.setupwizard&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.core&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.launcher&quot;);&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="420" width="340" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-27" value="&lt;div&gt;forceStopList.push_back(&quot;com.pudutech.resource.manager.service&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.business.cruise&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.function&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; );&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.delivery&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; );&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.usher&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.ad.service&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; );&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.ad.marketing&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; );&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.solicit&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.recycle&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;);&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="420" width="400" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
