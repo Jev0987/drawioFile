@@ -242,42 +242,45 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zHAR3Fr9kCcJbuOy7Vhw" name="重启操作">
-    <mxGraphModel dx="2187" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yh7_g9KI7OkdkX_SszMg-2" value="欢乐送（HLS2）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-3" value="贝拉（Cat_Robot）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-3" value="机型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-4" value="回盘机器人（Recycle_Robot）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-5" value="Ninetales_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-6" value="葫芦（Peanut_Robot）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-7" value="Fire_Fox_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-8" value="Fire_Fox_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-9" value="重启" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="300" width="830" height="60" as="geometry" />
+          <mxGeometry y="300" width="940" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-11" value="Mir" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="360" width="310" height="60" as="geometry" />
+          <mxGeometry x="120" y="360" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-13" value="PuduOS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="360" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-14" value="Project one" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="360" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-16" value="贝拉（Cat_Robot）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
