@@ -321,6 +321,15 @@
         <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-8" value="&lt;div&gt;enum class MachineModel(var id : Int){&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; OTHER(0),//其他&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; HLS(1),&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; //欢乐送&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; PUDUCTOR(2),&amp;nbsp; &amp;nbsp;//欢乐消&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; BELLA_BOT(3),&amp;nbsp; &amp;nbsp;//机器猫/贝拉&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; RECYCLE_DOG(4), //灰狗/好啦&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; NINE_TALES(5),&amp;nbsp; //九尾&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; PEANUT(6),&amp;nbsp; &amp;nbsp; &amp;nbsp;//小花生&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; FIREFOX(7),&amp;nbsp; &amp;nbsp; //火狐&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; CLEAN_BOT(8),&amp;nbsp; &amp;nbsp;//清扫机器人&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; PHOENIX(9),&amp;nbsp; &amp;nbsp;//凤凰&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; HLS2(10),&amp;nbsp; &amp;nbsp;//欢乐送2&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; HLS_VSLAM(11), // 欢乐送1 vslam&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; WATT(12),&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// watt&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; BELLA_PRO(15),&amp;nbsp; // 贝拉pro&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; PEANUT_PRO(16), // 小花生pro&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; FIREFOX_PRO(17);// 闪电匣pro&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-9">
           <mxGeometry y="60" width="330" height="290" as="geometry" />
         </mxCell>
+        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LuZ7fuCe4hnUYNZ_H2Gp-10" target="LuZ7fuCe4hnUYNZ_H2Gp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-10" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-11" value="判断机型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
