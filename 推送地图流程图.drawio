@@ -331,7 +331,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LuZ7fuCe4hnUYNZ_H2Gp-11" target="LuZ7fuCe4hnUYNZ_H2Gp-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1780" y="180" />
+              <mxPoint x="1780" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-11" value="判断是否连接" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1510" y="140" width="200" height="80" as="geometry" />
