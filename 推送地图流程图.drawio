@@ -237,74 +237,80 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="300" width="1200" height="540" as="geometry" />
+        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="300" width="1200" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-2" value="欢乐送2&lt;br&gt;HLS2" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-3" value="机型" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-4" value="灰狗、好啦&lt;br&gt;Recycle_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-5" value="九尾&lt;br&gt;Ninetales_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-6" value="葫芦&lt;br&gt;Peanut_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-7" value="闪电匣&lt;br&gt;FireFox_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-8" value="凤凰&lt;br&gt;Phoenix_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-9" value="安装工具推图后重启进程一览" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;fontStyle=1" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry width="1200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-11" value="Mir" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry x="120" y="60" width="340" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-13" value="PuduOS" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry x="460" y="60" width="340" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-14" value="Project one" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry x="800" y="60" width="400" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-16" value="贝拉&lt;br&gt;Cat_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-2" value="欢乐送2&lt;br&gt;HLS2" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
           <mxGeometry y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-17" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;br&gt;&quot;com.pudutech.hls2robot&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry x="120" y="120" width="340" height="60" as="geometry" />
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-3" value="机型" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-19" value="&lt;div&gt;package = &quot;com.pudutech.bumblebee&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.bumblebee.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-4" value="灰狗、好啦&lt;br&gt;Recycle_Robot" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-5" value="九尾&lt;br&gt;Ninetales_Robot" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-6" value="葫芦&lt;br&gt;Peanut_Robot" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-7" value="闪电匣&lt;br&gt;FireFox_Robot" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-8" value="凤凰&lt;br&gt;Phoenix_Robot" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-9" value="安装工具推图后重启进程一览" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;fontStyle=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry width="1200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-11" value="Mir" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry x="120" y="60" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-13" value="PuduOS" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry x="460" y="60" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-14" value="Project one" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry x="800" y="60" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-16" value="贝拉&lt;br&gt;Cat_Robot" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-17" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;br&gt;&quot;com.pudutech.hls2robot&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
           <mxGeometry x="120" y="180" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-20" value="&lt;div&gt;package = &quot;com.pudutech.recycle.robot&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.recycle.robot.home.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-19" value="&lt;div&gt;package = &quot;com.pudutech.bumblebee&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.bumblebee.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
           <mxGeometry x="120" y="240" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-21" value="&lt;div&gt;package = &quot;com.pudutech.robot.ninetails&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.disinfect.fox.view.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-20" value="&lt;div&gt;package = &quot;com.pudutech.recycle.robot&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.recycle.robot.home.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
           <mxGeometry x="120" y="300" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-22" value="&lt;div&gt;package = &quot;com.pudutech.robot.peanut&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.peanut.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-21" value="&lt;div&gt;package = &quot;com.pudutech.robot.ninetails&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.disinfect.fox.view.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
           <mxGeometry x="120" y="360" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-23" value="&lt;div&gt;package=&quot;com.pudutech.robot.firefox&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.firefox.robot.view.main.MainActivity&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-22" value="&lt;div&gt;package = &quot;com.pudutech.robot.peanut&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.peanut.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
           <mxGeometry x="120" y="420" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-24" value="&lt;div&gt;package = &quot;com.pudutech.phoenix&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.phoenix.ui.activity.InitHostActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-23" value="&lt;div&gt;package=&quot;com.pudutech.robot.firefox&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.firefox.robot.view.main.MainActivity&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
           <mxGeometry x="120" y="480" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-25" value="&lt;div&gt;com.pudutech.ota&lt;/div&gt;&lt;div&gt;com.pudutech.cloud&lt;/div&gt;&lt;div&gt;com.pudutech.hardware2&lt;/div&gt;&lt;div&gt;&amp;nbsp; com.pudutech.maptools&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;com.pudutech.map&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; com.pudutech.navigation&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; com.pudutech.iot2&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; com.pudutech.maptools&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;com.pudutech.setupwizard&lt;/div&gt;&lt;div&gt;com.pudutech.core&lt;/div&gt;&lt;div&gt;com.pudutech.launcher&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry x="460" y="120" width="340" height="420" as="geometry" />
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-24" value="&lt;div&gt;package = &quot;com.pudutech.phoenix&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.phoenix.ui.activity.InitHostActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry x="120" y="540" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-27" value="&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;com.pudutech.resource.manager.service&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.business.cruise&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.function&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.delivery&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;com.pudutech.usher&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.ad.service&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.ad.marketing&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.solicit&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.recycle&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry x="800" y="120" width="400" height="420" as="geometry" />
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-25" value="&lt;div&gt;com.pudutech.ota&lt;/div&gt;&lt;div&gt;com.pudutech.cloud&lt;/div&gt;&lt;div&gt;com.pudutech.hardware2&lt;/div&gt;&lt;div&gt;&amp;nbsp; com.pudutech.maptools&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;com.pudutech.map&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; com.pudutech.navigation&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; com.pudutech.iot2&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; com.pudutech.maptools&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;com.pudutech.setupwizard&lt;/div&gt;&lt;div&gt;com.pudutech.core&lt;/div&gt;&lt;div&gt;com.pudutech.launcher&lt;/div&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry x="460" y="120" width="340" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-2" value="！！建议直接Reboot" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
-          <mxGeometry x="880" y="420" width="250" height="60" as="geometry" />
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-27" value="&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;com.pudutech.resource.manager.service&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.business.cruise&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.function&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.delivery&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;com.pudutech.usher&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.ad.service&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.ad.marketing&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.solicit&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.recycle&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry x="800" y="120" width="400" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-2" value="！！建议直接Reboot" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry x="880" y="480" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-4" value="欢乐送1&lt;br&gt;Marker_Robot" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-5" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;br&gt;&quot;com.pudutech.hls2robot&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
+          <mxGeometry x="120" y="120" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
