@@ -249,7 +249,7 @@
         <mxCell id="yh7_g9KI7OkdkX_SszMg-2" value="欢乐送（HLS2）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-3" value="机型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-3" value="机型" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-4" value="回盘机器人（Recycle_Robot）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -267,16 +267,16 @@
         <mxCell id="yh7_g9KI7OkdkX_SszMg-8" value="Fire_Fox_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-9" value="重启" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-9" value="重启" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry y="300" width="1050" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-11" value="Mir" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-11" value="Mir" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-13" value="PuduOS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-13" value="PuduOS" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="460" y="360" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-14" value="Project one" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-14" value="Project one" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="800" y="360" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-16" value="贝拉（Cat_Robot）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
