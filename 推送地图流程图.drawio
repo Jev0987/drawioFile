@@ -282,25 +282,25 @@
         <mxCell id="yh7_g9KI7OkdkX_SszMg-16" value="贝拉（Cat_Robot）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-17" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-17" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;br&gt;&quot;com.pudutech.hls2robot&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="420" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-19" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-19" value="&lt;div&gt;package = &quot;com.pudutech.bumblebee&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.bumblebee.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="480" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-20" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-20" value="&lt;div&gt;package = &quot;com.pudutech.recycle.robot&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.recycle.robot.home.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="540" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-21" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-21" value="&lt;div&gt;package = &quot;com.pudutech.robot.ninetails&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.disinfect.fox.view.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="600" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-22" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-22" value="&lt;div&gt;package = &quot;com.pudutech.robot.peanut&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.peanut.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="660" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-23" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-23" value="&lt;div&gt;package=&quot;com.pudutech.robot.firefox&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.firefox.robot.view.main.MainActivity&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="720" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-24" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-24" value="&lt;div&gt;package = &quot;com.pudutech.phoenix&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.phoenix.ui.activity.InitHostActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="780" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
