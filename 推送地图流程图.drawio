@@ -303,6 +303,9 @@
         <mxCell id="yh7_g9KI7OkdkX_SszMg-24" value="&lt;div&gt;package = &quot;com.pudutech.phoenix&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.phoenix.ui.activity.InitHostActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="780" width="340" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-25" value="&lt;div&gt;forceStopList.push_back(&quot;com.pudutech.ota&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.cloud&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.hardware2&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.maptools&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.map&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.navigation&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.iot2&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.maptools&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.setupwizard&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.core&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; forceStopList.push_back(&quot;com.pudutech.launcher&quot;);&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="340" height="420" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
