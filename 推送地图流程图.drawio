@@ -300,6 +300,9 @@
         <mxCell id="yh7_g9KI7OkdkX_SszMg-27" value="&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;com.pudutech.resource.manager.service&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.business.cruise&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.function&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.delivery&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;com.pudutech.usher&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.ad.service&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.ad.marketing&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.solicit&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.recycle&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="420" width="400" height="420" as="geometry" />
         </mxCell>
+        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-2" value="建议直接Reboot" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
