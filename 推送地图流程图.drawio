@@ -243,25 +243,25 @@
         <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry y="300" width="1200" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-2" value="欢乐送（HLS2）" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-2" value="欢乐送2&lt;br&gt;HLS2" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
           <mxGeometry y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-3" value="机型" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
           <mxGeometry y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-4" value="回盘机器人（Recycle_Robot）" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-4" value="灰狗、好啦&lt;br&gt;Recycle_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
           <mxGeometry y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-5" value="Ninetales_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-5" value="九尾&lt;br&gt;Ninetales_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
           <mxGeometry y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-6" value="葫芦（Peanut_Robot）" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-6" value="葫芦&lt;br&gt;Peanut_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
           <mxGeometry y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-7" value="Fire_Fox_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-7" value="闪电匣&lt;br&gt;FireFox_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
           <mxGeometry y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-8" value="Fire_Fox_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-8" value="凤凰&lt;br&gt;Phoenix_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
           <mxGeometry y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-9" value="重启" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;fontStyle=1" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
@@ -276,7 +276,7 @@
         <mxCell id="yh7_g9KI7OkdkX_SszMg-14" value="Project one" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
           <mxGeometry x="800" y="60" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yh7_g9KI7OkdkX_SszMg-16" value="贝拉（Cat_Robot）" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
+        <mxCell id="yh7_g9KI7OkdkX_SszMg-16" value="贝拉&lt;br&gt;Cat_Robot" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
           <mxGeometry y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yh7_g9KI7OkdkX_SszMg-17" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;br&gt;&quot;com.pudutech.hls2robot&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-3">
