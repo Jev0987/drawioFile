@@ -233,7 +233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zHAR3Fr9kCcJbuOy7Vhw" name="重启操作">
-    <mxGraphModel dx="1360" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -311,6 +311,15 @@
         </mxCell>
         <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-5" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;br&gt;&quot;com.pudutech.hls2robot&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-6">
           <mxGeometry x="120" y="120" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="-90" width="330" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-7" value="现在的机型" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-9">
+          <mxGeometry width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuZ7fuCe4hnUYNZ_H2Gp-8" value="&lt;div&gt;enum class MachineModel(var id : Int){&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; OTHER(0),//其他&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; HLS(1),&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; //欢乐送&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; PUDUCTOR(2),&amp;nbsp; &amp;nbsp;//欢乐消&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; BELLA_BOT(3),&amp;nbsp; &amp;nbsp;//机器猫/贝拉&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; RECYCLE_DOG(4), //灰狗/好啦&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; NINE_TALES(5),&amp;nbsp; //九尾&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; PEANUT(6),&amp;nbsp; &amp;nbsp; &amp;nbsp;//小花生&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; FIREFOX(7),&amp;nbsp; &amp;nbsp; //火狐&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; CLEAN_BOT(8),&amp;nbsp; &amp;nbsp;//清扫机器人&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; PHOENIX(9),&amp;nbsp; &amp;nbsp;//凤凰&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; HLS2(10),&amp;nbsp; &amp;nbsp;//欢乐送2&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; HLS_VSLAM(11), // 欢乐送1 vslam&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; WATT(12),&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// watt&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; BELLA_PRO(15),&amp;nbsp; // 贝拉pro&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; PEANUT_PRO(16), // 小花生pro&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; FIREFOX_PRO(17);// 闪电匣pro&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="LuZ7fuCe4hnUYNZ_H2Gp-9">
+          <mxGeometry y="60" width="330" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
