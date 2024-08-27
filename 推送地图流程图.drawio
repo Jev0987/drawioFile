@@ -738,13 +738,10 @@
           <mxGeometry x="-910" y="1220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1czmdbVcQHEAjGy8qnpR-6" value="FIREFOX" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="33" y="1280" width="120" height="30" as="geometry" />
+          <mxGeometry x="-910" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1czmdbVcQHEAjGy8qnpR-7" value="PHOENIX" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="183" y="1280" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1czmdbVcQHEAjGy8qnpR-8" value="PHOENIX" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="1280" width="120" height="30" as="geometry" />
+          <mxGeometry x="-910" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NAa3J_kZes8bcesXb64L-1" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;br&gt;&quot;com.pudutech.hls2robot&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="1000" width="340" height="60" as="geometry" />
@@ -766,6 +763,12 @@
         </mxCell>
         <mxCell id="ZSa0e9wo5qUGB57H6srO-1" value="&lt;div&gt;package = &quot;com.pudutech.robot.peanut&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.peanut.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="1220" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u4s4_w7zPC7wXfup9H4c-1" value="&lt;div&gt;package=&quot;com.pudutech.robot.firefox&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.firefox.robot.view.main.MainActivity&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="1270" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JuqCe5qPzVb4RrUuFJ00-1" value="&lt;div&gt;package = &quot;com.pudutech.phoenix&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.phoenix.ui.activity.InitHostActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="1330" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
