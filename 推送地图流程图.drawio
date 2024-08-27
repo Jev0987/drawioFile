@@ -532,7 +532,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-9" value="推送地图" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-125" y="1870" width="120" height="60" as="geometry" />
+          <mxGeometry x="-125" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZfEnF6SCCEgrA9Q4AtD-3" target="TZfEnF6SCCEgrA9Q4AtD-9">
           <mxGeometry relative="1" as="geometry" />
@@ -651,6 +651,12 @@
         </mxCell>
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-23" value="打开对应Mir包/activity" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="2680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-26" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="1558" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-27" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1660" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
