@@ -713,11 +713,8 @@
         <mxCell id="_QKJnuBZFZYAtPWagnWn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QKJnuBZFZYAtPWagnWn-9" target="_QKJnuBZFZYAtPWagnWn-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aKr_8xkVZCUVUmeo0GcN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QKJnuBZFZYAtPWagnWn-13" target="aKr_8xkVZCUVUmeo0GcN-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_QKJnuBZFZYAtPWagnWn-13" value="机器Reboot" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="980" width="120" height="60" as="geometry" />
+        <mxCell id="_QKJnuBZFZYAtPWagnWn-13" value="机器Reboot&lt;br&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;&lt;u&gt;adb reboot&lt;/u&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fhd3ApPWQCLLSxzIitRz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fhd3ApPWQCLLSxzIitRz-14" target="fhd3ApPWQCLLSxzIitRz-17">
           <mxGeometry relative="1" as="geometry">
@@ -820,11 +817,11 @@
         <mxCell id="fhd3ApPWQCLLSxzIitRz-20" value="将PuduOS的Packages放入：forceStopList" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="992.75" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aKr_8xkVZCUVUmeo0GcN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fhd3ApPWQCLLSxzIitRz-22" target="aKr_8xkVZCUVUmeo0GcN-5">
+        <mxCell id="aKr_8xkVZCUVUmeo0GcN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fhd3ApPWQCLLSxzIitRz-22" target="aKr_8xkVZCUVUmeo0GcN-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fhd3ApPWQCLLSxzIitRz-22" value="遍历 forceStopList，关闭对应的package" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1132.75" width="220" height="60" as="geometry" />
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-22" value="遍历 forceStopList，关闭对应的package&lt;br&gt;&lt;span style=&quot;font-style: italic; text-decoration-line: underline;&quot;&gt;adb shell am force-stop + packageName&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1132.75" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aKr_8xkVZCUVUmeo0GcN-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="595" y="1290" width="310" height="230" as="geometry" />
@@ -844,17 +841,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aKr_8xkVZCUVUmeo0GcN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aKr_8xkVZCUVUmeo0GcN-5" target="aKr_8xkVZCUVUmeo0GcN-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aKr_8xkVZCUVUmeo0GcN-5" value="adb shell am force-stop + packageName" style="whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="180" y="1272.75" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aKr_8xkVZCUVUmeo0GcN-7" value="adb reboot" style="whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="-150" y="1120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aKr_8xkVZCUVUmeo0GcN-9" value="打开对应package和activity" style="whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1412.75" width="200" height="60" as="geometry" />
+        <mxCell id="aKr_8xkVZCUVUmeo0GcN-9" value="打开对应package和activity&lt;br&gt;&lt;span style=&quot;font-style: italic; text-decoration-line: underline;&quot;&gt;adb shell am start -n + package/activity&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1260" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
