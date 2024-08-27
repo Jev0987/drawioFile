@@ -808,11 +808,17 @@
         <mxCell id="fhd3ApPWQCLLSxzIitRz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fhd3ApPWQCLLSxzIitRz-18" target="fhd3ApPWQCLLSxzIitRz-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fhd3ApPWQCLLSxzIitRz-18" value="关闭对应的 Packages" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="870.25" width="140" height="60" as="geometry" />
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-18" value="将对应Package放入：forceStopList" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="850" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fhd3ApPWQCLLSxzIitRz-20" value="打开对应的 Packages" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fhd3ApPWQCLLSxzIitRz-20" target="fhd3ApPWQCLLSxzIitRz-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-20" value="将PuduOS的Packages放入：forceStopList" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="992.75" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-22" value="遍历 forceStopList，关闭对应的package" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1132.75" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
