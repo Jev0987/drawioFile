@@ -425,11 +425,11 @@
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-8" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="300" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fS2KrUlz_0A_ae1DTlDp-9" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-55" y="198" width="50" height="30" as="geometry" />
+        <mxCell id="fS2KrUlz_0A_ae1DTlDp-9" value="设备未连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="198" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fS2KrUlz_0A_ae1DTlDp-10" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="360" width="50" height="30" as="geometry" />
+        <mxCell id="fS2KrUlz_0A_ae1DTlDp-10" value="定位地图不存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="360" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-11" target="fS2KrUlz_0A_ae1DTlDp-13">
           <mxGeometry relative="1" as="geometry" />
@@ -477,6 +477,14 @@
         </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-22" target="fS2KrUlz_0A_ae1DTlDp-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-22" target="TZfEnF6SCCEgrA9Q4AtD-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-190" y="1020" />
+              <mxPoint x="-190" y="2530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-22" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;解析地图配置&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="980" width="300" height="80" as="geometry" />
@@ -570,14 +578,17 @@
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-21" value="错误提示" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-34" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="680" width="50" height="30" as="geometry" />
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-34" value="地图检测错误" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="680" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-36" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="790" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-37" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="620" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-40" value="地图配置信息解析失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="990" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
