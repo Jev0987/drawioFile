@@ -600,16 +600,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-1" value="是否为P1 || 机器人类型未知" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="2330" width="220" height="80" as="geometry" />
+          <mxGeometry x="90" y="2340" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eCjC6IlgKaSJ1mSuIgiq-5" target="eCjC6IlgKaSJ1mSuIgiq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eCjC6IlgKaSJ1mSuIgiq-5" target="eCjC6IlgKaSJ1mSuIgiq-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="2510" />
+              <mxPoint y="2780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-5" value="框架是否为Mir" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="2440" width="170" height="80" as="geometry" />
+          <mxGeometry x="115" y="2470" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eCjC6IlgKaSJ1mSuIgiq-9" target="TZfEnF6SCCEgrA9Q4AtD-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-9" value="机器 Reboot" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="2690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eCjC6IlgKaSJ1mSuIgiq-12" target="eCjC6IlgKaSJ1mSuIgiq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-12" value="关闭对应Mir包" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-14" value="关闭PuduOS 包" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-17" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2478" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-18" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2570" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
