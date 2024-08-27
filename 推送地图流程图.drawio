@@ -805,8 +805,14 @@
         <mxCell id="fhd3ApPWQCLLSxzIitRz-17" value="是否包含特殊Packages（如Mir）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="685.25" width="280" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fhd3ApPWQCLLSxzIitRz-18" target="fhd3ApPWQCLLSxzIitRz-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fhd3ApPWQCLLSxzIitRz-18" value="关闭对应的 Packages" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="870.25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-20" value="打开对应的 Packages" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="992.75" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
