@@ -690,9 +690,9 @@
         <mxCell id="_QKJnuBZFZYAtPWagnWn-5" value="adb disconnect &lt;br&gt;断开所有的连接" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_QKJnuBZFZYAtPWagnWn-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QKJnuBZFZYAtPWagnWn-7" target="_QKJnuBZFZYAtPWagnWn-15">
+        <mxCell id="_QKJnuBZFZYAtPWagnWn-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QKJnuBZFZYAtPWagnWn-7" target="fhd3ApPWQCLLSxzIitRz-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="670" as="targetPoint" />
+            <mxPoint x="300" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_QKJnuBZFZYAtPWagnWn-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QKJnuBZFZYAtPWagnWn-7" target="_QKJnuBZFZYAtPWagnWn-13">
@@ -702,7 +702,7 @@
           <mxGeometry x="160" y="500" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_QKJnuBZFZYAtPWagnWn-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="490" y="430" width="320" height="200" as="geometry" />
+          <mxGeometry x="580" y="430" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="_QKJnuBZFZYAtPWagnWn-9" value="&lt;div&gt;&lt;span style=&quot;color: rgb(255, 153, 153);&quot;&gt;com.pudutech.business.function&lt;/span&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;com.pudutech.resource.manager.service&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.business.cruise&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.function&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.delivery&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;com.pudutech.usher&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.ad.service&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.ad.marketing&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.solicit&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&amp;nbsp; &amp;nbsp; com.pudutech.recycle&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_QKJnuBZFZYAtPWagnWn-8">
           <mxGeometry y="30" width="320" height="170" as="geometry" />
@@ -716,14 +716,13 @@
         <mxCell id="_QKJnuBZFZYAtPWagnWn-13" value="机器Reboot" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_QKJnuBZFZYAtPWagnWn-15" value="特殊包检测（如Mir的包）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="700" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fhd3ApPWQCLLSxzIitRz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fhd3ApPWQCLLSxzIitRz-14" target="_QKJnuBZFZYAtPWagnWn-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fhd3ApPWQCLLSxzIitRz-14" target="fhd3ApPWQCLLSxzIitRz-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fhd3ApPWQCLLSxzIitRz-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="470" y="719" width="480" height="607.5" as="geometry" />
+          <mxGeometry x="510" y="719" width="480" height="607.5" as="geometry" />
         </mxCell>
         <mxCell id="_QKJnuBZFZYAtPWagnWn-16" value="HLS" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="fhd3ApPWQCLLSxzIitRz-16">
           <mxGeometry y="22.5" width="120" height="30" as="geometry" />
@@ -799,6 +798,9 @@
         </mxCell>
         <mxCell id="fhd3ApPWQCLLSxzIitRz-14" value="Package &amp;amp; Activity（Old）" style="whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="fhd3ApPWQCLLSxzIitRz-16">
           <mxGeometry width="480" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-17" value="是否包含P1包 || 机器人类型是否未知" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="685.25" width="280" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
