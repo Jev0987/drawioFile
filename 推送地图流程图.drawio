@@ -805,8 +805,8 @@
         <mxCell id="fhd3ApPWQCLLSxzIitRz-17" value="是否包含特殊Packages（如Mir）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="685.25" width="280" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fhd3ApPWQCLLSxzIitRz-18" value="关闭对应的Mir包" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="870.25" width="120" height="60" as="geometry" />
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-18" value="关闭对应的 Packages" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="870.25" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
