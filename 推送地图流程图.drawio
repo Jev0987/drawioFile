@@ -372,7 +372,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8jmXDZn3e2YhUjKaHddk" name="第 2 页">
-    <mxGraphModel dx="2187" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2427" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,8 +400,24 @@
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-2" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;判断地图类型：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;如果为marker 或 融合建图&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;检测local_map.data文件&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="350" width="300" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-4" target="TZfEnF6SCCEgrA9Q4AtD-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-370" y="230" />
+              <mxPoint x="-370" y="2530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-4" value="提示：设备未连接" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-6" target="TZfEnF6SCCEgrA9Q4AtD-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-340" y="390" />
+              <mxPoint x="-340" y="2530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-6" value="提示：定位地图不存在" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="360" width="130" height="60" as="geometry" />
@@ -423,6 +439,14 @@
         </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-11" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;检测地图名不为空&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="510" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-13" target="TZfEnF6SCCEgrA9Q4AtD-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-310" y="550" />
+              <mxPoint x="-310" y="2530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-13" value="提示：地图名错误" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="520" width="130" height="60" as="geometry" />
