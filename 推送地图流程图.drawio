@@ -697,6 +697,12 @@
         <mxCell id="YXyN57x2A4RxGTGPTAmp-4" value="判断是否包含P1包" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="480" width="260" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="YXyN57x2A4RxGTGPTAmp-6" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2338" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YXyN57x2A4RxGTGPTAmp-7" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2410" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
