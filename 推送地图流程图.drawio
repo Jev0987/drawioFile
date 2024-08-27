@@ -616,7 +616,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-5" value="类型是否包含特殊包" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-5" value="类型是否包含特殊包&lt;br&gt;如Mir" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="2440" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eCjC6IlgKaSJ1mSuIgiq-9" target="TZfEnF6SCCEgrA9Q4AtD-11" edge="1">
