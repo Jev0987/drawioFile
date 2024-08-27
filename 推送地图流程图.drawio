@@ -442,8 +442,20 @@
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-18" value="激活检测窗口" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="680" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fS2KrUlz_0A_ae1DTlDp-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-20" target="fS2KrUlz_0A_ae1DTlDp-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-20" value="adb 从机器端获取地图配置" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="840" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fS2KrUlz_0A_ae1DTlDp-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-22" target="fS2KrUlz_0A_ae1DTlDp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fS2KrUlz_0A_ae1DTlDp-22" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;解析地图配置&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="980" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fS2KrUlz_0A_ae1DTlDp-26" value="获取机器类型" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1150" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
