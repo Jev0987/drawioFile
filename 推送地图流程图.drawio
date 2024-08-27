@@ -472,8 +472,20 @@
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-1" value="获取临时地图文件" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TZfEnF6SCCEgrA9Q4AtD-3" target="TZfEnF6SCCEgrA9Q4AtD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;判断是否为Vslam&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1550" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TZfEnF6SCCEgrA9Q4AtD-5" target="TZfEnF6SCCEgrA9Q4AtD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-5" value="推送地图" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-7" value="重启" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
