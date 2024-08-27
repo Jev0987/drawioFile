@@ -442,8 +442,8 @@
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-18" value="激活检测窗口" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="680" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fS2KrUlz_0A_ae1DTlDp-20" value="获取地图配置" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="fS2KrUlz_0A_ae1DTlDp-20" value="adb 从机器端获取地图配置" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="840" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
