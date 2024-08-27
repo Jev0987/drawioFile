@@ -434,8 +434,10 @@
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-11" target="fS2KrUlz_0A_ae1DTlDp-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fS2KrUlz_0A_ae1DTlDp-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-11" target="fS2KrUlz_0A_ae1DTlDp-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fS2KrUlz_0A_ae1DTlDp-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-11" target="fS2KrUlz_0A_ae1DTlDp-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-11" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;检测地图名不为空&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="510" width="300" height="80" as="geometry" />
@@ -454,20 +456,16 @@
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-15" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="460" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fS2KrUlz_0A_ae1DTlDp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-16" target="fS2KrUlz_0A_ae1DTlDp-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fS2KrUlz_0A_ae1DTlDp-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-16" target="fS2KrUlz_0A_ae1DTlDp-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fS2KrUlz_0A_ae1DTlDp-16" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;地图检测&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="670" width="300" height="80" as="geometry" />
+        <mxCell id="fS2KrUlz_0A_ae1DTlDp-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="fS2KrUlz_0A_ae1DTlDp-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="750" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-18" target="TZfEnF6SCCEgrA9Q4AtD-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-18" value="激活检测窗口" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="680" width="130" height="60" as="geometry" />
+          <mxGeometry x="135" y="690" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-20" target="fS2KrUlz_0A_ae1DTlDp-22">
           <mxGeometry relative="1" as="geometry" />
@@ -573,16 +571,16 @@
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZfEnF6SCCEgrA9Q4AtD-30" target="TZfEnF6SCCEgrA9Q4AtD-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-290" y="850" />
+              <mxPoint x="-290" y="720" />
               <mxPoint x="-290" y="2530" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-30" value="检测地图" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="810" width="150" height="80" as="geometry" />
+          <mxGeometry x="-260" y="680" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-33" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="820" width="50" height="30" as="geometry" />
+          <mxGeometry x="-300" y="680" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
