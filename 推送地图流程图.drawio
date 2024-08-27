@@ -463,6 +463,9 @@
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-16" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;地图检测&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="670" width="300" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-18" target="TZfEnF6SCCEgrA9Q4AtD-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-18" value="激活检测窗口" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="680" width="130" height="60" as="geometry" />
         </mxCell>
@@ -566,6 +569,9 @@
         </mxCell>
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-21" value="错误提示" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-30" value="检测地图" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="810" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
