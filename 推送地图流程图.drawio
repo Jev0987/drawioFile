@@ -377,7 +377,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="2250" width="550" height="570" as="geometry" />
+          <mxGeometry x="-150" y="2250" width="550" height="620" as="geometry" />
         </mxCell>
         <mxCell id="0hSTjjZpf9hpeh2Vm6aB-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5CCVsGOaj2jeLiCi_tRD-2" target="0hSTjjZpf9hpeh2Vm6aB-1">
           <mxGeometry relative="1" as="geometry" />
@@ -612,7 +612,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint y="2500" />
-              <mxPoint y="2770" />
+              <mxPoint y="2820" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -625,9 +625,6 @@
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-9" value="机器 Reboot" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="2650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eCjC6IlgKaSJ1mSuIgiq-12" target="eCjC6IlgKaSJ1mSuIgiq-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-12" value="关闭对应Mir包" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="2600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -635,16 +632,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-14" value="关闭PuduOS 包" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="2740" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="2790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-17" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2438" width="50" height="30" as="geometry" />
+          <mxGeometry x="30" y="2460" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-18" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="2530" width="50" height="30" as="geometry" />
+          <mxGeometry x="150" y="2560" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-22" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;重启&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-130" y="2260" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-23" value="打开对应Mir包" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
