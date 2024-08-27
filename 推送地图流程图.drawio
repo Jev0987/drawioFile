@@ -681,8 +681,8 @@
         <mxCell id="_QKJnuBZFZYAtPWagnWn-2" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_QKJnuBZFZYAtPWagnWn-3" value="机器重启" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="235" y="130" width="130" height="50" as="geometry" />
+        <mxCell id="_QKJnuBZFZYAtPWagnWn-3" value="机器重启&lt;br&gt;adbRebootDev()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=35;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_QKJnuBZFZYAtPWagnWn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QKJnuBZFZYAtPWagnWn-5" target="_QKJnuBZFZYAtPWagnWn-7">
           <mxGeometry relative="1" as="geometry" />
