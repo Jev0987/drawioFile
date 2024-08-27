@@ -671,7 +671,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_izmaht-1rYfHVptjg2l" name="重启细节">
-    <mxGraphModel dx="2787" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2949" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -732,37 +732,40 @@
           <mxGeometry x="-790" y="940" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1czmdbVcQHEAjGy8qnpR-3" value="NINE_TALES" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="900" width="120" height="30" as="geometry" />
+          <mxGeometry x="-910" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1czmdbVcQHEAjGy8qnpR-4" value="PEANUT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="900" width="120" height="30" as="geometry" />
+          <mxGeometry x="-910" y="1220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1czmdbVcQHEAjGy8qnpR-6" value="FIREFOX" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="900" width="120" height="30" as="geometry" />
+          <mxGeometry x="33" y="1280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1czmdbVcQHEAjGy8qnpR-7" value="PHOENIX" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="900" width="120" height="30" as="geometry" />
+          <mxGeometry x="183" y="1280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1czmdbVcQHEAjGy8qnpR-8" value="PHOENIX" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="900" width="120" height="30" as="geometry" />
+          <mxGeometry x="333" y="1280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NAa3J_kZes8bcesXb64L-1" value="&lt;div&gt;package = &quot;com.pudutech.launcher&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;activity = &quot;com.pudutech.launcher.ui.activity.MainActivity&quot;;&lt;br&gt;&quot;com.pudutech.hls2robot&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="1000" width="340" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IvkN7gtttOr_7742tlqG-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="157" y="910" width="330" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1czmdbVcQHEAjGy8qnpR-2" value="RECYCLE_DOG" style="whiteSpace=wrap;html=1;" vertex="1" parent="IvkN7gtttOr_7742tlqG-2">
-          <mxGeometry width="330" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IvkN7gtttOr_7742tlqG-1" value="&lt;div&gt;package = &quot;com.pudutech.recycle.robot&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.recycle.robot.home.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="IvkN7gtttOr_7742tlqG-2">
-          <mxGeometry y="30" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1czmdbVcQHEAjGy8qnpR-1" value="BELLA_BOT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-910" y="1060" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P2CTBqYUyA3zxWY87Lu2-2" value="&lt;div&gt;package = &quot;com.pudutech.bumblebee&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.bumblebee.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="1060" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IvkN7gtttOr_7742tlqG-1" value="&lt;div&gt;package = &quot;com.pudutech.recycle.robot&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.recycle.robot.home.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="1110" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1czmdbVcQHEAjGy8qnpR-2" value="RECYCLE_DOG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="1110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oEKFKSKlLOjAkO4I32UQ-1" value="&lt;div&gt;package = &quot;com.pudutech.robot.ninetails&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.disinfect.fox.view.MainActivity&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="1160" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSa0e9wo5qUGB57H6srO-1" value="&lt;div&gt;package = &quot;com.pudutech.robot.peanut&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; activity = &quot;com.pudutech.peanut.Welcome&quot;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="1220" width="340" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
