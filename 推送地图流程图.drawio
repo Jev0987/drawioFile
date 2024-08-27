@@ -799,7 +799,7 @@
         <mxCell id="fhd3ApPWQCLLSxzIitRz-14" value="Package &amp;amp; Activity（Old）" style="whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="fhd3ApPWQCLLSxzIitRz-16">
           <mxGeometry width="480" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="fhd3ApPWQCLLSxzIitRz-17" value="是否包含P1包 || 机器人类型是否未知" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-17" value="是否包含特殊包（如Mir）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="685.25" width="280" height="90" as="geometry" />
         </mxCell>
       </root>
