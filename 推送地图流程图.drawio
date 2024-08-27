@@ -616,7 +616,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-5" value="框架是否为Mir" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="eCjC6IlgKaSJ1mSuIgiq-5" value="框架是否有" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="2440" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eCjC6IlgKaSJ1mSuIgiq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eCjC6IlgKaSJ1mSuIgiq-9" target="TZfEnF6SCCEgrA9Q4AtD-11" edge="1">
@@ -805,8 +805,8 @@
         <mxCell id="fhd3ApPWQCLLSxzIitRz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fhd3ApPWQCLLSxzIitRz-17" target="fhd3ApPWQCLLSxzIitRz-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fhd3ApPWQCLLSxzIitRz-17" value="是否包含特殊Packages（如Mir）&lt;br&gt;设置 package 和 activity变量" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="685.25" width="280" height="90" as="geometry" />
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-17" value="类型是否包含特殊Packages（如Mir）&lt;br&gt;设置 package 和 activity变量" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="685.25" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fhd3ApPWQCLLSxzIitRz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fhd3ApPWQCLLSxzIitRz-18" target="fhd3ApPWQCLLSxzIitRz-20">
           <mxGeometry relative="1" as="geometry" />
