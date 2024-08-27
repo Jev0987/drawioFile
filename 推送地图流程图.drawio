@@ -791,7 +791,7 @@
         <mxCell id="fhd3ApPWQCLLSxzIitRz-12" value="Unknow_Robot" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="470" y="835" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fhd3ApPWQCLLSxzIitRz-14" value="Package &amp;amp; Activity" style="whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="fhd3ApPWQCLLSxzIitRz-14" value="Package &amp;amp; Activity（Old）" style="whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="470" y="662.5" width="480" height="22.5" as="geometry" />
         </mxCell>
       </root>
