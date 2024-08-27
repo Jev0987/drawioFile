@@ -590,6 +590,9 @@
         <mxCell id="TZfEnF6SCCEgrA9Q4AtD-40" value="地图配置信息解析失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-135" y="990" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-41" value="地图名为空" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
