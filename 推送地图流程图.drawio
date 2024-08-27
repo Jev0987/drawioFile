@@ -460,8 +460,14 @@
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-26" value="获取机器类型" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="1150" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fS2KrUlz_0A_ae1DTlDp-28" target="TZfEnF6SCCEgrA9Q4AtD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fS2KrUlz_0A_ae1DTlDp-28" value="增加版本号" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZfEnF6SCCEgrA9Q4AtD-1" value="获取临时地图文件" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
