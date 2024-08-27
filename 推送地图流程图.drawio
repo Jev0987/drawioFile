@@ -714,9 +714,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_QKJnuBZFZYAtPWagnWn-13" value="机器Reboot" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="515" width="120" height="60" as="geometry" />
+          <mxGeometry x="-170" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_QKJnuBZFZYAtPWagnWn-15" value="特殊包检测（如Mir）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_QKJnuBZFZYAtPWagnWn-15" value="特殊包检测（如Mir的包）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="700" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
