@@ -841,7 +841,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aKr_8xkVZCUVUmeo0GcN-5" value="adb shell am force-stop + packageName" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aKr_8xkVZCUVUmeo0GcN-5" value="adb shell am force-stop + packageName" style="whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="180" y="1272.75" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
