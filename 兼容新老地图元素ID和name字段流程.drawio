@@ -46,8 +46,14 @@
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-11" value="加载地图文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0mVLWJtBHGWq4rqNhBsn-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0mVLWJtBHGWq4rqNhBsn-14" target="0mVLWJtBHGWq4rqNhBsn-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-14" value="展示地图元素" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="590" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0mVLWJtBHGWq4rqNhBsn-17" value="优先展示Name字段" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="740" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
