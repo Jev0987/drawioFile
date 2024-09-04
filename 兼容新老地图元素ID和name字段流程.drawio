@@ -52,14 +52,26 @@
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-14" value="展示地图元素" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="590" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0mVLWJtBHGWq4rqNhBsn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0mVLWJtBHGWq4rqNhBsn-17" target="0mVLWJtBHGWq4rqNhBsn-19">
+        <mxCell id="VlWt8vWi1kNDPKvYOk3Q-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0mVLWJtBHGWq4rqNhBsn-17" target="VlWt8vWi1kNDPKvYOk3Q-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-17" value="优先展示Name字段" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="740" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0mVLWJtBHGWq4rqNhBsn-19" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="885" width="80" height="80" as="geometry" />
+        <mxCell id="VlWt8vWi1kNDPKvYOk3Q-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VlWt8vWi1kNDPKvYOk3Q-1" target="VlWt8vWi1kNDPKvYOk3Q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VlWt8vWi1kNDPKvYOk3Q-1" value="保存地图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="890" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VlWt8vWi1kNDPKvYOk3Q-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VlWt8vWi1kNDPKvYOk3Q-3" target="VlWt8vWi1kNDPKvYOk3Q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VlWt8vWi1kNDPKvYOk3Q-3" value="分别保存ID和name值" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1040" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VlWt8vWi1kNDPKvYOk3Q-5" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1185" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -69,8 +81,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="c8AF4KP7w588mM3A0AQD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5AE7SjxUp83mInxWvdfV-1" target="c8AF4KP7w588mM3A0AQD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5AE7SjxUp83mInxWvdfV-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c8AF4KP7w588mM3A0AQD-1" value="加载地图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
