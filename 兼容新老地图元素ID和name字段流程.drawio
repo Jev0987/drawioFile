@@ -16,8 +16,8 @@
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0mVLWJtBHGWq4rqNhBsn-2" target="0mVLWJtBHGWq4rqNhBsn-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0mVLWJtBHGWq4rqNhBsn-2" value="是否存在Name字段" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="270" width="140" height="80" as="geometry" />
+        <mxCell id="0mVLWJtBHGWq4rqNhBsn-2" value="元素是否存在Name字段" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="270" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-4" value="将Name字段属性保存到地图元素name属性中" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
