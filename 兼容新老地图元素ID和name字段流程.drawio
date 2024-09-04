@@ -20,16 +20,16 @@
           <mxGeometry x="20" y="270" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-4" value="将Name字段属性保存到地图元素name属性中" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="35" y="440" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-6" value="将ID字段保存到地图元素name字段中" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="440" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-8" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="95" y="368" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-9" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="368" width="50" height="30" as="geometry" />
+          <mxGeometry x="310" y="368" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0mVLWJtBHGWq4rqNhBsn-1" target="0mVLWJtBHGWq4rqNhBsn-11">
           <mxGeometry relative="1" as="geometry">
