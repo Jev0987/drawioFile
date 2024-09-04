@@ -52,8 +52,14 @@
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-14" value="展示地图元素" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="590" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="0mVLWJtBHGWq4rqNhBsn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0mVLWJtBHGWq4rqNhBsn-17" target="0mVLWJtBHGWq4rqNhBsn-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0mVLWJtBHGWq4rqNhBsn-17" value="优先展示Name字段" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="740" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0mVLWJtBHGWq4rqNhBsn-19" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="885" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
