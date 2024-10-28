@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.2" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.2" pages="5">
   <diagram name="本地加载地图" id="21pIOhqoUn6YtNJkunBh">
     <mxGraphModel dx="1372" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,6 +253,73 @@
         </mxCell>
         <mxCell id="MeCn73DxWFksL5hshvoS-12" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="510" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dpuwQpQz_ptESyFLUgIf" name="楼层切换流程图">
+    <mxGraphModel dx="1372" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lq5Afeo7FkrvQ-4_vcoP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lq5Afeo7FkrvQ-4_vcoP-1" target="Lq5Afeo7FkrvQ-4_vcoP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lq5Afeo7FkrvQ-4_vcoP-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lq5Afeo7FkrvQ-4_vcoP-2" target="K0u31zfeZ-Oqdk1TJH08-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lq5Afeo7FkrvQ-4_vcoP-2" value="楼层列表选择楼层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K0u31zfeZ-Oqdk1TJH08-1" target="K0u31zfeZ-Oqdk1TJH08-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K0u31zfeZ-Oqdk1TJH08-1" target="K0u31zfeZ-Oqdk1TJH08-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="420" />
+              <mxPoint x="180" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-1" value="当前编辑地图是否满足保存要求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K0u31zfeZ-Oqdk1TJH08-3" target="K0u31zfeZ-Oqdk1TJH08-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-3" value="切换楼层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K0u31zfeZ-Oqdk1TJH08-5" target="K0u31zfeZ-Oqdk1TJH08-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-5" value="更新地图列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K0u31zfeZ-Oqdk1TJH08-7" target="K0u31zfeZ-Oqdk1TJH08-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-7" value="选择第一张地图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K0u31zfeZ-Oqdk1TJH08-9" target="K0u31zfeZ-Oqdk1TJH08-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-9" value="加载地图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-11" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-14" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="390" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K0u31zfeZ-Oqdk1TJH08-15" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
