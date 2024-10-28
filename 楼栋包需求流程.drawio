@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.2">
-  <diagram name="第 1 页" id="21pIOhqoUn6YtNJkunBh">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.2" pages="3">
+  <diagram name="本地加载地图" id="21pIOhqoUn6YtNJkunBh">
     <mxGraphModel dx="1372" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -64,6 +64,108 @@
         </mxCell>
         <mxCell id="QpjN1oKr_bKPc7fg7TZF-18" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="480" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YBCiOaACl1xm9Qx4zoF1" name="本地保存地图">
+    <mxGraphModel dx="1372" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O6KsP-pKYbqvjlbfPQ1W-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O6KsP-pKYbqvjlbfPQ1W-1" target="O6KsP-pKYbqvjlbfPQ1W-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O6KsP-pKYbqvjlbfPQ1W-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O6KsP-pKYbqvjlbfPQ1W-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O6KsP-pKYbqvjlbfPQ1W-3" target="O6KsP-pKYbqvjlbfPQ1W-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O6KsP-pKYbqvjlbfPQ1W-3" value="检查当前地图是否符合保存要求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O6KsP-pKYbqvjlbfPQ1W-5" value="保存地图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cdfoBslDkGl4lhEVSNaR" name="第 3 页">
+    <mxGraphModel dx="1372" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgcvoyqdQPeJ0wDIb2Am-1" target="BgcvoyqdQPeJ0wDIb2Am-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgcvoyqdQPeJ0wDIb2Am-2" target="BgcvoyqdQPeJ0wDIb2Am-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-2" value="选择楼栋" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgcvoyqdQPeJ0wDIb2Am-4" target="BgcvoyqdQPeJ0wDIb2Am-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgcvoyqdQPeJ0wDIb2Am-4" target="BgcvoyqdQPeJ0wDIb2Am-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="430" />
+              <mxPoint x="180" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-4" value="检查当前地图编辑是否符合要求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgcvoyqdQPeJ0wDIb2Am-6" target="BgcvoyqdQPeJ0wDIb2Am-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-6" value="切换楼栋" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgcvoyqdQPeJ0wDIb2Am-8" target="BgcvoyqdQPeJ0wDIb2Am-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-8" value="选择楼层index最小的楼层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgcvoyqdQPeJ0wDIb2Am-10" target="BgcvoyqdQPeJ0wDIb2Am-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-10" value="更新地图列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgcvoyqdQPeJ0wDIb2Am-13" target="BgcvoyqdQPeJ0wDIb2Am-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-13" value="更新楼层列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgcvoyqdQPeJ0wDIb2Am-16" target="BgcvoyqdQPeJ0wDIb2Am-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-16" value="自动切换地图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgcvoyqdQPeJ0wDIb2Am-18" target="BgcvoyqdQPeJ0wDIb2Am-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-18" value="加载地图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-20" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-23" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgcvoyqdQPeJ0wDIb2Am-24" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
