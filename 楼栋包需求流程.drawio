@@ -18,8 +18,20 @@
         <mxCell id="QpjN1oKr_bKPc7fg7TZF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QpjN1oKr_bKPc7fg7TZF-3" target="QpjN1oKr_bKPc7fg7TZF-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QpjN1oKr_bKPc7fg7TZF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QpjN1oKr_bKPc7fg7TZF-3" target="QpjN1oKr_bKPc7fg7TZF-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="430" />
+              <mxPoint x="160" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QpjN1oKr_bKPc7fg7TZF-3" value="后缀名是否为 pdmaps" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="390" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QpjN1oKr_bKPc7fg7TZF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QpjN1oKr_bKPc7fg7TZF-5" target="QpjN1oKr_bKPc7fg7TZF-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QpjN1oKr_bKPc7fg7TZF-5" value="加载默认楼栋最低楼层首张地图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="525" width="120" height="60" as="geometry" />
@@ -27,8 +39,31 @@
         <mxCell id="QpjN1oKr_bKPc7fg7TZF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QpjN1oKr_bKPc7fg7TZF-7" target="QpjN1oKr_bKPc7fg7TZF-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QpjN1oKr_bKPc7fg7TZF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QpjN1oKr_bKPc7fg7TZF-7" target="QpjN1oKr_bKPc7fg7TZF-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="280" />
+              <mxPoint x="160" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QpjN1oKr_bKPc7fg7TZF-7" value="当前地图编辑是否符合要求" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QpjN1oKr_bKPc7fg7TZF-11" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QpjN1oKr_bKPc7fg7TZF-15" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="248" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QpjN1oKr_bKPc7fg7TZF-16" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QpjN1oKr_bKPc7fg7TZF-17" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QpjN1oKr_bKPc7fg7TZF-18" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
