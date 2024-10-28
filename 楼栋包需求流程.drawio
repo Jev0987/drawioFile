@@ -79,14 +79,52 @@
         <mxCell id="O6KsP-pKYbqvjlbfPQ1W-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O6KsP-pKYbqvjlbfPQ1W-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O6KsP-pKYbqvjlbfPQ1W-3" target="O6KsP-pKYbqvjlbfPQ1W-5">
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O6KsP-pKYbqvjlbfPQ1W-3" target="kqCIG4IPlrkuo8xuzRRU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O6KsP-pKYbqvjlbfPQ1W-3" value="检查当前地图是否符合保存要求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="220" width="240" height="80" as="geometry" />
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O6KsP-pKYbqvjlbfPQ1W-3" target="kqCIG4IPlrkuo8xuzRRU-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="270" />
+              <mxPoint x="230" y="980" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="O6KsP-pKYbqvjlbfPQ1W-5" value="保存地图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="O6KsP-pKYbqvjlbfPQ1W-3" value="检查当前地图是否符合保存要求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqCIG4IPlrkuo8xuzRRU-1" target="kqCIG4IPlrkuo8xuzRRU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-1" value="当前地图版本号加一" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqCIG4IPlrkuo8xuzRRU-3" target="kqCIG4IPlrkuo8xuzRRU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-3" value="保存当前地图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqCIG4IPlrkuo8xuzRRU-5" target="kqCIG4IPlrkuo8xuzRRU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-5" value="楼栋包版本号加一" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqCIG4IPlrkuo8xuzRRU-7" target="kqCIG4IPlrkuo8xuzRRU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-7" value="保存楼栋包" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-9" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-12" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kqCIG4IPlrkuo8xuzRRU-13" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="340" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
