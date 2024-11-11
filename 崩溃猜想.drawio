@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="2">
   <diagram name="第 1 页" id="Ks2vNZVqEzAdOs3WgrEU">
     <mxGraphModel dx="2198" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,6 +192,41 @@
         </mxCell>
         <mxCell id="r0TrouKlHz-d5kefhsSM-122" value="&lt;b&gt;sustain calling&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="216" y="1240" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9qABfqR-GGxg2OAT9M72" name="卡顿处理">
+    <mxGraphModel dx="2188" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ntepx4QlCzlT3IgtJoS-1" target="9ntepx4QlCzlT3IgtJoS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-1" value="主线程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ntepx4QlCzlT3IgtJoS-3" target="9ntepx4QlCzlT3IgtJoS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-3" value="子线程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ntepx4QlCzlT3IgtJoS-4" target="9ntepx4QlCzlT3IgtJoS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ntepx4QlCzlT3IgtJoS-4" target="9ntepx4QlCzlT3IgtJoS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-4" value="内存数据&lt;br&gt;格式map数据的类" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-5" value="磁盘数据&lt;br&gt;ATLAS_DATA，&lt;div&gt;Config.json&lt;br&gt;等等&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-11" value="lock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="30" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
