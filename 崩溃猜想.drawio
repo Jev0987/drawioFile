@@ -246,7 +246,7 @@
           <mxGeometry x="670" y="260" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-11" value="lock" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="160" y="220" width="30" height="270" as="geometry" />
+          <mxGeometry x="190" y="220" width="30" height="270" as="geometry" />
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-15" value="写" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="263" width="40" height="30" as="geometry" />
@@ -261,7 +261,7 @@
           <mxGeometry x="590" y="225" width="30" height="270" as="geometry" />
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-22" value="互斥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="500" width="50" height="30" as="geometry" />
+          <mxGeometry x="180" y="495" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-23" value="互斥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="500" width="50" height="30" as="geometry" />
@@ -277,6 +277,9 @@
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-28" value="手动加载地图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="895" y="308" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-29" value="读" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="395" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
