@@ -207,11 +207,13 @@
         <mxCell id="9ntepx4QlCzlT3IgtJoS-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-40" y="250" width="940" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9ntepx4QlCzlT3IgtJoS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ntepx4QlCzlT3IgtJoS-1" target="9ntepx4QlCzlT3IgtJoS-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ntepx4QlCzlT3IgtJoS-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="302" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-1" value="主线程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="-10" y="272" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9ntepx4QlCzlT3IgtJoS-3" target="9ntepx4QlCzlT3IgtJoS-4">
           <mxGeometry relative="1" as="geometry" />
