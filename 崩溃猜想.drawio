@@ -248,14 +248,14 @@
         <mxCell id="9ntepx4QlCzlT3IgtJoS-11" value="lock" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="30" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="9ntepx4QlCzlT3IgtJoS-15" value="写" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="263" width="40" height="30" as="geometry" />
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-15" value="写磁盘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="263" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9ntepx4QlCzlT3IgtJoS-16" value="写" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="425" width="40" height="30" as="geometry" />
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-16" value="写磁盘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="425" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9ntepx4QlCzlT3IgtJoS-17" value="读（写内存）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="290" width="100" height="30" as="geometry" />
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-17" value="读磁盘（写内存）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-21" value="lock" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="590" y="225" width="30" height="270" as="geometry" />
