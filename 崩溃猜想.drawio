@@ -302,11 +302,17 @@
         <mxCell id="9ntepx4QlCzlT3IgtJoS-34" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;保存地图：增加子线程自动保存地图&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="-40" y="150" width="330" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ntepx4QlCzlT3IgtJoS-35" target="9ntepx4QlCzlT3IgtJoS-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-35" value="内存数据&lt;br&gt;格式map数据的类" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1110" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-36" value="磁盘数据&lt;br&gt;ATLAS_DATA，&lt;div&gt;Config.json&lt;br&gt;等等&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1110" width="170" height="200" as="geometry" />
+          <mxGeometry x="680" y="1110" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-38" value="读" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="481" y="1130" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
