@@ -299,6 +299,9 @@
         <mxCell id="9ntepx4QlCzlT3IgtJoS-33" value="&lt;b&gt;lock&lt;br&gt;互斥，条件变量&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-34" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;保存地图：增加子线程自动保存地图&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="133" width="330" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
