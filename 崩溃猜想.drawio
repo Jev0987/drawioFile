@@ -255,7 +255,7 @@
           <mxGeometry x="520" y="425" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-17" value="读磁盘（写内存）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="290" width="120" height="30" as="geometry" />
+          <mxGeometry x="481" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-21" value="lock" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="590" y="225" width="30" height="270" as="geometry" />
