@@ -315,10 +315,10 @@
           <mxGeometry x="610" y="1110" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-38" value="读内存（写磁盘）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="441" y="1130" width="120" height="30" as="geometry" />
+          <mxGeometry x="430" y="1130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ntepx4QlCzlT3IgtJoS-40" value="写内存（读磁盘）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1228" width="120" height="30" as="geometry" />
+          <mxGeometry x="430" y="1228" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
