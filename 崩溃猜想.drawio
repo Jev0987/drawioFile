@@ -338,6 +338,9 @@
         <mxCell id="9ntepx4QlCzlT3IgtJoS-47" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;加载数据&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="110" y="1228" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9ntepx4QlCzlT3IgtJoS-48" value="&lt;b&gt;思路：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1368" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
