@@ -68,7 +68,7 @@
             <mxPoint x="880" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Vlq0JMDtf_6G-V6ymi-20" value="创建Task文件夹" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="k0Vlq0JMDtf_6G-V6ymi-17">
+        <mxCell id="k0Vlq0JMDtf_6G-V6ymi-20" value="创建&lt;span style=&quot;text-align: start;&quot;&gt;Task/yyyymmddhhmmss&lt;/span&gt;文件夹" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="k0Vlq0JMDtf_6G-V6ymi-17">
           <mxGeometry x="-0.0968" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
