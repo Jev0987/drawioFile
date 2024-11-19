@@ -150,7 +150,7 @@
             <mxPoint x="885" y="611" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ckqML_brWiu0RytEoYa-15" value="&lt;div style=&quot;text-align: start; font-size: 13px;&quot;&gt;handler setMapSavePath&lt;br style=&quot;font-size: 13px;&quot;&gt;yyyymmddhhmmss/output&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-14">
+        <mxCell id="4ckqML_brWiu0RytEoYa-15" value="&lt;div style=&quot;text-align: start; font-size: 13px;&quot;&gt;&lt;b&gt;&lt;u&gt;handler&lt;/u&gt;&lt;/b&gt; setMapSavePath&lt;br style=&quot;font-size: 13px;&quot;&gt;yyyymmddhhmmss/output&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-14">
           <mxGeometry x="-0.0968" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -161,7 +161,7 @@
             <mxPoint x="885" y="701" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ckqML_brWiu0RytEoYa-19" value="&lt;div style=&quot;text-align: start; font-size: 13px;&quot;&gt;handler startMapping(config.json)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-18">
+        <mxCell id="4ckqML_brWiu0RytEoYa-19" value="&lt;div style=&quot;text-align: start; font-size: 13px;&quot;&gt;&lt;b&gt;&lt;u&gt;handler&lt;/u&gt;&lt;/b&gt; startMapping(config.json)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-18">
           <mxGeometry x="-0.0968" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
