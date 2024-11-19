@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4ckqML_brWiu0RytEoYa-9" value="Vslam PC Mapping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=39;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="110" width="360" height="60" as="geometry" />
+          <mxGeometry x="40" y="130" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ckqML_brWiu0RytEoYa-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
