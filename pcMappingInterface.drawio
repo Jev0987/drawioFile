@@ -37,10 +37,10 @@
           <mxGeometry x="530" y="301" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k0Vlq0JMDtf_6G-V6ymi-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="340" width="30" height="500" as="geometry" />
+          <mxGeometry x="50" y="340" width="30" height="580" as="geometry" />
         </mxCell>
         <mxCell id="k0Vlq0JMDtf_6G-V6ymi-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="340" width="30" height="500" as="geometry" />
+          <mxGeometry x="545" y="340" width="30" height="610" as="geometry" />
         </mxCell>
         <mxCell id="k0Vlq0JMDtf_6G-V6ymi-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -117,10 +117,10 @@
             <mxPoint x="-64" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ckqML_brWiu0RytEoYa-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k0Vlq0JMDtf_6G-V6ymi-7" target="k0Vlq0JMDtf_6G-V6ymi-7">
+        <mxCell id="4ckqML_brWiu0RytEoYa-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.067;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k0Vlq0JMDtf_6G-V6ymi-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="600" as="sourcePoint" />
-            <mxPoint x="660" y="670" as="targetPoint" />
+            <mxPoint x="577" y="640" as="targetPoint" />
             <Array as="points">
               <mxPoint x="660" y="590" />
               <mxPoint x="660" y="640" />
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="4ckqML_brWiu0RytEoYa-8" value="handler set files" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="600" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ckqML_brWiu0RytEoYa-9" value="Vslam PC Mapping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=39;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
