@@ -48,7 +48,7 @@
             <mxPoint x="545" y="361.00000000000045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Vlq0JMDtf_6G-V6ymi-9" value="createTask" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="k0Vlq0JMDtf_6G-V6ymi-8">
+        <mxCell id="k0Vlq0JMDtf_6G-V6ymi-9" value="createTask&lt;br&gt;创建任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="k0Vlq0JMDtf_6G-V6ymi-8">
           <mxGeometry x="0.1785" y="-4" relative="1" as="geometry">
             <mxPoint x="-64" y="-4" as="offset" />
           </mxGeometry>
@@ -90,7 +90,7 @@
             <mxPoint x="545" y="490.00000000000045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ckqML_brWiu0RytEoYa-2" value="sendConfigFiles" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-1">
+        <mxCell id="4ckqML_brWiu0RytEoYa-2" value="sendConfigFiles&lt;br&gt;发送配置文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-1">
           <mxGeometry x="0.1785" y="-4" relative="1" as="geometry">
             <mxPoint x="-64" y="-4" as="offset" />
           </mxGeometry>
@@ -112,7 +112,7 @@
             <mxPoint x="545" y="570.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ckqML_brWiu0RytEoYa-6" value="initMapping" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-5">
+        <mxCell id="4ckqML_brWiu0RytEoYa-6" value="initMapping&lt;br&gt;初始化建图" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-5">
           <mxGeometry x="0.1785" y="-4" relative="1" as="geometry">
             <mxPoint x="-64" y="-4" as="offset" />
           </mxGeometry>
@@ -126,7 +126,7 @@
             <mxPoint x="545" y="660.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ckqML_brWiu0RytEoYa-11" value="startMapping" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-10">
+        <mxCell id="4ckqML_brWiu0RytEoYa-11" value="startMapping&lt;br&gt;开始建图" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-10">
           <mxGeometry x="0.1785" y="-4" relative="1" as="geometry">
             <mxPoint x="-64" y="-4" as="offset" />
           </mxGeometry>
@@ -183,7 +183,7 @@
             <mxPoint x="545" y="740.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ckqML_brWiu0RytEoYa-23" value="return2ori" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-22">
+        <mxCell id="4ckqML_brWiu0RytEoYa-23" value="return2ori&lt;br&gt;检查机器当前是否返回原点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-22">
           <mxGeometry x="0.1785" y="-4" relative="1" as="geometry">
             <mxPoint x="-64" y="-4" as="offset" />
           </mxGeometry>
