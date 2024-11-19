@@ -117,21 +117,43 @@
             <mxPoint x="-64" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ckqML_brWiu0RytEoYa-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4ckqML_brWiu0RytEoYa-9" value="Vslam PC Mapping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=39;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ckqML_brWiu0RytEoYa-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="590" as="sourcePoint" />
-            <mxPoint x="577" y="640" as="targetPoint" />
+            <mxPoint x="80" y="660.0000000000002" as="sourcePoint" />
+            <mxPoint x="545" y="660.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ckqML_brWiu0RytEoYa-11" value="startMapping" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-10">
+          <mxGeometry x="0.1785" y="-4" relative="1" as="geometry">
+            <mxPoint x="-64" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ckqML_brWiu0RytEoYa-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="578" y="755" as="sourcePoint" />
+            <mxPoint x="575" y="805" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="660" y="590" />
-              <mxPoint x="660" y="640" />
+              <mxPoint x="658" y="755" />
+              <mxPoint x="658" y="805" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ckqML_brWiu0RytEoYa-8" value="&lt;b&gt;&lt;u&gt;handler &lt;/u&gt;&lt;/b&gt;&lt;br&gt;setMapSavePath&lt;br&gt;setConfigPath" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="585" width="110" height="60" as="geometry" />
+        <mxCell id="4ckqML_brWiu0RytEoYa-13" value="&lt;b&gt;&lt;u&gt;handler &lt;/u&gt;&lt;/b&gt;&lt;br&gt;setMapSavePath&lt;br&gt;setConfigPath" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="658" y="750" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4ckqML_brWiu0RytEoYa-9" value="Vslam PC Mapping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=39;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="110" width="360" height="60" as="geometry" />
+        <mxCell id="4ckqML_brWiu0RytEoYa-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="610.0000000000002" as="sourcePoint" />
+            <mxPoint x="885" y="611" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ckqML_brWiu0RytEoYa-15" value="&lt;div style=&quot;text-align: start;&quot;&gt;handler setMapSavePath&lt;br&gt;yyyymmddhhmmss/output&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ckqML_brWiu0RytEoYa-14">
+          <mxGeometry x="-0.0968" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
