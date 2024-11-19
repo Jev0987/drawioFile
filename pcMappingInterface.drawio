@@ -25,7 +25,7 @@
             <mxPoint x="545" y="361.00000000000045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Vlq0JMDtf_6G-V6ymi-9" value="建立连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k0Vlq0JMDtf_6G-V6ymi-8">
+        <mxCell id="k0Vlq0JMDtf_6G-V6ymi-9" value="建立任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k0Vlq0JMDtf_6G-V6ymi-8">
           <mxGeometry x="0.1785" y="-4" relative="1" as="geometry">
             <mxPoint x="-64" y="-4" as="offset" />
           </mxGeometry>
