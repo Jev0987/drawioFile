@@ -266,8 +266,8 @@
         </mxCell>
         <mxCell id="Ytn_t58iH6bXp8MgZwX5-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="575" y="1370.0000000000002" as="sourcePoint" />
-            <mxPoint x="885" y="1371" as="targetPoint" />
+            <mxPoint x="575" y="1360.0000000000002" as="sourcePoint" />
+            <mxPoint x="885" y="1361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ytn_t58iH6bXp8MgZwX5-3" value="&lt;div style=&quot;text-align: start; font-size: 13px;&quot;&gt;压缩建图算法生成的文件&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="Ytn_t58iH6bXp8MgZwX5-2">
