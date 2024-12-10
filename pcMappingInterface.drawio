@@ -190,8 +190,8 @@
         </mxCell>
         <mxCell id="4ckqML_brWiu0RytEoYa-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="1140.0000000000002" as="sourcePoint" />
-            <mxPoint x="545" y="1140.0000000000005" as="targetPoint" />
+            <mxPoint x="80" y="1147.0000000000002" as="sourcePoint" />
+            <mxPoint x="545" y="1147.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4ckqML_brWiu0RytEoYa-28" value="finishMapping&lt;br&gt;完成建图" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="4ckqML_brWiu0RytEoYa-27" vertex="1" connectable="0">
@@ -260,6 +260,9 @@
         </mxCell>
         <mxCell id="p80iL86CxDhKg7Fdk6yd-7" value="任务id：&lt;span style=&quot;font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;yyyymmddhhmmss&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="630" y="358" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytn_t58iH6bXp8MgZwX5-1" value="建图进度到100%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1090" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
