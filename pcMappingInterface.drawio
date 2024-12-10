@@ -270,7 +270,7 @@
             <mxPoint x="885" y="1361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ytn_t58iH6bXp8MgZwX5-3" value="&lt;div style=&quot;text-align: start; font-size: 13px;&quot;&gt;压缩建图算法生成的文件&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="Ytn_t58iH6bXp8MgZwX5-2">
+        <mxCell id="Ytn_t58iH6bXp8MgZwX5-3" value="&lt;div style=&quot;text-align: start; font-size: 13px;&quot;&gt;压缩建图算法生成的文件：map.zip&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="Ytn_t58iH6bXp8MgZwX5-2">
           <mxGeometry x="-0.0968" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
