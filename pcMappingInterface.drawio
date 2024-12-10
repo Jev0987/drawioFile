@@ -264,7 +264,7 @@
         <mxCell id="Ytn_t58iH6bXp8MgZwX5-1" value="建图进度到100%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="1090" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ytn_t58iH6bXp8MgZwX5-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Ytn_t58iH6bXp8MgZwX5-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="575" y="1360.0000000000002" as="sourcePoint" />
             <mxPoint x="885" y="1361" as="targetPoint" />
@@ -286,15 +286,15 @@
             <mxPoint x="-64" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ytn_t58iH6bXp8MgZwX5-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="Ytn_t58iH6bXp8MgZwX5-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="575" y="1400.0000000000002" as="sourcePoint" />
-            <mxPoint x="885" y="1401" as="targetPoint" />
+            <mxPoint x="80" y="1390.0000000000002" as="sourcePoint" />
+            <mxPoint x="545" y="1390.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ytn_t58iH6bXp8MgZwX5-7" value="&lt;div style=&quot;text-align: start; font-size: 13px;&quot;&gt;发送map.zip&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="Ytn_t58iH6bXp8MgZwX5-6">
-          <mxGeometry x="-0.0968" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="Ytn_t58iH6bXp8MgZwX5-11" value="返回结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="Ytn_t58iH6bXp8MgZwX5-10">
+          <mxGeometry x="0.1785" y="-4" relative="1" as="geometry">
+            <mxPoint x="-64" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
