@@ -108,7 +108,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="d3CuodKCRkNggR5JecJs-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3CuodKCRkNggR5JecJs-1" target="d3CuodKCRkNggR5JecJs-19">
+        <mxCell id="d3CuodKCRkNggR5JecJs-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1" source="d3CuodKCRkNggR5JecJs-1" target="d3CuodKCRkNggR5JecJs-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d3CuodKCRkNggR5JecJs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -132,13 +132,13 @@
         <mxCell id="d3CuodKCRkNggR5JecJs-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d3CuodKCRkNggR5JecJs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3CuodKCRkNggR5JecJs-7" target="d3CuodKCRkNggR5JecJs-20">
+        <mxCell id="d3CuodKCRkNggR5JecJs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1" source="d3CuodKCRkNggR5JecJs-7" target="d3CuodKCRkNggR5JecJs-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d3CuodKCRkNggR5JecJs-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d3CuodKCRkNggR5JecJs-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3CuodKCRkNggR5JecJs-8" target="d3CuodKCRkNggR5JecJs-14">
+        <mxCell id="d3CuodKCRkNggR5JecJs-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1" source="d3CuodKCRkNggR5JecJs-8" target="d3CuodKCRkNggR5JecJs-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d3CuodKCRkNggR5JecJs-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -168,7 +168,7 @@
         <mxCell id="d3CuodKCRkNggR5JecJs-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d3CuodKCRkNggR5JecJs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3CuodKCRkNggR5JecJs-15" target="d3CuodKCRkNggR5JecJs-1">
+        <mxCell id="d3CuodKCRkNggR5JecJs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=3;" edge="1" parent="1" source="d3CuodKCRkNggR5JecJs-15" target="d3CuodKCRkNggR5JecJs-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d3CuodKCRkNggR5JecJs-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -233,6 +233,9 @@
         </mxCell>
         <mxCell id="d3CuodKCRkNggR5JecJs-46" value="x-&amp;gt;Next(level)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="110" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d3CuodKCRkNggR5JecJs-47" value="例如要第一个大于6的节点，会走 head_ - 4 - 8，完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="75" y="345" width="450" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
