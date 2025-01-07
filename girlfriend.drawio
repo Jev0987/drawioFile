@@ -83,7 +83,16 @@
           <mxGeometry x="585" y="155" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zteYq2BVPjF1BCGbW42e-32" value="&lt;b&gt;请求参数匹配器&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="135" y="65" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zteYq2BVPjF1BCGbW42e-33" value="&lt;b&gt;请求参数匹配器&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="283" y="65" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zteYq2BVPjF1BCGbW42e-34" value="&lt;b&gt;特征匹配器&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="432" y="65" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zteYq2BVPjF1BCGbW42e-35" value="&lt;b&gt;特征匹配器&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="65" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
