@@ -85,7 +85,7 @@
           <mxGeometry x="-50" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wk46AScThqRC2HGDwCB5-19" value="Nvq（Ros）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="685" y="510" width="130" height="40" as="geometry" />
+          <mxGeometry x="685" y="500" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wk46AScThqRC2HGDwCB5-24" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="100" y="300" width="30" height="30" as="geometry" />
