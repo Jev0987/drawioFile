@@ -22,13 +22,13 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-4jCof6aPjSkTJnZPDBR" name="第 3 页">
+  <diagram id="-4jCof6aPjSkTJnZPDBR" name="节点生命管理周期">
     <mxGraphModel dx="995" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H47HiEEcM9cKnSehatXH-1" value="Life Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="390" width="140" height="60" as="geometry" />
+        <mxCell id="H47HiEEcM9cKnSehatXH-1" value="Life Manager : rclcpp:Node" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="450" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
