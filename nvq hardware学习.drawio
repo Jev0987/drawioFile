@@ -27,8 +27,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FEP9kk7LuL_H89eEC1XE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H47HiEEcM9cKnSehatXH-1" target="FEP9kk7LuL_H89eEC1XE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H47HiEEcM9cKnSehatXH-1" value="Life Manager : rclcpp:Node" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="450" width="220" height="60" as="geometry" />
+          <mxGeometry x="110" y="510" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEP9kk7LuL_H89eEC1XE-3" value="DeviceManager : Life Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
