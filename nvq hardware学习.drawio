@@ -22,6 +22,17 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="-4jCof6aPjSkTJnZPDBR" name="第 3 页">
+    <mxGraphModel dx="995" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H47HiEEcM9cKnSehatXH-1" value="Life Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="A9tw24PywkGT_CIXn30d" name="Can 简单代码流程">
     <mxGraphModel dx="2154" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,17 +127,6 @@
         </mxCell>
         <mxCell id="Wk46AScThqRC2HGDwCB5-33" value="10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="95" y="330" width="40" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="-4jCof6aPjSkTJnZPDBR" name="第 3 页">
-    <mxGraphModel dx="995" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="H47HiEEcM9cKnSehatXH-1" value="Life Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="390" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
