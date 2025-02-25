@@ -160,7 +160,7 @@
         <mxCell id="9kVl22KcVMyt2Tfocv88-0" />
         <mxCell id="9kVl22KcVMyt2Tfocv88-1" parent="9kVl22KcVMyt2Tfocv88-0" />
         <mxCell id="RVQagowt86GUVDjA_-EC-0" value="device_control_service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9kVl22KcVMyt2Tfocv88-1">
-          <mxGeometry x="340" y="250" width="170" height="60" as="geometry" />
+          <mxGeometry x="290" y="270" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
