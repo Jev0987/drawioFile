@@ -142,8 +142,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hvN2Eou3v0KTkTNhY_Ks-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="45aFL-XABIqhQLseBPVC-1" target="45aFL-XABIqhQLseBPVC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="45aFL-XABIqhQLseBPVC-1" value="lidar_common" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hvN2Eou3v0KTkTNhY_Ks-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="45aFL-XABIqhQLseBPVC-3" target="45aFL-XABIqhQLseBPVC-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45aFL-XABIqhQLseBPVC-3" value="lidar_interface" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="230" width="120" height="60" as="geometry" />
