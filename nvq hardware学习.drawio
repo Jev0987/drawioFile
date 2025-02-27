@@ -188,6 +188,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vAVyvONtJrb3Eg45BdlQ-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="190" width="300" height="640" as="geometry" />
+        </mxCell>
         <mxCell id="vAVyvONtJrb3Eg45BdlQ-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="510" width="285" height="340" as="geometry" />
         </mxCell>
