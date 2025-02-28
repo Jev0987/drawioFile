@@ -264,12 +264,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0l4TTH8lbEQz3ZfYdUot" name="RGBD 配置文件数据流传输链路">
-    <mxGraphModel dx="3147" dy="-224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2185" dy="-833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Szwz2F_T7Z-_MM_wcam3-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1220" y="2020" width="960" height="540" as="geometry" />
+          <mxGeometry x="-1220" y="2010" width="960" height="540" as="geometry" />
         </mxCell>
         <mxCell id="Szwz2F_T7Z-_MM_wcam3-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1230" y="1290" width="970" height="680" as="geometry" />
@@ -374,10 +374,10 @@
           <mxGeometry y="50" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a4JodhSRM_h3Jz7vP8AF-30" value="&lt;b style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;openStr&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1110" y="1990" width="70" height="30" as="geometry" />
+          <mxGeometry x="-1110" y="1970" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a4JodhSRM_h3Jz7vP8AF-31" value="&lt;span style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;rgbdinfo.libPath&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1130" y="1970" width="110" height="30" as="geometry" />
+          <mxGeometry x="-1000" y="1970" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a4JodhSRM_h3Jz7vP8AF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4JodhSRM_h3Jz7vP8AF-26" target="a4JodhSRM_h3Jz7vP8AF-28">
           <mxGeometry relative="1" as="geometry" />
