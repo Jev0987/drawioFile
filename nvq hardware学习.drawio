@@ -449,7 +449,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Xe0y0TT1en-lCv8eaaZf" name="RGBD模块中ROS通信">
-    <mxGraphModel dx="2208" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4280" dy="3317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -458,6 +458,15 @@
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="698" width="530" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="CKhcGsTEymlMCVG8_yHI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RDoCcW3UWe-vwzcQGAXc-5" target="a67QeBQ8MREunLnYcSZN-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2855.238211495536" y="-250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="205" y="-290" />
+              <mxPoint x="2795" y="-290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RDoCcW3UWe-vwzcQGAXc-5" value="rgbd_ros" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="50" width="430" height="190" as="geometry" />
