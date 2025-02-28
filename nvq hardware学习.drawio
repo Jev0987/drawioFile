@@ -502,7 +502,7 @@
           <mxGeometry x="1445" y="880" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-15" value="类似单节点监听器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1090" width="120" height="30" as="geometry" />
+          <mxGeometry x="1369.25" y="1090" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
