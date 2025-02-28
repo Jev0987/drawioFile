@@ -425,15 +425,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Xe0y0TT1en-lCv8eaaZf" name="RGBD模块中ROS通信">
-    <mxGraphModel dx="1822" dy="1799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2533" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a67QeBQ8MREunLnYcSZN-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="220" width="580" height="920" as="geometry" />
+          <mxGeometry x="1140" y="220" width="580" height="950" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="670" width="530" height="450" as="geometry" />
+          <mxGeometry x="1170" y="698" width="530" height="450" as="geometry" />
         </mxCell>
         <mxCell id="RDoCcW3UWe-vwzcQGAXc-5" value="rgbd_ros" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="50" width="430" height="190" as="geometry" />
@@ -466,10 +466,10 @@
           <mxGeometry y="50" width="480" height="140" as="geometry" />
         </mxCell>
         <mxCell id="RDoCcW3UWe-vwzcQGAXc-18" value="LifecycleManager" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1185" y="272" width="505" height="353" as="geometry" />
+          <mxGeometry x="1185" y="272" width="505" height="378" as="geometry" />
         </mxCell>
         <mxCell id="RDoCcW3UWe-vwzcQGAXc-19" value="&lt;div&gt;1. manager_srv_&amp;nbsp; (管理节点状态service） &lt;b&gt;没用上&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.1 &lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;managerCallback&lt;/font&gt;&lt;/b&gt;（状态管理回调函数）&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.1.1 startup()&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.1.1.1 changeStateForAllNodes( configure )&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.1.1.2 changeStateForAllNodes( activate )&lt;/div&gt;&lt;div&gt;2. is_active_srv_（检查节点是否活跃service） &lt;b&gt;没用上&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. executor -&amp;gt; &lt;b&gt;rclcpp::executors::MultiThreadedExecutor （ros2 多线程执行者，提高节点之间的并发能力）&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.1 addNode&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.2 removeNode&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.3 startExecutor&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;&lt;font style=&quot;&quot;&gt;4. &lt;/font&gt;&lt;font style=&quot;&quot;&gt;startup&lt;/font&gt;&lt;font style=&quot;&quot;&gt;( node_name)&amp;nbsp; 目前使用这个打开节点 ： 即修改 lifecycleNode 状态&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4.1 changeStateForAllNodes( configure )&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4.2 changeStateForAllNodes( activate )&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;&lt;font style=&quot;&quot;&gt;5. createBondTimer 当前节点的定时任务：周期检查节点状态&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;6.&amp;nbsp; createLifecycleServiceClients()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4.1 std::make_shared&amp;lt;LifeCycleServiceClient&amp;gt;(node_name, shared_from_this)&lt;/span&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" parent="RDoCcW3UWe-vwzcQGAXc-18" vertex="1">
-          <mxGeometry y="50" width="505" height="303" as="geometry" />
+          <mxGeometry y="50" width="505" height="328" as="geometry" />
         </mxCell>
         <mxCell id="RDoCcW3UWe-vwzcQGAXc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shape=link;" parent="1" source="RDoCcW3UWe-vwzcQGAXc-9" target="RDoCcW3UWe-vwzcQGAXc-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -481,19 +481,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-1" value="LifecycleServiceClient" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1201.25" y="692" width="472.5" height="178" as="geometry" />
+          <mxGeometry x="1201.25" y="720" width="472.5" height="178" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-2" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. change_state_&amp;nbsp; -&amp;gt;&amp;nbsp; ServiceClient&amp;lt;lifecycle_msgs::srv::ChangeState&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.1 service_name: lifeccle_node_name/change_state&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. get_state_ -&amp;gt; ServiceClient&amp;lt;lifecycle_msgs::srv::GetState)&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.1&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;service_name: lifeccle_node_name/get_state&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这两通信类型是ros2内置的，lifecycleNode会自动启动这类服务，服务端中服务名是自动创建好的&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="a67QeBQ8MREunLnYcSZN-1">
           <mxGeometry y="50" width="472.5" height="128" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="RDoCcW3UWe-vwzcQGAXc-19" target="a67QeBQ8MREunLnYcSZN-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1437.5" y="653" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-4" value="&lt;span style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;parent_node-&amp;gt; LifecycleMangerNode&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="635" width="220" height="30" as="geometry" />
+          <mxGeometry x="1450" y="663" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-5" value="ServiceClient" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1193" y="922" width="472.5" height="160" as="geometry" />
+          <mxGeometry x="1193" y="950" width="472.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-6" value="&lt;div&gt;ServiceClient&amp;lt;class T&amp;gt; : 自己封装的消息信息类，底层是一个客户端节点&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. client_ = node_-&amp;gt; create_client&amp;lt;T&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. invoke&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.1 client_-&amp;gt;async_send_request(request)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="a67QeBQ8MREunLnYcSZN-5">
           <mxGeometry y="50" width="472.5" height="110" as="geometry" />
@@ -502,13 +504,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-10" value="&lt;span style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;provided_node-&amp;gt; LifecycleMangerNode&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1445" y="880" width="230" height="30" as="geometry" />
+          <mxGeometry x="1445" y="908" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-15" value="类似单节点监听器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1369.25" y="1090" width="120" height="30" as="geometry" />
+          <mxGeometry x="1369.25" y="1118" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-16" value="&lt;b&gt;changeStateForAllNodes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1255" y="635" width="170" height="30" as="geometry" />
+          <mxGeometry x="1255" y="663" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-17" value="OBCameraNodeFactory : lifeCycleNode" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2680" y="40" width="480" height="190" as="geometry" />
