@@ -425,7 +425,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Xe0y0TT1en-lCv8eaaZf" name="RGBD模块中ROS通信">
-    <mxGraphModel dx="1424" dy="1547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -487,7 +487,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-4" value="&lt;span style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;parent_node-&amp;gt; LifecycleMangerNode&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="638" width="220" height="30" as="geometry" />
+          <mxGeometry x="1450" y="635" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-5" value="ServiceClient" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1193" y="922" width="472.5" height="160" as="geometry" />
