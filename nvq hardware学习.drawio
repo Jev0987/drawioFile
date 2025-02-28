@@ -190,7 +190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1OLvpkZ3m0cAaq_OFy44" name="RGBD">
-    <mxGraphModel dx="2336" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2848" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,21 +352,21 @@
           <mxGeometry y="50" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xK1qZFbxSc3BYxO678nq-45" value="rgbd_device" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="2030" width="230" height="120" as="geometry">
+          <mxGeometry x="-1130" y="2230" width="230" height="120" as="geometry">
             <mxRectangle x="-800" y="1310" width="120" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xK1qZFbxSc3BYxO678nq-46" value="1. load&lt;div&gt;2. parserDevInfo(url) -&amp;gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;rgbd_info_&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;3. open(&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 0, 0));&quot;&gt;rgbd_info_&lt;/font&gt;&lt;/b&gt;)&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="xK1qZFbxSc3BYxO678nq-45">
           <mxGeometry y="50" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xK1qZFbxSc3BYxO678nq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.996;exitY=0.204;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.209;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="xK1qZFbxSc3BYxO678nq-42" target="xK1qZFbxSc3BYxO678nq-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xK1qZFbxSc3BYxO678nq-48" value="&lt;b style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;openStr&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1110" y="1990" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xK1qZFbxSc3BYxO678nq-49" value="&lt;span style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;rgbdinfo.libPath&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1130" y="1970" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xK1qZFbxSc3BYxO678nq-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xK1qZFbxSc3BYxO678nq-43" target="xK1qZFbxSc3BYxO678nq-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
