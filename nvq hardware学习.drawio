@@ -309,12 +309,12 @@
           <mxGeometry x="-1020" y="1455" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xK1qZFbxSc3BYxO678nq-27" value="RgbdNative" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1130" y="1760" width="230" height="120" as="geometry">
+          <mxGeometry x="-1130" y="1760" width="230" height="160" as="geometry">
             <mxRectangle x="-800" y="1310" width="120" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xK1qZFbxSc3BYxO678nq-28" value="1. System.loadLibrary(&quot;rgbd.jni&quot;)&lt;div&gt;2. init&lt;/div&gt;&lt;div&gt;3. rgbdInfo .let( 把数据赋值给 openStr）&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="xK1qZFbxSc3BYxO678nq-27">
-          <mxGeometry y="50" width="230" height="70" as="geometry" />
+        <mxCell id="xK1qZFbxSc3BYxO678nq-28" value="1. System.loadLibrary(&quot;rgbd.jni&quot;)&lt;div&gt;2. init&lt;/div&gt;&lt;div&gt;3. rgbdInfo .let( 把数据赋值给 openStr）&lt;/div&gt;&lt;div&gt;4. open&lt;/div&gt;&lt;div&gt;5. openDevice&lt;/div&gt;&lt;div&gt;6. startStream()&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="xK1qZFbxSc3BYxO678nq-27">
+          <mxGeometry y="50" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xK1qZFbxSc3BYxO678nq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xK1qZFbxSc3BYxO678nq-23" target="xK1qZFbxSc3BYxO678nq-27">
           <mxGeometry relative="1" as="geometry" />
