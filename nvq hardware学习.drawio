@@ -474,6 +474,9 @@
         <mxCell id="R-piWE_t7RS7H__EtW3f-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="RDoCcW3UWe-vwzcQGAXc-19" target="RDoCcW3UWe-vwzcQGAXc-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="a67QeBQ8MREunLnYcSZN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="a67QeBQ8MREunLnYcSZN-1" target="a67QeBQ8MREunLnYcSZN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-1" value="LifecycleServiceClient" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1201.25" y="680" width="472.5" height="170" as="geometry" />
         </mxCell>
@@ -497,6 +500,9 @@
         </mxCell>
         <mxCell id="a67QeBQ8MREunLnYcSZN-10" value="&lt;span style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;provided_node-&amp;gt; LifecycleMangerNode&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1445" y="860" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a67QeBQ8MREunLnYcSZN-13" value="类似节点监听器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1700" y="870" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
