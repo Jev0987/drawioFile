@@ -296,7 +296,7 @@
             <mxRectangle x="-800" y="1310" width="120" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xK1qZFbxSc3BYxO678nq-23" value="1. rgbdInfo" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="xK1qZFbxSc3BYxO678nq-22">
+        <mxCell id="xK1qZFbxSc3BYxO678nq-23" value="1. construction 构造函数中传入rgbdinfo&lt;div&gt;2. startInspect&lt;/div&gt;&lt;div&gt;3. open - &amp;gt; native open&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="xK1qZFbxSc3BYxO678nq-22">
           <mxGeometry y="50" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xK1qZFbxSc3BYxO678nq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xK1qZFbxSc3BYxO678nq-18" target="xK1qZFbxSc3BYxO678nq-22">
