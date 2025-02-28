@@ -309,7 +309,7 @@
           <mxGeometry x="-1020" y="1455" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xK1qZFbxSc3BYxO678nq-27" value="RgbdNative" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1130" y="1710" width="230" height="120" as="geometry">
+          <mxGeometry x="-1130" y="1760" width="230" height="120" as="geometry">
             <mxRectangle x="-800" y="1310" width="120" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -324,6 +324,9 @@
         </mxCell>
         <mxCell id="xK1qZFbxSc3BYxO678nq-31" value="confgi.rgbds.forEach( &lt;br&gt;&lt;b&gt;rgbdDevice(it.location,it, callback)&lt;/b&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1245" y="1455" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xK1qZFbxSc3BYxO678nq-32" value="&lt;b&gt;RgbdNative(rgbdInfo)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="1688" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
