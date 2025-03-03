@@ -52,8 +52,8 @@
         <mxCell id="BZxexa4PMt1krg03QVnA-18" value="thirty-party domain name resolution service" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BZxexa4PMt1krg03QVnA-27" value="IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="395" y="170" width="30" height="30" as="geometry" />
+        <mxCell id="BZxexa4PMt1krg03QVnA-27" value="IPlists" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BZxexa4PMt1krg03QVnA-28" value="IP lists" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="170" width="60" height="30" as="geometry" />
