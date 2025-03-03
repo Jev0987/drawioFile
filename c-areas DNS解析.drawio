@@ -8,21 +8,21 @@
           <mxGeometry x="435" y="100" width="415" height="210" as="geometry" />
         </mxCell>
         <mxCell id="BZxexa4PMt1krg03QVnA-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="130" width="240" height="150" as="geometry" />
+          <mxGeometry x="-180" y="100" width="330" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="BZxexa4PMt1krg03QVnA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="BZxexa4PMt1krg03QVnA-1" target="BZxexa4PMt1krg03QVnA-4" edge="1">
+        <mxCell id="BZxexa4PMt1krg03QVnA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="BZxexa4PMt1krg03QVnA-1" target="BZxexa4PMt1krg03QVnA-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BZxexa4PMt1krg03QVnA-1" value="获取URL" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BZxexa4PMt1krg03QVnA-3" value="应用层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="-170" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BZxexa4PMt1krg03QVnA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="BZxexa4PMt1krg03QVnA-4" target="BZxexa4PMt1krg03QVnA-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BZxexa4PMt1krg03QVnA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="BZxexa4PMt1krg03QVnA-4" target="BZxexa4PMt1krg03QVnA-1" edge="1">
+        <mxCell id="BMfd0R7D6w7oA4ohOzcc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BZxexa4PMt1krg03QVnA-4" target="BMfd0R7D6w7oA4ohOzcc-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BZxexa4PMt1krg03QVnA-4" value="SDK" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -52,17 +52,20 @@
         <mxCell id="BZxexa4PMt1krg03QVnA-18" value="thirty-party domain name resolution service" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BZxexa4PMt1krg03QVnA-27" value="IPlists" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="BZxexa4PMt1krg03QVnA-27" value="IPl ists" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BZxexa4PMt1krg03QVnA-28" value="IP lists" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="150" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="155" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BMfd0R7D6w7oA4ohOzcc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BMfd0R7D6w7oA4ohOzcc-5" target="BZxexa4PMt1krg03QVnA-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BMfd0R7D6w7oA4ohOzcc-5" value="system domain name resolution serviceI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMfd0R7D6w7oA4ohOzcc-7" value="IP test" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
