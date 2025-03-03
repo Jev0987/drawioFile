@@ -64,7 +64,7 @@
         <mxCell id="BMfd0R7D6w7oA4ohOzcc-5" value="system domain name resolution serviceI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BMfd0R7D6w7oA4ohOzcc-7" value="IP test" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BMfd0R7D6w7oA4ohOzcc-7" value="IP 测试" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
