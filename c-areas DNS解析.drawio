@@ -195,7 +195,7 @@
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-51" value="连接成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="878" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6MrP9GRZSPAE4B2s2LjV-52" value="连接失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6MrP9GRZSPAE4B2s2LjV-52" value="打开网页失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="1060" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-54" value="连接失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
