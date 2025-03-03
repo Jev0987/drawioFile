@@ -111,10 +111,10 @@
           <mxGeometry x="210" y="810" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-15" value="连接成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="175" y="690" width="70" height="30" as="geometry" />
+          <mxGeometry x="135" y="570" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-16" value="连接失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="540" width="70" height="30" as="geometry" />
+          <mxGeometry x="210" y="500" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-17" value="url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="370" width="40" height="30" as="geometry" />
