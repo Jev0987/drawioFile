@@ -152,6 +152,9 @@
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-37" value="缓存未命中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="330" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6MrP9GRZSPAE4B2s2LjV-39" value="signal = domain name resolution failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="218" width="230" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
