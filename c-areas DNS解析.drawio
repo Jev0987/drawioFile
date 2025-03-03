@@ -140,8 +140,17 @@
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-24" value="连接成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="570" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6MrP9GRZSPAE4B2s2LjV-25" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;DNS解析SDK&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="640" y="370" width="150" height="60" as="geometry" />
+        <mxCell id="6MrP9GRZSPAE4B2s2LjV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6MrP9GRZSPAE4B2s2LjV-25" target="6MrP9GRZSPAE4B2s2LjV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MrP9GRZSPAE4B2s2LjV-25" value="DNS解析SDK" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="500" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6MrP9GRZSPAE4B2s2LjV-28" value="连接成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6MrP9GRZSPAE4B2s2LjV-29" value="连接失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
