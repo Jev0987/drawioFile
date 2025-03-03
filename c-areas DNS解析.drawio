@@ -87,7 +87,7 @@
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6MrP9GRZSPAE4B2s2LjV-4" target="6MrP9GRZSPAE4B2s2LjV-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6MrP9GRZSPAE4B2s2LjV-4" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;系统默认DNS解析器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6MrP9GRZSPAE4B2s2LjV-4" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;系统默认DNS解析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="380" y="370" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-6" value="缓存命中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -129,7 +129,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6MrP9GRZSPAE4B2s2LjV-20" target="6MrP9GRZSPAE4B2s2LjV-25">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="530" />
+              <mxPoint x="600" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-20" value="网络连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="500" width="140" height="60" as="geometry" />
@@ -155,7 +160,7 @@
           <mxGeometry x="640" y="570" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-29" value="连接失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="500" width="70" height="30" as="geometry" />
+          <mxGeometry x="525" y="500" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6MrP9GRZSPAE4B2s2LjV-30" target="6MrP9GRZSPAE4B2s2LjV-11">
           <mxGeometry relative="1" as="geometry" />
