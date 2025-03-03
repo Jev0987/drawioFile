@@ -127,9 +127,6 @@
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-16" value="连接失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="620" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6MrP9GRZSPAE4B2s2LjV-17" value="url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="370" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="6MrP9GRZSPAE4B2s2LjV-18" value="url&lt;div&gt;ip&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="135" y="443" width="40" height="40" as="geometry" />
         </mxCell>
