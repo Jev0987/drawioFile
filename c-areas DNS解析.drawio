@@ -318,13 +318,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mkCP1Mi-PQQrPugpY0Tq-6" value="dns.so" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mkCP1Mi-PQQrPugpY0Tq-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mkCP1Mi-PQQrPugpY0Tq-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="270" width="440" height="200" as="geometry" />
+          <mxGeometry x="80" y="270" width="440" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="iLEwyQnwCV9VU8IOiWoD-1" value="Android dns resolution&amp;nbsp; module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLEwyQnwCV9VU8IOiWoD-2" value="JNI：hook libcore.android_getaddrinfo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLEwyQnwCV9VU8IOiWoD-3" value="cares.so" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
