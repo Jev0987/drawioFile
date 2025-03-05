@@ -297,7 +297,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CMdtwG0ODSig_0ypSAlr" name="第 4 页">
-    <mxGraphModel dx="628" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -320,6 +320,9 @@
         </mxCell>
         <mxCell id="iLEwyQnwCV9VU8IOiWoD-3" value="pudu_dns_resolution.so" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="420" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLEwyQnwCV9VU8IOiWoD-4" value="dns resolution module" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="365" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
