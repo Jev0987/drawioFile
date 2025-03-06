@@ -297,7 +297,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CMdtwG0ODSig_0ypSAlr" name="第 4 页">
-    <mxGraphModel dx="1454" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,7 +315,7 @@
         <mxCell id="iLEwyQnwCV9VU8IOiWoD-1" value="Android dns resolution&amp;nbsp; module&lt;div&gt;1. 初始化 dns解析库逻辑&lt;/div&gt;&lt;div&gt;2. hook对应android系统接口&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="310" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iLEwyQnwCV9VU8IOiWoD-2" value="JNI：hook libcore.android_getaddrinfo&lt;div&gt;到so库里的函数pudu_getaddrinfo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iLEwyQnwCV9VU8IOiWoD-2" value="JNI：hook getaddrinfo.c&lt;div&gt;到so库里的函数pudu_getaddrinfo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="380" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iLEwyQnwCV9VU8IOiWoD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="iLEwyQnwCV9VU8IOiWoD-3" target="iLEwyQnwCV9VU8IOiWoD-5">
