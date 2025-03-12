@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.16" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0" pages="5">
   <diagram name="第 1 页" id="Ewn_PrRPb5iZSMXyRCUE">
     <mxGraphModel dx="2208" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -329,6 +329,53 @@
         </mxCell>
         <mxCell id="iLEwyQnwCV9VU8IOiWoD-5" value="c-ares&lt;div&gt;把具体的dns解析执行操作，移到这里&lt;/div&gt;&lt;div&gt;确定好与Android libcore里android_getaddrinfo的参数和返回值&lt;/div&gt;&lt;div&gt;后续走这边的逻辑，返回这边的结果给上层&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="550" width="440" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Q_YUcK6OBrFqBOvckztq" name="第 5 页">
+    <mxGraphModel dx="1575" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTAyl9akDRO5k2mvP8JL-1" target="KTAyl9akDRO5k2mvP8JL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTAyl9akDRO5k2mvP8JL-2" target="KTAyl9akDRO5k2mvP8JL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTAyl9akDRO5k2mvP8JL-2" target="KTAyl9akDRO5k2mvP8JL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-2" value="进行系统DNS解析" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="290" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTAyl9akDRO5k2mvP8JL-4" target="KTAyl9akDRO5k2mvP8JL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTAyl9akDRO5k2mvP8JL-4" target="KTAyl9akDRO5k2mvP8JL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-4" value="第三方DNS解析" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="450" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-6" value="网络访问失败" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-9" value="网络访问成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-12" value="解析成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="298" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-13" value="解析成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-14" value="解析失败 NODATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
