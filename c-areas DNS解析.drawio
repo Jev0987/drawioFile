@@ -377,6 +377,9 @@
         <mxCell id="KTAyl9akDRO5k2mvP8JL-14" value="解析失败 NODATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="390" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KTAyl9akDRO5k2mvP8JL-15" value="基本流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
