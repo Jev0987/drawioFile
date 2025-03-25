@@ -540,6 +540,14 @@
         <mxCell id="mLoR87EUdoC43YOFHMQ_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLoR87EUdoC43YOFHMQ_-2" target="mLoR87EUdoC43YOFHMQ_-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mLoR87EUdoC43YOFHMQ_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mLoR87EUdoC43YOFHMQ_-2" target="mLoR87EUdoC43YOFHMQ_-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="230" />
+              <mxPoint x="250" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mLoR87EUdoC43YOFHMQ_-2" value="navtiveimpl.isOpen()" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry y="190" width="200" height="80" as="geometry" />
         </mxCell>
