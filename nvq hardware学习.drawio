@@ -613,6 +613,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vEsIs3zrRgZ7kNh1jxLd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vEsIs3zrRgZ7kNh1jxLd-1" target="vEsIs3zrRgZ7kNh1jxLd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vEsIs3zrRgZ7kNh1jxLd-1" value="SensorJNIListener，JNI层监听者：用于调用Java Native 的函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="200" width="380" height="60" as="geometry" />
         </mxCell>
