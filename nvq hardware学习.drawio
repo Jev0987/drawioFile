@@ -625,8 +625,14 @@
         <mxCell id="vEsIs3zrRgZ7kNh1jxLd-2" value="JAVA Native: funcA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vEsIs3zrRgZ7kNh1jxLd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vEsIs3zrRgZ7kNh1jxLd-4" target="vEsIs3zrRgZ7kNh1jxLd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vEsIs3zrRgZ7kNh1jxLd-4" value="SensorListener，设备层监听者：用于调用JNI监听者的回调函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="350" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEsIs3zrRgZ7kNh1jxLd-6" value="Sensor，设备层，调用监听者回传数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="525" width="365" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
