@@ -35,13 +35,13 @@
           <mxGeometry x="530" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LZ0KXw2VFaYuvreMgtLr-10" value="get_img" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-240" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LZ0KXw2VFaYuvreMgtLr-11" value="calib_tools" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LZ0KXw2VFaYuvreMgtLr-13" value="save_img" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-150" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LZ0KXw2VFaYuvreMgtLr-14" value="get_device" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="-320" width="120" height="60" as="geometry" />
