@@ -28,6 +28,9 @@
         <mxCell id="LZ0KXw2VFaYuvreMgtLr-6" value="Robotic arm" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LZ0KXw2VFaYuvreMgtLr-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
