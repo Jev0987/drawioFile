@@ -23,10 +23,10 @@
           <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LZ0KXw2VFaYuvreMgtLr-5" value="camera" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LZ0KXw2VFaYuvreMgtLr-6" value="Robotic arm" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
