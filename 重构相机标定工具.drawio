@@ -65,12 +65,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bFFjOLLjjG55Nqp1-30m" name="第 2 页">
-    <mxGraphModel dx="1364" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1364" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W0nqxPhXStkK6ZmlHfwr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W0nqxPhXStkK6ZmlHfwr-1" target="W0nqxPhXStkK6ZmlHfwr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="W0nqxPhXStkK6ZmlHfwr-1" value="load_param" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W0nqxPhXStkK6ZmlHfwr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W0nqxPhXStkK6ZmlHfwr-2" target="W0nqxPhXStkK6ZmlHfwr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W0nqxPhXStkK6ZmlHfwr-2" value="create_file" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W0nqxPhXStkK6ZmlHfwr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W0nqxPhXStkK6ZmlHfwr-4" target="W0nqxPhXStkK6ZmlHfwr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W0nqxPhXStkK6ZmlHfwr-4" value="input sn" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W0nqxPhXStkK6ZmlHfwr-6" value="open device" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
