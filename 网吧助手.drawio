@@ -11,10 +11,10 @@
           <mxGeometry x="200" y="60" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PFzhmYUPQmIxrMrjRoEu-4" value="本地/api数据接受返回打印&lt;div&gt;127.0.0.1:11626&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="224" y="310" width="256" height="60" as="geometry" />
+          <mxGeometry x="200" y="300" width="256" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PFzhmYUPQmIxrMrjRoEu-7" value="向微服务发送 /api/notify/url&amp;nbsp;&lt;br&gt;（可能是注册回调）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="224" y="450" width="266" height="60" as="geometry" />
+          <mxGeometry x="184" y="450" width="266" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
