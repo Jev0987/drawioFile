@@ -14,7 +14,7 @@
           <mxGeometry x="224" y="310" width="256" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PFzhmYUPQmIxrMrjRoEu-7" value="向微服务发送 /api/notify/url&amp;nbsp;&lt;br&gt;（可能是注册回调）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="224" y="450" width="216" height="60" as="geometry" />
+          <mxGeometry x="224" y="450" width="266" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
