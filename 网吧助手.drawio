@@ -33,7 +33,7 @@
         <mxCell id="PFzhmYUPQmIxrMrjRoEu-7" value="向微服务发送 /api/notify/url&amp;nbsp;&lt;br&gt;（可能是注册数据回调打印）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="430" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFzhmYUPQmIxrMrjRoEu-17" value="add_device&lt;div&gt;向微服务发送数据&lt;/div&gt;&lt;div&gt;注册客户端，发送post请求：&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;cli.Post(&quot;/api/add/device&quot;, params)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PFzhmYUPQmIxrMrjRoEu-17" value="add_device&lt;div&gt;向微服务（端口号：9050）发送数据&lt;/div&gt;&lt;div&gt;注册客户端，发送post请求：&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;cli.Post(&quot;/api/add/device&quot;, params)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="560" width="330" height="110" as="geometry" />
         </mxCell>
       </root>
