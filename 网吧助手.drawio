@@ -13,6 +13,9 @@
         <mxCell id="PFzhmYUPQmIxrMrjRoEu-4" value="本地/api数据接受返回打印&lt;div&gt;127.0.0.1:11626&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="224" y="310" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PFzhmYUPQmIxrMrjRoEu-7" value="向微服务发送 /api/notify/url&amp;nbsp;&lt;br&gt;（可能是注册回调）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224" y="450" width="190" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
