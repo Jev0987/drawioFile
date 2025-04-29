@@ -13,7 +13,7 @@
         <mxCell id="PFzhmYUPQmIxrMrjRoEu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PFzhmYUPQmIxrMrjRoEu-3" target="PFzhmYUPQmIxrMrjRoEu-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PFzhmYUPQmIxrMrjRoEu-3" value="运行&amp;nbsp;PuduRobotOpenServer-win.exe&lt;br&gt;传入参数：gSDKParam" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PFzhmYUPQmIxrMrjRoEu-3" value="运行&amp;nbsp;PuduRobotOpenServer-win.exe&lt;br&gt;传入参数：gSDKParam" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="190" y="180" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PFzhmYUPQmIxrMrjRoEu-4" value="本地/api数据接受返回打印&lt;div&gt;127.0.0.1:11626&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
