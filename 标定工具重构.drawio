@@ -7,8 +7,20 @@
         <mxCell id="7N-nrdC7QSPcm6rpsIGd-1" value="camera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7N-nrdC7QSPcm6rpsIGd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7N-nrdC7QSPcm6rpsIGd-2" target="7N-nrdC7QSPcm6rpsIGd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7N-nrdC7QSPcm6rpsIGd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7N-nrdC7QSPcm6rpsIGd-2" target="7N-nrdC7QSPcm6rpsIGd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7N-nrdC7QSPcm6rpsIGd-2" value="RoboticArm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7N-nrdC7QSPcm6rpsIGd-3" value="communicate" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7N-nrdC7QSPcm6rpsIGd-5" value="sendmsg" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
