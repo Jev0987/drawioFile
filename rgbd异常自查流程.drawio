@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q_YAzvOc2HX7vB9_molP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q_YAzvOc2HX7vB9_molP-1" target="q_YAzvOc2HX7vB9_molP-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q_YAzvOc2HX7vB9_molP-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;start&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="160" y="130" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="q_YAzvOc2HX7vB9_molP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q_YAzvOc2HX7vB9_molP-2" target="q_YAzvOc2HX7vB9_molP-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
