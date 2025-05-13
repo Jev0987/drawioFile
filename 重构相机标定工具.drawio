@@ -164,6 +164,9 @@
         <mxCell id="ZyIG62cd_t_zc9IkCbGK-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="930" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZyIG62cd_t_zc9IkCbGK-8" value="fc_cam" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
