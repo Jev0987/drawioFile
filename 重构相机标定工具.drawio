@@ -191,17 +191,11 @@
         <mxCell id="ZyIG62cd_t_zc9IkCbGK-19" value="calib" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FWQ1gV2CBtHm71jgW6ia-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZyIG62cd_t_zc9IkCbGK-20" target="FWQ1gV2CBtHm71jgW6ia-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZyIG62cd_t_zc9IkCbGK-20" value="move2CALIB" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZyIG62cd_t_zc9IkCbGK-21" value="calib" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="345" y="1169" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FWQ1gV2CBtHm71jgW6ia-1" value="while" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1309" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
