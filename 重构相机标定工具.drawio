@@ -137,11 +137,17 @@
         <mxCell id="FLjwt0rZCwlzYFxOVqZ9-19" value="client" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZyIG62cd_t_zc9IkCbGK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLjwt0rZCwlzYFxOVqZ9-20" target="ZyIG62cd_t_zc9IkCbGK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FLjwt0rZCwlzYFxOVqZ9-20" value="server" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLjwt0rZCwlzYFxOVqZ9-21" value="face_camera" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyIG62cd_t_zc9IkCbGK-1" value="move2Standby" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
