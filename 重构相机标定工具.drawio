@@ -94,7 +94,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_Bsl9JXHjBSns_m8Mvd_" name="新标定流程">
-    <mxGraphModel dx="1356" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="935" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,6 +223,9 @@
         </mxCell>
         <mxCell id="FWQ1gV2CBtHm71jgW6ia-11" value="recv" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWQ1gV2CBtHm71jgW6ia-16" value="response = 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1578" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
