@@ -40,6 +40,9 @@
         <mxCell id="R4nhYUZQVkwE9-_WqM3W-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4nhYUZQVkwE9-_WqM3W-10" target="R4nhYUZQVkwE9-_WqM3W-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="R4nhYUZQVkwE9-_WqM3W-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4nhYUZQVkwE9-_WqM3W-10" target="R4nhYUZQVkwE9-_WqM3W-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R4nhYUZQVkwE9-_WqM3W-10" value="Test Node impl 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -63,6 +66,9 @@
         </mxCell>
         <mxCell id="R4nhYUZQVkwE9-_WqM3W-20" value="Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R4nhYUZQVkwE9-_WqM3W-23" value="Service 200" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="225" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
