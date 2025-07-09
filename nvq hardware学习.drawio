@@ -869,7 +869,7 @@
             <mxPoint x="-160" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LcBUYT2eERd6W0XhpYXE-25" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Socket CAN&lt;br&gt;(nvq tools)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="LcBUYT2eERd6W0XhpYXE-1">
+        <mxCell id="LcBUYT2eERd6W0XhpYXE-25" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Socket CAN&lt;br&gt;(nvq tools)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="LcBUYT2eERd6W0XhpYXE-1">
           <mxGeometry x="-230" y="540" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LcBUYT2eERd6W0XhpYXE-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;domain socket&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LcBUYT2eERd6W0XhpYXE-1">
@@ -878,7 +878,7 @@
         <mxCell id="LcBUYT2eERd6W0XhpYXE-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;read&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LcBUYT2eERd6W0XhpYXE-1">
           <mxGeometry x="649" y="590" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NqLC1OAndso-l2lJZpqX-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Proxy&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="LcBUYT2eERd6W0XhpYXE-1">
+        <mxCell id="NqLC1OAndso-l2lJZpqX-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Proxy&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="LcBUYT2eERd6W0XhpYXE-1">
           <mxGeometry x="-70" y="540" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="M06sxRKO3bpte488MEeB-0" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="LcBUYT2eERd6W0XhpYXE-1">
