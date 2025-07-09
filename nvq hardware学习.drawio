@@ -777,8 +777,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="旧主从板CAN结构 的副本" id="2_E2KtNLrqNmK6YQHdg4">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name=" 新主从板CAN结构         " id="2_E2KtNLrqNmK6YQHdg4">
+    <mxGraphModel dx="2397" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dzdag0uvcKq0rJe-8Vo6-0" />
         <mxCell id="dzdag0uvcKq0rJe-8Vo6-1" parent="dzdag0uvcKq0rJe-8Vo6-0" />
