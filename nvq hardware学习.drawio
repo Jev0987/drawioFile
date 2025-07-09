@@ -824,6 +824,9 @@
         <mxCell id="LcBUYT2eERd6W0XhpYXE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="LcBUYT2eERd6W0XhpYXE-1" source="LcBUYT2eERd6W0XhpYXE-10" target="LcBUYT2eERd6W0XhpYXE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="x3TdJna6XHzUjDI25jRh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="LcBUYT2eERd6W0XhpYXE-1" source="LcBUYT2eERd6W0XhpYXE-10" target="NqLC1OAndso-l2lJZpqX-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LcBUYT2eERd6W0XhpYXE-10" value="&lt;b&gt;CAN JNI&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="LcBUYT2eERd6W0XhpYXE-1">
           <mxGeometry x="320" y="540" width="320" height="90" as="geometry" />
         </mxCell>
@@ -947,11 +950,8 @@
         <mxCell id="x3TdJna6XHzUjDI25jRh-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;write&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LcBUYT2eERd6W0XhpYXE-1">
           <mxGeometry x="-250" y="450" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x3TdJna6XHzUjDI25jRh-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="LcBUYT2eERd6W0XhpYXE-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="580" as="sourcePoint" />
-            <mxPoint x="110" y="580" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="x3TdJna6XHzUjDI25jRh-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Trans data&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LcBUYT2eERd6W0XhpYXE-1">
+          <mxGeometry x="145" y="550" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
