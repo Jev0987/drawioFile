@@ -49,6 +49,9 @@
         <mxCell id="R4nhYUZQVkwE9-_WqM3W-17" value="test type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="155" y="350" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="R4nhYUZQVkwE9-_WqM3W-18" value="eg.&lt;div&gt;one node&lt;/div&gt;&lt;div&gt;200 service - client test&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
