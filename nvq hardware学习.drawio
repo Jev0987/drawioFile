@@ -783,6 +783,9 @@
         <mxCell id="AgtDweOw6f80UciSkXTN-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Publish&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="160" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vZf2T19YQH4_RD8xIme0-1" value="&lt;span&gt;&lt;font&gt;Old CAN Architecture&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=37;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="15" width="380" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
