@@ -787,10 +787,13 @@
           <mxGeometry x="-90" y="15" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vZf2T19YQH4_RD8xIme0-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;for init&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="325" width="80" height="30" as="geometry" />
+          <mxGeometry x="490" y="325" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vZf2T19YQH4_RD8xIme0-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;imu data&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;encoder data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;...&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="135" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-xzVmsljlBwcXkc41TkF-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;close&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="285" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
