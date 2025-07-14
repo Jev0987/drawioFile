@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0" pages="12">
   <diagram id="A9tw24PywkGT_CIXn30d" name="Can 简单代码流程">
     <mxGraphModel dx="2154" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1040,6 +1040,29 @@
         </mxCell>
         <mxCell id="dDYfQYXaahWDeWetl6ZC-6" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="dDYfQYXaahWDeWetl6ZC-5">
           <mxGeometry y="50" width="330" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="l5BAip2h3KJjqiToEdLb" name="第 12 页">
+    <mxGraphModel dx="1083" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HIZDcxg92IFGt3XuodBq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HIZDcxg92IFGt3XuodBq-1" target="HIZDcxg92IFGt3XuodBq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HIZDcxg92IFGt3XuodBq-1" value="unix_stream_server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="340" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIZDcxg92IFGt3XuodBq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HIZDcxg92IFGt3XuodBq-3" target="HIZDcxg92IFGt3XuodBq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HIZDcxg92IFGt3XuodBq-3" value="/pudu/can_service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIZDcxg92IFGt3XuodBq-5" value="unix_stream_client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="480" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
