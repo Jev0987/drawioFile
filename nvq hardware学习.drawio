@@ -1179,7 +1179,7 @@
           <mxGeometry x="125" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-14" value="JNI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="51" y="500" width="40" height="30" as="geometry" />
+          <mxGeometry x="45" y="510" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-20" value="can_client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="567" y="640" width="80" height="30" as="geometry" />
