@@ -1082,8 +1082,14 @@
         <mxCell id="HIZDcxg92IFGt3XuodBq-14" value="socket" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="320" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HIZDcxg92IFGt3XuodBq-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HIZDcxg92IFGt3XuodBq-18" target="HIZDcxg92IFGt3XuodBq-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HIZDcxg92IFGt3XuodBq-18" value="can_client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="157.5" y="590" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIZDcxg92IFGt3XuodBq-20" value="can_server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="760" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
