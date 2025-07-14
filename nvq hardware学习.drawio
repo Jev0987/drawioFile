@@ -1220,7 +1220,7 @@
         <mxCell id="YhTolhNMdukIKO1PMWw3-34" value="read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="205" y="520" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YhTolhNMdukIKO1PMWw3-35" value="Proxy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhTolhNMdukIKO1PMWw3-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="560" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-37" value="readData" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -1234,6 +1234,12 @@
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-44" value="KT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="205" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhTolhNMdukIKO1PMWw3-45" value="callback" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhTolhNMdukIKO1PMWw3-46" value="Proxy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="448" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
