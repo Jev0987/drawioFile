@@ -1050,7 +1050,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HIZDcxg92IFGt3XuodBq-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="170" width="395" height="330" as="geometry" />
+          <mxGeometry x="75" y="190" width="395" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HIZDcxg92IFGt3XuodBq-7" value="can_socket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="410" width="120" height="60" as="geometry" />
@@ -1062,7 +1062,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HIZDcxg92IFGt3XuodBq-8" value="CAN Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="180" width="230" height="80" as="geometry" />
+          <mxGeometry x="160" y="200" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HIZDcxg92IFGt3XuodBq-9" value="can_usb" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="410" width="120" height="60" as="geometry" />
