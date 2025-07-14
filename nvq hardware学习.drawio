@@ -1138,8 +1138,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YhTolhNMdukIKO1PMWw3-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="294" width="185" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="410" width="130" height="110" as="geometry" />
+          <mxGeometry x="170" y="404" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="387" y="520" width="420" height="370" as="geometry" />
@@ -1176,7 +1179,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-13" value="can_service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="180" y="450" width="100" height="60" as="geometry" />
+          <mxGeometry x="180" y="444" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-14" value="JNI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="145" y="550" width="40" height="30" as="geometry" />
@@ -1218,16 +1221,16 @@
           <mxGeometry x="205" y="520" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-35" value="Proxy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="590" width="190" height="90" as="geometry" />
+          <mxGeometry x="260" y="560" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-37" value="readData" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="585" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-40" value="CAN_Write" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="314" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-42" value="CAN_Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="410" width="80" height="30" as="geometry" />
+          <mxGeometry x="190" y="404" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
