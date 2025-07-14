@@ -1098,7 +1098,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HIZDcxg92IFGt3XuodBq-26" value="&lt;div&gt;KT&lt;/div&gt;CAN Sertvice" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="370" y="790" width="200" height="70" as="geometry" />
+          <mxGeometry x="350" y="730" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HIZDcxg92IFGt3XuodBq-28" value="hardware_client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="540" width="230" height="60" as="geometry" />
