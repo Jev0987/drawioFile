@@ -1088,8 +1088,23 @@
         <mxCell id="HIZDcxg92IFGt3XuodBq-18" value="can_client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="157.5" y="590" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HIZDcxg92IFGt3XuodBq-20" value="can_server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HIZDcxg92IFGt3XuodBq-20" value="can_server&lt;br&gt;can_sevice timestamp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="157.5" y="760" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIZDcxg92IFGt3XuodBq-22" value="other service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="880" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HIZDcxg92IFGt3XuodBq-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="870" as="sourcePoint" />
+            <mxPoint x="400" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIZDcxg92IFGt3XuodBq-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="353" y="850" as="sourcePoint" />
+            <mxPoint x="473" y="920" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
