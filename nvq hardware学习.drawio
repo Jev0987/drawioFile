@@ -1067,6 +1067,9 @@
         <mxCell id="4YTXbGI1UucfqqhjBZS5-2" value="can_client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="410" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="sFLt8A71aE0YPdeKwNUH-3" value="Can Node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
