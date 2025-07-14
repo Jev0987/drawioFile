@@ -1023,7 +1023,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sFLt8A71aE0YPdeKwNUH-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="360" width="420" height="180" as="geometry" />
+          <mxGeometry x="407" y="360" width="420" height="270" as="geometry" />
         </mxCell>
         <mxCell id="4YTXbGI1UucfqqhjBZS5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="577" y="410" width="230" height="120" as="geometry" />
@@ -1072,6 +1072,9 @@
         </mxCell>
         <mxCell id="sFLt8A71aE0YPdeKwNUH-5" value="can_socket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="455" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sFLt8A71aE0YPdeKwNUH-6" value="subscriber (can/send)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="417" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
