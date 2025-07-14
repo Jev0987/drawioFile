@@ -1236,10 +1236,10 @@
           <mxGeometry x="205" y="280" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-45" value="callback" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="640" width="80" height="30" as="geometry" />
+          <mxGeometry x="315" y="605" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhTolhNMdukIKO1PMWw3-46" value="Proxy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="375" y="448" width="50" height="30" as="geometry" />
+          <mxGeometry x="270" y="560" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
