@@ -1238,10 +1238,10 @@
           <mxGeometry x="648" y="800" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qck-ce6MjHptpaP-X_Bk-2" value="subscriber 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="830" width="98" height="30" as="geometry" />
+          <mxGeometry x="374" y="830" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qck-ce6MjHptpaP-X_Bk-4" value="subscriber N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="900" width="98" height="30" as="geometry" />
+          <mxGeometry x="374" y="900" width="98" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
