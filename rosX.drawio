@@ -10,6 +10,15 @@
         <mxCell id="AuWu_W4zu13WxI6EuseF-3" value="&lt;b&gt;slave board&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="770" y="110" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AuWu_W4zu13WxI6EuseF-4" value="" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="840" y="270" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AuWu_W4zu13WxI6EuseF-7" value="&lt;b&gt;pudu-base&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="840" y="270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuWu_W4zu13WxI6EuseF-8" value="&lt;b&gt;log&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="980" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
