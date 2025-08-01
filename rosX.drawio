@@ -33,7 +33,7 @@
           <mxGeometry x="850" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AuWu_W4zu13WxI6EuseF-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="530" width="410" height="240" as="geometry" />
+          <mxGeometry x="840" y="530" width="260" height="240" as="geometry" />
         </mxCell>
         <mxCell id="AuWu_W4zu13WxI6EuseF-11" value="&lt;b&gt;Node Manager&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="850" y="540" width="140" height="30" as="geometry" />
