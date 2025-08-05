@@ -74,12 +74,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fZ5Amp4a_N4NRsLbyw3Y" name="nvq_core and hardware">
-    <mxGraphModel dx="937" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="897" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xJLVZ9TcCmY2twon8WW1-1" value="nvq_rosX" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="360" width="110" height="50" as="geometry" />
+          <mxGeometry x="20" y="420" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
