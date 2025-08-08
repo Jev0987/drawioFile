@@ -121,7 +121,10 @@
           <mxGeometry x="105" y="380" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOkb4hN25QZ7roBIoARD-18" value="destroyTestNode" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="400" width="150" height="40" as="geometry" />
+          <mxGeometry x="-220" y="400" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IOkb4hN25QZ7roBIoARD-20" value="mission_destroy_service" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="400" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
