@@ -74,30 +74,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fZ5Amp4a_N4NRsLbyw3Y" name="nvq_core and hardware">
-    <mxGraphModel dx="1764" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2397" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jXxfJWQsXuk4CnfInWVA-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="370" width="170" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="xJLVZ9TcCmY2twon8WW1-1" value="nvq_rosX" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="660" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jXxfJWQsXuk4CnfInWVA-1" value="pudu-base" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jXxfJWQsXuk4CnfInWVA-2" value="Ros2Base" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jXxfJWQsXuk4CnfInWVA-4" value="Libs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="340" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jXxfJWQsXuk4CnfInWVA-7" value="service" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="655" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZbBPQh0tSaO_7GdFhYlR-1" value="controller" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="655" width="120" height="60" as="geometry" />
+        <mxCell id="IOkb4hN25QZ7roBIoARD-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
