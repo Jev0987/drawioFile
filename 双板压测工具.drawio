@@ -106,7 +106,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IOkb4hN25QZ7roBIoARD-5" value="createTestNode" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="310" width="150" height="40" as="geometry" />
+          <mxGeometry x="-180" y="310" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOkb4hN25QZ7roBIoARD-7" value="testNode_1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="230" width="150" height="40" as="geometry" />
@@ -121,7 +121,7 @@
           <mxGeometry x="105" y="380" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOkb4hN25QZ7roBIoARD-18" value="destroyTestNode" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="380" width="150" height="40" as="geometry" />
+          <mxGeometry x="-310" y="400" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
