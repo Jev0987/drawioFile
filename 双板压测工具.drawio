@@ -74,12 +74,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fZ5Amp4a_N4NRsLbyw3Y" name="nvq_core and hardware">
-    <mxGraphModel dx="2397" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2135" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IOkb4hN25QZ7roBIoARD-1" value="rosX_controller" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="IOkb4hN25QZ7roBIoARD-2" value="mission_service" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="310" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IOkb4hN25QZ7roBIoARD-3" value="&lt;b&gt;rosX_controller&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOkb4hN25QZ7roBIoARD-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-580" y="329.58" as="sourcePoint" />
+            <mxPoint x="-420" y="329.58" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
