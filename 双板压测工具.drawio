@@ -74,101 +74,101 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fZ5Amp4a_N4NRsLbyw3Y" name="rosX_controller">
-    <mxGraphModel dx="2962" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3293" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IOkb4hN25QZ7roBIoARD-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-700" y="320" width="750" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-175" y="350" width="205" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOkb4hN25QZ7roBIoARD-2" target="IOkb4hN25QZ7roBIoARD-5">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IOkb4hN25QZ7roBIoARD-2" target="IOkb4hN25QZ7roBIoARD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOkb4hN25QZ7roBIoARD-2" target="IOkb4hN25QZ7roBIoARD-18">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IOkb4hN25QZ7roBIoARD-2" target="IOkb4hN25QZ7roBIoARD-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-2" value="mission_create_service" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-2" value="mission_create_service" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="470" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;rosX_controller&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;rosX_controller&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-680" y="330" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOkb4hN25QZ7roBIoARD-5" target="IOkb4hN25QZ7roBIoARD-27">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IOkb4hN25QZ7roBIoARD-5" target="IOkb4hN25QZ7roBIoARD-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-5" value="createTestNode" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-5" value="createTestNode" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="380" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-7" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-154" y="367" width="160" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOkb4hN25QZ7roBIoARD-18" target="IOkb4hN25QZ7roBIoARD-27">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IOkb4hN25QZ7roBIoARD-18" target="IOkb4hN25QZ7roBIoARD-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-18" value="destroyTestNode" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-18" value="destroyTestNode" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="530" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-29" value="Node map" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-29" value="Node map" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-112.5" y="320" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-34" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;config: {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;op&quot;:&quot;create&quot;&amp;nbsp; // 创建、销毁测试任务即获取测试结果&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;mission_name&quot;: &quot;topic_test_mission&quot;&amp;nbsp; // 测试任务名称&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;test_type&quot;:&quot;topic&quot;,&amp;nbsp; // 测试消息类型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;test_num&quot;:1， // 单节点内通信测试的个数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;test_name&quot;: [&quot;node1/test_topic_1&quot;]&amp;nbsp; // 对应通信方式的名称&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;test_type&quot;: [&quot;std_msgs::msg::topic_type&quot;]&amp;nbsp; // 通信消息类型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;test_role&quot;:[&quot;publisher&quot;]&amp;nbsp; // 需要创建的角色&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;test_time&quot;:100,&amp;nbsp; // 测试时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;frequency&quot;:100,&amp;nbsp; // 数据传输频率 ，次/秒&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;data_size&quot;:1024,&amp;nbsp; // 数据传输大小&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="390" width="360" height="190" as="geometry" />
+        <mxCell id="IOkb4hN25QZ7roBIoARD-34" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;config: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;op&quot;:&quot;create&quot;&amp;nbsp; // 创建、销毁测试任务即获取测试结果&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;mission_name&quot;: &quot;topic_test_mission&quot;&amp;nbsp; // 测试任务名称&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;test_type&quot;:&quot;topic&quot;,&amp;nbsp; // 测试消息类型&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;test_num&quot;:1， // 单节点内通信测试的个数&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;test_name&quot;: [&quot;node1/test_topic_1&quot;]&amp;nbsp; // 对应通信方式的名称&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;test_type&quot;: [&quot;std_msgs::msg::topic_type&quot;]&amp;nbsp; // 通信消息类型&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;test_role&quot;:[&quot;publisher&quot;]&amp;nbsp; // 需要创建的角色&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;test_time&quot;:100,&amp;nbsp; // 测试时间&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;frequency&quot;:100,&amp;nbsp; // 数据传输频率 ，次/秒&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&quot;data_size&quot;:1024,&amp;nbsp; // 数据传输大小&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1277" y="50" width="450" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-37" value="create" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-37" value="create" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-490" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-38" value="destroy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-38" value="destroy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-490" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-42" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;testNode_1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-42" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;testNode_1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-154" y="367" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOkb4hN25QZ7roBIoARD-43" target="IOkb4hN25QZ7roBIoARD-53">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IOkb4hN25QZ7roBIoARD-43" target="IOkb4hN25QZ7roBIoARD-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="412" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-43" value="display_client" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-43" value="display_client" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-114" y="397" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-44" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-44" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-154" y="447" width="160" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-45" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;testNode_2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-45" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;testNode_2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-154" y="447" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOkb4hN25QZ7roBIoARD-46" target="IOkb4hN25QZ7roBIoARD-54">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IOkb4hN25QZ7roBIoARD-46" target="IOkb4hN25QZ7roBIoARD-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-46" value="display_client" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-46" value="display_client" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-114" y="477" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-47" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-47" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-154" y="544" width="160" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-48" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;testNode_n&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-48" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;testNode_n&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-154" y="544" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IOkb4hN25QZ7roBIoARD-49" target="IOkb4hN25QZ7roBIoARD-55">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IOkb4hN25QZ7roBIoARD-49" target="IOkb4hN25QZ7roBIoARD-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="588.6666666666667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-49" value="display_client" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-49" value="display_client" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-114" y="574" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-53" value="show result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-53" value="show result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="397" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-54" value="show result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-54" value="show result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="477" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOkb4hN25QZ7roBIoARD-55" value="show result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IOkb4hN25QZ7roBIoARD-55" value="show result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="572" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
