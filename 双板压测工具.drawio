@@ -236,6 +236,24 @@
         <mxCell id="kO4e6g9SFbjGauIrkG8z-19" value="client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="770" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kO4e6g9SFbjGauIrkG8z-22" value="server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="890" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kO4e6g9SFbjGauIrkG8z-23" value="server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="890" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kO4e6g9SFbjGauIrkG8z-24" value="subscriber" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="890" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kO4e6g9SFbjGauIrkG8z-25" value="subscriber" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="890" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kO4e6g9SFbjGauIrkG8z-26" value="publisher" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="890" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kO4e6g9SFbjGauIrkG8z-27" value="server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="890" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
