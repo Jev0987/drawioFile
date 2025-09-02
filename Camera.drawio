@@ -43,20 +43,23 @@
         <mxCell id="GyntzlskG0UPcChYsorm-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GyntzlskG0UPcChYsorm-14" target="GyntzlskG0UPcChYsorm-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GyntzlskG0UPcChYsorm-14" value="orig_thread_" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="GyntzlskG0UPcChYsorm-14" value="orig_thread_(postOrigTask)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="630" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GyntzlskG0UPcChYsorm-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GyntzlskG0UPcChYsorm-16" target="GyntzlskG0UPcChYsorm-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GyntzlskG0UPcChYsorm-16" value="postOrigTask" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GyntzlskG0UPcChYsorm-16" value="packageOrigFrame" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GyntzlskG0UPcChYsorm-18" value="创建读数据线程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="580" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GyntzlskG0UPcChYsorm-19" value="packageOrigFrame" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GyntzlskG0UPcChYsorm-19" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GyntzlskG0UPcChYsorm-21" value="拷贝数据流信息到共享内存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="720" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
