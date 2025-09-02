@@ -55,6 +55,9 @@
         <mxCell id="GyntzlskG0UPcChYsorm-18" value="创建读数据线程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="580" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GyntzlskG0UPcChYsorm-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GyntzlskG0UPcChYsorm-19" target="GyntzlskG0UPcChYsorm-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GyntzlskG0UPcChYsorm-19" value="onOrigFrame" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="910" width="120" height="60" as="geometry" />
         </mxCell>
@@ -63,6 +66,12 @@
         </mxCell>
         <mxCell id="GyntzlskG0UPcChYsorm-22" value="传递原始数据帧数据地址，大小和时间戳" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="858" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GyntzlskG0UPcChYsorm-23" value="env-&amp;gt;GetMethodID(clazz_, ON_OTIG_FRAME, &quot;(IIJ)V&quot;)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1050" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GyntzlskG0UPcChYsorm-25" value="回传到KT层 Native的函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="998" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
