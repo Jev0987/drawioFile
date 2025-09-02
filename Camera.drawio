@@ -85,11 +85,20 @@
         <mxCell id="GyntzlskG0UPcChYsorm-29" value="KT 层 CameraDataCallBack 对象调用回调" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="1139" width="250" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GyntzlskG0UPcChYsorm-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GyntzlskG0UPcChYsorm-30" target="GyntzlskG0UPcChYsorm-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GyntzlskG0UPcChYsorm-30" value="env-&amp;gt;GetMethodID(clazz_, &quot;onFrameWithInfo&quot;, &quot;(IIJ)V&quot;)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="525" y="760" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GyntzlskG0UPcChYsorm-32" value="回传到KT层 Native的函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" y="710" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GyntzlskG0UPcChYsorm-33" value="cameraRgbDataCallBack" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="888" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GyntzlskG0UPcChYsorm-35" value="KT 层 CameraDataCallBack 对象调用回调" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="840" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
