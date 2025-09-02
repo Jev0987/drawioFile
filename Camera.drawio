@@ -31,6 +31,9 @@
         <mxCell id="GyntzlskG0UPcChYsorm-10" value="controlOriginalData" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GyntzlskG0UPcChYsorm-12" value="回传数据帧共享内存信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="334" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
