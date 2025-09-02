@@ -28,6 +28,9 @@
         <mxCell id="GyntzlskG0UPcChYsorm-8" value="onFrame" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GyntzlskG0UPcChYsorm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GyntzlskG0UPcChYsorm-10" target="GyntzlskG0UPcChYsorm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GyntzlskG0UPcChYsorm-10" value="controlOriginalData" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -36,6 +39,15 @@
         </mxCell>
         <mxCell id="GyntzlskG0UPcChYsorm-13" value="回传原始数据帧数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="440" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GyntzlskG0UPcChYsorm-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GyntzlskG0UPcChYsorm-14" target="GyntzlskG0UPcChYsorm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GyntzlskG0UPcChYsorm-14" value="orig_thread_" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GyntzlskG0UPcChYsorm-16" value="postOrigTask" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
