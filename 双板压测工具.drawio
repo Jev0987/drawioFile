@@ -398,11 +398,11 @@
         <mxCell id="FULOz3GlOv8hHJtYNbuE-20" value="expect ack = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="653" y="220" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FULOz3GlOv8hHJtYNbuE-21" value="expect ack = 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FULOz3GlOv8hHJtYNbuE-21" value="expect ack = 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="653" y="360" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FULOz3GlOv8hHJtYNbuE-22" value="expect ack = 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="653" y="420" width="100" height="30" as="geometry" />
+        <mxCell id="FULOz3GlOv8hHJtYNbuE-22" value="expect ack = 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="653" y="410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FULOz3GlOv8hHJtYNbuE-24" value="total_times = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="153" width="100" height="30" as="geometry" />
