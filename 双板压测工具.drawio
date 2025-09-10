@@ -328,7 +328,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tAi2ziCZoIVosuLahRNg" name="topic通信方式">
-    <mxGraphModel dx="1570" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1639" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,13 +401,13 @@
         <mxCell id="FULOz3GlOv8hHJtYNbuE-22" value="ack = 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="673" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FULOz3GlOv8hHJtYNbuE-28" value="total_times = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FULOz3GlOv8hHJtYNbuE-28" value="total_times = 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="753" y="153" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FULOz3GlOv8hHJtYNbuE-29" value="total_times = 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FULOz3GlOv8hHJtYNbuE-29" value="total_times = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="753" y="220" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FULOz3GlOv8hHJtYNbuE-31" value="total_times = 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FULOz3GlOv8hHJtYNbuE-31" value="total_times = 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="753" y="410" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
