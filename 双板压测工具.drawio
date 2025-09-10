@@ -432,12 +432,12 @@
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="95" y="890" as="sourcePoint" />
-            <mxPoint x="425" y="890" as="targetPoint" />
+            <mxPoint x="94" y="890" as="sourcePoint" />
+            <mxPoint x="424" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-28" value="ack = 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="860" width="60" height="30" as="geometry" />
+          <mxGeometry x="234" y="860" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-29" value="expect ack = 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="900" width="100" height="30" as="geometry" />
@@ -447,12 +447,12 @@
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="970" as="sourcePoint" />
-            <mxPoint x="90" y="970" as="targetPoint" />
+            <mxPoint x="422" y="970" as="sourcePoint" />
+            <mxPoint x="92" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-35" value="response = true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="940" width="110" height="30" as="geometry" />
+          <mxGeometry x="207" y="940" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-36" value="ack = 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="980" width="60" height="30" as="geometry" />
@@ -465,6 +465,15 @@
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-40" value="&lt;b&gt;服务端响应丢失&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-150" y="808" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="96" y="1070" as="sourcePoint" />
+            <mxPoint x="426" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-42" value="ack = 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="236" y="1040" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
