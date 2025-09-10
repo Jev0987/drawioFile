@@ -439,8 +439,8 @@
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-28" value="ack = 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="235" y="860" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BLHmMDJQ8XzzuJml15QZ-29" value="expect ack++" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="900" width="90" height="30" as="geometry" />
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-29" value="expect ack = 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="900" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
