@@ -394,7 +394,7 @@
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-12" value="response = true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="205" y="540" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BLHmMDJQ8XzzuJml15QZ-13" value="total_times++" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-13" value="total_times = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="615" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -421,13 +421,13 @@
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-23" value="lost" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="748" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BLHmMDJQ8XzzuJml15QZ-24" value="ack++" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-24" value="ack = 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="778" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BLHmMDJQ8XzzuJml15QZ-25" value="total_times++" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-25" value="total_times = 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="808" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BLHmMDJQ8XzzuJml15QZ-26" value="miss_times++" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-26" value="miss_times = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="838" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
