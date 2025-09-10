@@ -409,6 +409,18 @@
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-18" value="expect ack++" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="690" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="740" as="sourcePoint" />
+            <mxPoint x="260" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-21" value="response = true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="700" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-23" value="lost" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="748" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
