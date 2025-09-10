@@ -380,7 +380,7 @@
           <mxGeometry x="30" y="585" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-9" value="expect ack = 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="460" width="100" height="30" as="geometry" />
+          <mxGeometry x="420" y="490" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -389,7 +389,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-11" value="expect ack = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="520" width="100" height="30" as="geometry" />
+          <mxGeometry x="420" y="650" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-12" value="response = true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="205" y="540" width="110" height="30" as="geometry" />
@@ -407,7 +407,7 @@
           <mxGeometry x="230" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-18" value="expect ack = 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="690" width="100" height="30" as="geometry" />
+          <mxGeometry x="420" y="870" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -440,7 +440,7 @@
           <mxGeometry x="234" y="860" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-29" value="expect ack = 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="920" width="100" height="30" as="geometry" />
+          <mxGeometry x="430" y="1050" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
