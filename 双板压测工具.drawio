@@ -347,7 +347,7 @@
           <mxGeometry x="30" y="387" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-1" value="client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="35" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BLHmMDJQ8XzzuJml15QZ-1" target="bdPBasw9NOBSzzcoPJ-7-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -359,7 +359,7 @@
           <mxGeometry x="360" y="387" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-4" value="server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BLHmMDJQ8XzzuJml15QZ-4" target="BLHmMDJQ8XzzuJml15QZ-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -441,6 +441,9 @@
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-29" value="expect ack = 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="900" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-30" value="miss_times = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="930" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
