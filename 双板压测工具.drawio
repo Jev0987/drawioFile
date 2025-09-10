@@ -445,6 +445,21 @@
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-30" value="miss_times = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="930" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="970" as="sourcePoint" />
+            <mxPoint x="90" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-35" value="response = true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="940" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-36" value="ack = 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BLHmMDJQ8XzzuJml15QZ-37" value="total_times = 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1010" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
