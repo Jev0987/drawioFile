@@ -384,12 +384,12 @@
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="600" as="sourcePoint" />
-            <mxPoint x="90" y="600" as="targetPoint" />
+            <mxPoint x="420" y="590" as="sourcePoint" />
+            <mxPoint x="90" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BLHmMDJQ8XzzuJml15QZ-11" value="expect ack++" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="520" width="90" height="30" as="geometry" />
+          <mxGeometry x="425" y="530" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
