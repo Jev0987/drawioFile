@@ -70,6 +70,9 @@
         <mxCell id="9aZnvdLK3_b6_0JQmqmr-16" value="loop_thread" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="720" y="310" width="273" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="9aZnvdLK3_b6_0JQmqmr-18" value="&lt;b&gt;startProcess&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-10" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
