@@ -76,6 +76,12 @@
         <mxCell id="9aZnvdLK3_b6_0JQmqmr-21" value="&lt;b&gt;change_state&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="50" width="111" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VrqiIStvYWcNydMRBqYg-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9aZnvdLK3_b6_0JQmqmr-11" target="9aZnvdLK3_b6_0JQmqmr-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="490" as="sourcePoint" />
+            <mxPoint x="860" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
