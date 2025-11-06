@@ -139,7 +139,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zi67qrlAPKeHoVcklaBa-7" value="RESUME" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="386" y="639" width="120" height="55" as="geometry" />
+          <mxGeometry x="381" y="639" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="MaqoSwRMahnHG5eXTkjS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sm600vSDaJUELpJVh-T--3" target="MaqoSwRMahnHG5eXTkjS-9">
           <mxGeometry relative="1" as="geometry" />
@@ -153,38 +153,38 @@
         <mxCell id="MaqoSwRMahnHG5eXTkjS-1" value="create Behavior Tree" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="730" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MaqoSwRMahnHG5eXTkjS-4" value="change &lt;b&gt;control_task_state-&amp;gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;started&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-4" value="&lt;b&gt;control_task_state-&amp;gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;started&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="820" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MaqoSwRMahnHG5eXTkjS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MaqoSwRMahnHG5eXTkjS-6" target="MaqoSwRMahnHG5eXTkjS-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MaqoSwRMahnHG5eXTkjS-6" value="change&lt;div&gt;control_task_state -&amp;gt; paused&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-6" value="&lt;div&gt;control_task_state -&amp;gt; paused&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="730" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MaqoSwRMahnHG5eXTkjS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MaqoSwRMahnHG5eXTkjS-8" target="MaqoSwRMahnHG5eXTkjS-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MaqoSwRMahnHG5eXTkjS-8" value="change&lt;div&gt;control_task_state-&amp;gt;&lt;/div&gt;&lt;div&gt;started&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="381" y="730" width="130" height="50" as="geometry" />
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-8" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;control_task_state-&amp;gt;&lt;/span&gt;&lt;div&gt;started&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="730" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MaqoSwRMahnHG5eXTkjS-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MaqoSwRMahnHG5eXTkjS-9" target="MaqoSwRMahnHG5eXTkjS-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MaqoSwRMahnHG5eXTkjS-9" value="change&lt;div&gt;control_task_state-&amp;gt;&lt;/div&gt;&lt;div&gt;canceled&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-9" value="c&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;control_task_state-&amp;gt;&lt;/span&gt;&lt;div&gt;canceled&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="730" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MaqoSwRMahnHG5eXTkjS-12" value="change blackboard task_pause" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="820" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MaqoSwRMahnHG5eXTkjS-14" value="change blackboard task_resume" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="381" y="820" width="130" height="50" as="geometry" />
+          <mxGeometry x="376" y="820" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MaqoSwRMahnHG5eXTkjS-16" value="暂停任务" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="251" y="890" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MaqoSwRMahnHG5eXTkjS-17" value="恢复任务" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="416" y="890" width="60" height="30" as="geometry" />
+          <mxGeometry x="411" y="890" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MaqoSwRMahnHG5eXTkjS-18" value="control_task_state" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511" y="458.5" width="140" height="40" as="geometry" />
