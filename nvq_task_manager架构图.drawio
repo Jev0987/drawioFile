@@ -254,6 +254,9 @@
         <mxCell id="1wcXVxlkc9_pfj8dE_Eo-3" value="control_task_state" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="416" y="340" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1wcXVxlkc9_pfj8dE_Eo-5" value="tree-&amp;gt;tick_Once()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
