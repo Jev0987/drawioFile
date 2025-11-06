@@ -252,7 +252,7 @@
           <mxGeometry x="536" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1wcXVxlkc9_pfj8dE_Eo-3" value="control_task_state" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="416" y="340" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
