@@ -114,6 +114,12 @@
         <mxCell id="sm600vSDaJUELpJVh-T--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zi67qrlAPKeHoVcklaBa-1" target="sm600vSDaJUELpJVh-T--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zi67qrlAPKeHoVcklaBa-1" target="MaqoSwRMahnHG5eXTkjS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zi67qrlAPKeHoVcklaBa-1" target="MaqoSwRMahnHG5eXTkjS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Zi67qrlAPKeHoVcklaBa-1" value="changeTaskStatus(req)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="251" y="480" width="190" height="60" as="geometry" />
         </mxCell>
@@ -176,6 +182,12 @@
         </mxCell>
         <mxCell id="MaqoSwRMahnHG5eXTkjS-17" value="恢复任务" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="416" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-18" value="control_task_state" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="458.5" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-19" value="current_task_state" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="521.5" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
