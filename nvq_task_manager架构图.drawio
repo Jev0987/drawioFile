@@ -67,7 +67,7 @@
         <mxCell id="9aZnvdLK3_b6_0JQmqmr-14" value="task_status_pub_" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="230" width="273" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="9aZnvdLK3_b6_0JQmqmr-16" value="loop_thread" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="9aZnvdLK3_b6_0JQmqmr-16" value="loop_thread" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="720" y="310" width="273" height="35" as="geometry" />
         </mxCell>
       </root>
