@@ -174,10 +174,10 @@
         <mxCell id="MaqoSwRMahnHG5eXTkjS-9" value="c&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;control_task_state-&amp;gt;&lt;/span&gt;&lt;div&gt;canceled&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="730" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MaqoSwRMahnHG5eXTkjS-12" value="change blackboard task_pause" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-12" value="change blackboard &lt;b&gt;task_pause&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="820" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MaqoSwRMahnHG5eXTkjS-14" value="change blackboard task_resume" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-14" value="change blackboard &lt;b&gt;task_resume&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="376" y="820" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MaqoSwRMahnHG5eXTkjS-16" value="暂停任务" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
