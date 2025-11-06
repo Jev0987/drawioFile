@@ -31,6 +31,9 @@
         <mxCell id="Rwge1BW1ET17tpvLX07H-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;lifecycle node&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="210" y="190" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Rwge1BW1ET17tpvLX07H-10" value="ControAlgo(CType)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="308" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
