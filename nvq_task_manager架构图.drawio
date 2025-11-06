@@ -13,6 +13,12 @@
         <mxCell id="BOqYWO5Qsw2dZ602tspJ-3" value="&lt;b&gt;lifecycle node&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="289" y="200" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BOqYWO5Qsw2dZ602tspJ-4" value="on_configure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BOqYWO5Qsw2dZ602tspJ-5" value="on_activate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
