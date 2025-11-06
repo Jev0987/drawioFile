@@ -55,19 +55,19 @@
         <mxCell id="9aZnvdLK3_b6_0JQmqmr-7" value="&lt;b&gt;...&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9aZnvdLK3_b6_0JQmqmr-8" value="change_task_status_server_&lt;br&gt;/srv/task/control_service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9aZnvdLK3_b6_0JQmqmr-8" value="change_task_status_server_&lt;br&gt;/srv/task/control_service" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="-45" width="273" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="9aZnvdLK3_b6_0JQmqmr-10" value="task_status_pub_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9aZnvdLK3_b6_0JQmqmr-10" value="task_status_pub_" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="52" width="273" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="9aZnvdLK3_b6_0JQmqmr-11" value="task_action_service_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9aZnvdLK3_b6_0JQmqmr-11" value="task_action_service_" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="140" width="273" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="9aZnvdLK3_b6_0JQmqmr-14" value="task_status_pub_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9aZnvdLK3_b6_0JQmqmr-14" value="task_status_pub_" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="217.5" width="273" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="9aZnvdLK3_b6_0JQmqmr-16" value="loop_thread" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9aZnvdLK3_b6_0JQmqmr-16" value="loop_thread" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="300" width="273" height="55" as="geometry" />
         </mxCell>
       </root>
