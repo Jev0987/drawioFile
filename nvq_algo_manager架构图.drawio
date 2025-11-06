@@ -43,11 +43,14 @@
         <mxCell id="Rwge1BW1ET17tpvLX07H-10" value="ControAlgo(CType)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="360" y="308" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rwge1BW1ET17tpvLX07H-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rwge1BW1ET17tpvLX07H-11" target="Rwge1BW1ET17tpvLX07H-13">
+        <mxCell id="Rwge1BW1ET17tpvLX07H-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rwge1BW1ET17tpvLX07H-11" target="Rwge1BW1ET17tpvLX07H-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rwge1BW1ET17tpvLX07H-11" value="change_state_&lt;br&gt;(service)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="530" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rwge1BW1ET17tpvLX07H-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rwge1BW1ET17tpvLX07H-13" target="Rwge1BW1ET17tpvLX07H-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rwge1BW1ET17tpvLX07H-13" value="Algo process&lt;div&gt;(lifecycle node)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="530" width="100" height="60" as="geometry" />
@@ -59,7 +62,7 @@
           <mxGeometry y="330" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rwge1BW1ET17tpvLX07H-19" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 204));&quot;&gt;configure&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 204));&quot;&gt;activate&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 204));&quot;&gt;shutdown&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="500" width="80" height="60" as="geometry" />
+          <mxGeometry y="490" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
