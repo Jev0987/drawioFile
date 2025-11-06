@@ -171,6 +171,12 @@
         <mxCell id="MaqoSwRMahnHG5eXTkjS-14" value="change blackboard task_resume" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="820" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-16" value="暂停任务" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="251" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-17" value="恢复任务" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="416" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
