@@ -159,7 +159,7 @@
         <mxCell id="MaqoSwRMahnHG5eXTkjS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MaqoSwRMahnHG5eXTkjS-8" target="MaqoSwRMahnHG5eXTkjS-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MaqoSwRMahnHG5eXTkjS-8" value="change&lt;div&gt;control_task_state-&amp;gt;&lt;/div&gt;&lt;div&gt;resumed&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MaqoSwRMahnHG5eXTkjS-8" value="change&lt;div&gt;control_task_state-&amp;gt;&lt;/div&gt;&lt;div&gt;started&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="730" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MaqoSwRMahnHG5eXTkjS-9" value="change blackboard task_pause" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
