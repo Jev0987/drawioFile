@@ -155,8 +155,14 @@
             <mxPoint x="1094" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6wBpD2F5bVt6DUuQ6kfE-41" target="6wBpD2F5bVt6DUuQ6kfE-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-41" value="&lt;b&gt;systemd&lt;/b&gt;&lt;div&gt;&lt;b&gt;/etc/systemd/system/d5_joyStick.service&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="54" y="1280" width="361" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-42" value="&lt;b&gt;d5_joyStick_service&lt;/b&gt;&lt;div&gt;&lt;b&gt;(lifecycle node)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1300" width="145" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
