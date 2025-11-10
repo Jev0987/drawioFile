@@ -34,6 +34,9 @@
             <mxPoint x="234.66" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="S_powtQmdoT5hVGDp5jM-10" value="手柄通过url读取视频流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="770" width="250" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
