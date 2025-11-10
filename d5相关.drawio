@@ -105,6 +105,9 @@
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-23" value="&lt;b&gt;result&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="278" y="380" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-24" value="&lt;b&gt;启动顺序？ HardwareService&amp;nbsp; or d5_joyStick_service&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="25" y="540" width="490" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
