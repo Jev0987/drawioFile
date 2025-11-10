@@ -182,6 +182,51 @@
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-50" value="change_state" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="980" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1490" width="400" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="54" y="1519" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1600" as="sourcePoint" />
+            <mxPoint x="398" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-61" value="&lt;b&gt;HardwareService&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="79" y="1527" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-62" value="device_manager_client" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="1579" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-63" value="config" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="298" y="1560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6wBpD2F5bVt6DUuQ6kfE-67" target="6wBpD2F5bVt6DUuQ6kfE-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6wBpD2F5bVt6DUuQ6kfE-67" target="6wBpD2F5bVt6DUuQ6kfE-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-67" value="device_manager_server" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="1580" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-69" value="camera_node" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="644" y="1510" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-70" value="lidar_node" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="644" y="1580" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-71" value="&lt;b&gt;NVQ_Hardware&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="434" y="1500" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-74" value="&lt;b&gt;result&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="298" y="1620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-75" value="..." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="689" y="1625" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
