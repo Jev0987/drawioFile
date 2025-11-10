@@ -114,8 +114,17 @@
             <mxPoint x="1094" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6wBpD2F5bVt6DUuQ6kfE-26" target="6wBpD2F5bVt6DUuQ6kfE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-26" value="&lt;b&gt;algo_config&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="69" y="750" width="161" height="70" as="geometry" />
+          <mxGeometry x="80" y="760" width="161" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="690" width="340" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;NVQ_algo_manager&lt;/font&gt;&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="700" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
