@@ -155,6 +155,9 @@
             <mxPoint x="1094" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-41" value="systemd&lt;div&gt;/etc/systemd/d5_joyStick.service&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="1280" width="261" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
