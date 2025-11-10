@@ -54,9 +54,9 @@
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="34" y="279" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="248" y="360" as="sourcePoint" />
+            <mxPoint x="240" y="360" as="sourcePoint" />
             <mxPoint x="378" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -101,6 +101,9 @@
         </mxCell>
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-21" value="&lt;b&gt;若 整合到 nvq_hardware 里，需要考虑 actuator sdk&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry y="150" width="540" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-23" value="&lt;b&gt;result&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="278" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
