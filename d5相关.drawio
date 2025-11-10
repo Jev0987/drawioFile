@@ -96,7 +96,7 @@
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6wBpD2F5bVt6DUuQ6kfE-19" target="6wBpD2F5bVt6DUuQ6kfE-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-19" value="actuator" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-19" value="actuator sdk" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="884" y="320" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
