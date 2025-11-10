@@ -93,7 +93,7 @@
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-17" value="&lt;b&gt;NVQ_Hardware&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="414" y="260" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;strokeWidth=2;" edge="1" parent="1" source="6wBpD2F5bVt6DUuQ6kfE-19" target="6wBpD2F5bVt6DUuQ6kfE-10">
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="6wBpD2F5bVt6DUuQ6kfE-19" target="6wBpD2F5bVt6DUuQ6kfE-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-19" value="actuator sdk" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
@@ -106,7 +106,7 @@
           <mxGeometry x="278" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-24" value="&lt;b&gt;启动顺序？ which first? HardwareService&amp;nbsp; or d5_joyStick_service&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="34" y="540" width="686" height="60" as="geometry" />
+          <mxGeometry x="34" y="560" width="686" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-25" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=7;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
