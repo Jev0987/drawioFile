@@ -129,7 +129,7 @@
           <mxGeometry x="827" y="870" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-32" value="&lt;b&gt;d5_joyStick_service&lt;/b&gt;&lt;div&gt;&lt;b&gt;(lifecycle node)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="960" width="145" height="50" as="geometry" />
+          <mxGeometry x="827" y="970" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-34" value="..." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="669" y="390" width="60" height="30" as="geometry" />
@@ -176,8 +176,14 @@
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-46" value="startProcess" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="880" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6wBpD2F5bVt6DUuQ6kfE-48" target="6wBpD2F5bVt6DUuQ6kfE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-48" value="get_state_" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="930" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6wBpD2F5bVt6DUuQ6kfE-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6wBpD2F5bVt6DUuQ6kfE-50" target="6wBpD2F5bVt6DUuQ6kfE-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6wBpD2F5bVt6DUuQ6kfE-50" value="change_state" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="980" width="120" height="30" as="geometry" />
