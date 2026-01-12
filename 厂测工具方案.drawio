@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.2" pages="2">
   <diagram name="第 1 页" id="yN_SK3_mCdllKciUz6Yi">
     <mxGraphModel dx="1762" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,35 @@
         </mxCell>
         <mxCell id="q6vYbsmut7NC7Vtlo6G0-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;secondary board&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="560" y="585" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Os4n6OKugAuWReo6tjhG" name="第 2 页">
+    <mxGraphModel dx="2183" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-3" edge="1" parent="1" source="HkRqI1ZgTYC5Wcj-ekAy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" target="HkRqI1ZgTYC5Wcj-ekAy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-1" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="HardwareService" vertex="1">
+          <mxGeometry height="70" width="220" x="60" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-5" edge="1" parent="1" source="HkRqI1ZgTYC5Wcj-ekAy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" target="HkRqI1ZgTYC5Wcj-ekAy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-2" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="JoyStick" vertex="1">
+          <mxGeometry height="70" width="220" x="60" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-9" edge="1" parent="1" source="HkRqI1ZgTYC5Wcj-ekAy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" target="HkRqI1ZgTYC5Wcj-ekAy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-4" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="&lt;b&gt;communication class&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="250" x="-360" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-8" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="&lt;b&gt;webSocket&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="-325" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
