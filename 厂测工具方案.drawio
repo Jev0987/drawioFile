@@ -34,6 +34,12 @@
         <mxCell id="q6vYbsmut7NC7Vtlo6G0-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;机器端&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="582" y="390" as="geometry" />
         </mxCell>
+        <mxCell id="q6vYbsmut7NC7Vtlo6G0-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="main board" vertex="1">
+          <mxGeometry height="70" width="370" x="430" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="q6vYbsmut7NC7Vtlo6G0-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="secondary board" vertex="1">
+          <mxGeometry height="70" width="370" x="430" y="630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
