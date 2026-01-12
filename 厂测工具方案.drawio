@@ -81,20 +81,23 @@
         <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-11" edge="1" parent="1" source="HkRqI1ZgTYC5Wcj-ekAy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HkRqI1ZgTYC5Wcj-ekAy-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-2" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="JoyStick" vertex="1">
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-2" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;fontStyle=1" value="JoyStick" vertex="1">
           <mxGeometry height="70" width="220" x="60" y="250" as="geometry" />
         </mxCell>
         <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-9" edge="1" parent="1" source="HkRqI1ZgTYC5Wcj-ekAy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" target="HkRqI1ZgTYC5Wcj-ekAy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-4" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="&lt;b&gt;communication class&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="250" x="-360" y="370" as="geometry" />
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-4" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="&lt;b&gt;(abstract)&lt;/b&gt;&lt;div&gt;&lt;b&gt;communication class&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="250" x="-430" y="430" as="geometry" />
         </mxCell>
         <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-8" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="&lt;b&gt;webSocket&lt;/b&gt;" vertex="1">
-          <mxGeometry height="70" width="180" x="-325" y="490" as="geometry" />
+          <mxGeometry height="70" width="180" x="-395" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-10" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="&lt;b&gt;protocol&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="250" x="-40" y="370" as="geometry" />
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-18" edge="1" parent="1" source="HkRqI1ZgTYC5Wcj-ekAy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HkRqI1ZgTYC5Wcj-ekAy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-10" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div&gt;&lt;b&gt;(abstract)&lt;/b&gt;&lt;/div&gt;&lt;b&gt;protocol&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="250" x="-30" y="430" as="geometry" />
         </mxCell>
         <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="&lt;b&gt;kt&lt;/b&gt;" vertex="1">
           <mxGeometry height="70" width="90" x="-330" y="210" as="geometry" />
@@ -104,6 +107,15 @@
         </mxCell>
         <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;...&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="-20" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-17" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;" value="&lt;b&gt;msg_type&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="-170" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="手柄的通信方式" vertex="1">
+          <mxGeometry width="160" x="-385" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRqI1ZgTYC5Wcj-ekAy-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="通信协议类型抽象" vertex="1">
+          <mxGeometry height="30" width="170" x="-165" y="665" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
