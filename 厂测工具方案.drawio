@@ -61,6 +61,9 @@
         <mxCell id="q6vYbsmut7NC7Vtlo6G0-17" parent="8wRKkE54wnpUWNbSMdf9-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;secondary board&lt;/b&gt;" vertex="1">
           <mxGeometry height="21.42857142857143" width="110" x="130" as="geometry" />
         </mxCell>
+        <mxCell id="gcdqn6WiaYOckUxzt_z1-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;Socket&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="310" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
