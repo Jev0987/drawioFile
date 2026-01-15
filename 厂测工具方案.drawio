@@ -153,8 +153,8 @@
             <mxPoint x="540" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9HHOQrzTs-9nKW_aALO-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;2. configure factroy test node&lt;/b&gt;&lt;div&gt;&lt;b&gt;3. activate factroy test node&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="190" x="560" y="260" as="geometry" />
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;3. configure factroy test node&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;4. activate factroy test node&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="555" y="250" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Factroy Test APP" vertex="1">
           <mxGeometry height="40" width="130" x="20" y="179.5" as="geometry" />
@@ -168,8 +168,8 @@
             <mxPoint x="860" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9HHOQrzTs-9nKW_aALO-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="acvitvate launcher" vertex="1">
-          <mxGeometry height="30" width="120" x="750" y="149.5" as="geometry" />
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="2. acvitvate launcher" vertex="1">
+          <mxGeometry height="30" width="130" x="745" y="149.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
