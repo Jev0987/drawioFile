@@ -124,7 +124,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="70" width="360" x="370" y="540" as="geometry" />
+          <mxGeometry height="80" width="360" x="370" y="540" as="geometry" />
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="test missions" vertex="1">
           <mxGeometry height="80" width="368" x="372" y="650" as="geometry" />
@@ -258,11 +258,11 @@
             <mxPoint x="1090" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9HHOQrzTs-9nKW_aALO-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="FactoryTestManager" vertex="1">
-          <mxGeometry height="30" width="130" x="485" y="540" as="geometry" />
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="FactoryTestManager / remoteJoyStickManager" vertex="1">
+          <mxGeometry height="30" width="270" x="415" y="540" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-46" parent="1" style="whiteSpace=wrap;html=1;" value="mission socket port" vertex="1">
-          <mxGeometry height="30" width="158" x="380" y="565.75" as="geometry" />
+          <mxGeometry height="30" width="158" x="380" y="580" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-47" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffcc99;strokeColor=#36393d;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
