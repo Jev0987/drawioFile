@@ -104,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="--CTSVyHxXvgmCVVvpA7" name="第 3 页">
-    <mxGraphModel dx="2193" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2466" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,7 +150,7 @@
         <mxCell id="G9HHOQrzTs-9nKW_aALO-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;4. configure factroy test node&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;5. activate factroy test node&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="190" x="560" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="G9HHOQrzTs-9nKW_aALO-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Factroy Test APP" vertex="1">
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Factory Test APP" vertex="1">
           <mxGeometry height="220.5" width="200" x="-140" y="139.5" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Launcher&lt;/b&gt;" vertex="1">
@@ -258,8 +258,8 @@
             <mxPoint x="1090" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9HHOQrzTs-9nKW_aALO-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="FactoryTestManager / remoteJoyStickManager" vertex="1">
-          <mxGeometry height="30" width="270" x="415" y="540" as="geometry" />
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Factory&amp;nbsp;TestManager / remoteJoyStickManager" vertex="1">
+          <mxGeometry height="30" width="280" x="410" y="540" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-46" parent="1" style="whiteSpace=wrap;html=1;" value="mission socket port" vertex="1">
           <mxGeometry height="30" width="158" x="380" y="580" as="geometry" />
