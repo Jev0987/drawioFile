@@ -112,15 +112,15 @@
           <mxGeometry height="370" width="410" x="340" y="410" as="geometry" />
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;1. start factory test&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="165" y="149.5" as="geometry" />
+          <mxGeometry height="30" width="130" x="170" y="130" as="geometry" />
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-5" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#eeeeee;strokeColor=#36393d;" value="&lt;b&gt;remote joystick&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="250" x="30" y="60" as="geometry" />
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-7" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="170" y="199" as="sourcePoint" />
-            <mxPoint x="300" y="199" as="targetPoint" />
+            <mxPoint x="170" y="179.5" as="sourcePoint" />
+            <mxPoint x="300" y="179.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FactoryTestNode" vertex="1">
@@ -157,28 +157,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;3. configure factroy test node&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;4. activate factroy test node&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="190" x="560" y="290" as="geometry" />
+          <mxGeometry height="60" width="190" x="560" y="300" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Factroy Test APP" vertex="1">
           <mxGeometry height="40" width="130" x="20" y="179.5" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Launcher" vertex="1">
-          <mxGeometry height="55.75" width="300" x="880" y="174.25" as="geometry" />
+          <mxGeometry height="55.75" width="350" x="920" y="174.25" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-10" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="745" y="190" as="sourcePoint" />
-            <mxPoint x="865" y="190" as="targetPoint" />
+            <mxPoint x="910" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="2. acvitvate launcher" vertex="1">
-          <mxGeometry height="30" width="130" x="745" y="130" as="geometry" />
+          <mxGeometry height="30" width="130" x="760" y="140" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-12" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="860" y="230" as="sourcePoint" />
+            <mxPoint x="910" y="230" as="sourcePoint" />
             <mxPoint x="745" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="return self-inspect result" vertex="1">
+          <mxGeometry height="30" width="150" x="760" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-16" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="220" as="sourcePoint" />
+            <mxPoint x="170" y="219.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="respond setup env result" vertex="1">
+          <mxGeometry height="30" width="150" x="160" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
