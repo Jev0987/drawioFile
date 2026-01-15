@@ -115,7 +115,7 @@
           <mxGeometry height="30" width="110" x="110" y="330" as="geometry" />
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;request&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="20" y="280" as="geometry" />
+          <mxGeometry height="30" width="70" x="15" y="280" as="geometry" />
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-5" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=3;" value="&lt;b&gt;remote joystick&lt;/b&gt;" vertex="1">
           <mxGeometry height="45" width="170" x="-204" y="319.5" as="geometry" />
@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;response&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="80" x="15" y="390" as="geometry" />
+          <mxGeometry height="30" width="80" x="10" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
