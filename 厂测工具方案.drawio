@@ -288,6 +288,9 @@
         <mxCell id="G9HHOQrzTs-9nKW_aALO-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;rotation=35;" value="respond result" vertex="1">
           <mxGeometry height="30" width="100" x="120" y="500" as="geometry" />
         </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="ps. 如果 launcher 常驻, 则不需要拉起" vertex="1">
+          <mxGeometry height="30" width="220" x="1355" y="189.75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
