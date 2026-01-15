@@ -123,8 +123,8 @@
             <mxPoint x="300" y="179.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xz_hzs5x_PMiSv8soS7c-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FactoryTestManager" vertex="1">
-          <mxGeometry height="40" width="360" x="370" y="540" as="geometry" />
+        <mxCell id="xz_hzs5x_PMiSv8soS7c-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="360" x="370" y="540" as="geometry" />
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="test missions" vertex="1">
           <mxGeometry height="80" width="368" x="372" y="650" as="geometry" />
@@ -263,6 +263,12 @@
             <mxPoint x="1290" y="510" as="sourcePoint" />
             <mxPoint x="1290" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="FactoryTestManager" vertex="1">
+          <mxGeometry height="30" width="130" x="485" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-46" parent="1" style="whiteSpace=wrap;html=1;" value="mission socket port" vertex="1">
+          <mxGeometry height="30" width="158" x="380" y="565.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
