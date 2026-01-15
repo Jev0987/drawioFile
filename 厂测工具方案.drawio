@@ -159,6 +159,15 @@
         <mxCell id="G9HHOQrzTs-9nKW_aALO-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Factroy Test APP" vertex="1">
           <mxGeometry height="40" width="130" x="20" y="179.5" as="geometry" />
         </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Launcher" vertex="1">
+          <mxGeometry height="40" width="263" x="850" y="179.5" as="geometry" />
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-10" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="747" y="199" as="sourcePoint" />
+            <mxPoint x="827" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
