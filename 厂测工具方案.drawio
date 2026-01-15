@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FactoryTestNode" vertex="1">
-          <mxGeometry height="40" width="350" x="365" y="370" as="geometry" />
+          <mxGeometry height="40" width="360" x="360" y="370" as="geometry" />
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="test mission service" vertex="1">
           <mxGeometry height="40" width="193" x="360" y="460" as="geometry" />
