@@ -198,6 +198,27 @@
         <mxCell id="G9HHOQrzTs-9nKW_aALO-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;NavigationService&lt;/b&gt;" vertex="1">
           <mxGeometry height="45.75" width="160" x="1150" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;nvq_core_service&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35.75" width="340" x="965" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-23" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1039.5" y="340" as="sourcePoint" />
+            <mxPoint x="1039.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-24" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1229.5" y="340" as="sourcePoint" />
+            <mxPoint x="1229.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;nvq_device_manager&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45.75" width="160" x="960" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;nvq_algo_manager&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45.75" width="160" x="1150" y="490" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
