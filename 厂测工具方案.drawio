@@ -108,11 +108,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QXSCAAyCCnNM3copnRZK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="&lt;b&gt;vehicleServcie&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="340" x="190" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="QXSCAAyCCnNM3copnRZK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;WebSocket&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="250" x="235" y="220" as="geometry" />
+        <mxCell id="SsGFX-DBn6ANCxO26yVS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;VehicleService&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="320" x="100" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
