@@ -222,7 +222,7 @@
             <mxPoint x="1210" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9HHOQrzTs-9nKW_aALO-29" parent="1" style="whiteSpace=wrap;html=1;" value="sensors" vertex="1">
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-29" parent="1" style="whiteSpace=wrap;html=1;" value="sensors &amp;amp;&amp;amp;&lt;br&gt;external node" vertex="1">
           <mxGeometry height="160" width="120" x="985" y="620" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-30" parent="1" style="whiteSpace=wrap;html=1;" value="algorithm modules" vertex="1">
@@ -290,6 +290,9 @@
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="ps. 如果 launcher 常驻, 则不需要拉起" vertex="1">
           <mxGeometry height="30" width="220" x="1355" y="189.75" as="geometry" />
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="ps. 是否直接通过 device_manager&amp;nbsp; 拉起的手柄节点去通信?" vertex="1">
+          <mxGeometry height="30" width="340" x="685" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
