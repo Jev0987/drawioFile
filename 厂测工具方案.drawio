@@ -104,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="--CTSVyHxXvgmCVVvpA7" name="第 3 页">
-    <mxGraphModel dx="1764" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2193" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,8 +203,8 @@
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-24" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1249.58" y="340" as="sourcePoint" />
-            <mxPoint x="1249.58" y="410" as="targetPoint" />
+            <mxPoint x="1210" y="340.5" as="sourcePoint" />
+            <mxPoint x="1210" y="410.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;nvq_device_manager&lt;/b&gt;" vertex="1">
@@ -221,8 +221,8 @@
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-28" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1250.08" y="470" as="sourcePoint" />
-            <mxPoint x="1249.58" y="510" as="targetPoint" />
+            <mxPoint x="1210.5" y="470" as="sourcePoint" />
+            <mxPoint x="1210" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-29" parent="1" style="whiteSpace=wrap;html=1;" value="sensors" vertex="1">
@@ -253,10 +253,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-39" parent="1" style="whiteSpace=wrap;html=1;" value="ros sensor jni" vertex="1">
-          <mxGeometry height="30" width="90" x="1030" y="360" as="geometry" />
+          <mxGeometry height="30" width="90" x="1040" y="360" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-40" parent="1" style="whiteSpace=wrap;html=1;" value="ros algo jni" vertex="1">
-          <mxGeometry height="30" width="90" x="1280" y="360.5" as="geometry" />
+          <mxGeometry height="30" width="90" x="1241" y="360.5" as="geometry" />
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-41" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffcc99;strokeColor=#36393d;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1090" y="510" as="sourcePoint" />
+            <mxPoint x="1090" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-42" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffcc99;strokeColor=#36393d;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1290" y="510" as="sourcePoint" />
+            <mxPoint x="1290" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
