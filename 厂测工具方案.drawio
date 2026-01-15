@@ -230,8 +230,8 @@
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-32" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="540" y="470" as="sourcePoint" />
-            <mxPoint x="539.5" y="510" as="targetPoint" />
+            <mxPoint x="538.5" y="470" as="sourcePoint" />
+            <mxPoint x="538" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-34" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
@@ -247,21 +247,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-39" parent="1" style="whiteSpace=wrap;html=1;" value="ros sensor jni" vertex="1">
-          <mxGeometry height="30" width="90" x="1040" y="360" as="geometry" />
+          <mxGeometry height="30" width="90" x="1040" y="350" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-40" parent="1" style="whiteSpace=wrap;html=1;" value="ros algo jni" vertex="1">
-          <mxGeometry height="30" width="90" x="1241" y="360.5" as="geometry" />
+          <mxGeometry height="30" width="90" x="1241" y="350" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-41" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffcc99;strokeColor=#36393d;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1090" y="510" as="sourcePoint" />
-            <mxPoint x="1090" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G9HHOQrzTs-9nKW_aALO-42" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffcc99;strokeColor=#36393d;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1290" y="510" as="sourcePoint" />
-            <mxPoint x="1290" y="400" as="targetPoint" />
+            <mxPoint x="1090" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="FactoryTestManager" vertex="1">
@@ -269,6 +263,12 @@
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-46" parent="1" style="whiteSpace=wrap;html=1;" value="mission socket port" vertex="1">
           <mxGeometry height="30" width="158" x="380" y="565.75" as="geometry" />
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-47" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffcc99;strokeColor=#36393d;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1300" y="510" as="sourcePoint" />
+            <mxPoint x="1300" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
