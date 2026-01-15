@@ -162,18 +162,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qKqhnYuphi8ZHj82v5wD" name="时序图">
-    <mxGraphModel dx="1639" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2466" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="b4tD-ZzzlabRzyOu3xef-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="remote joystick&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="120" x="10" y="130" as="geometry" />
+          <mxGeometry height="40" width="120" x="-330" y="130" as="geometry" />
         </mxCell>
         <mxCell id="b4tD-ZzzlabRzyOu3xef-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="vehicleService" vertex="1">
-          <mxGeometry height="40" width="120" x="250" y="130" as="geometry" />
+          <mxGeometry height="40" width="120" x="-120" y="130" as="geometry" />
         </mxCell>
         <mxCell id="b4tD-ZzzlabRzyOu3xef-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FactroyTestNode" vertex="1">
-          <mxGeometry height="40" width="120" x="510" y="130" as="geometry" />
+          <mxGeometry height="40" width="120" x="1241" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b4tD-ZzzlabRzyOu3xef-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Launcher" vertex="1">
+          <mxGeometry height="40" width="120" x="100" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b4tD-ZzzlabRzyOu3xef-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HardwareService" vertex="1">
+          <mxGeometry height="40" width="120" x="310" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b4tD-ZzzlabRzyOu3xef-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NavigationService" vertex="1">
+          <mxGeometry height="40" width="120" x="520" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b4tD-ZzzlabRzyOu3xef-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="nvq_hardware" vertex="1">
+          <mxGeometry height="40" width="120" x="880" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b4tD-ZzzlabRzyOu3xef-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="nvq_algorithm" vertex="1">
+          <mxGeometry height="40" width="120" x="1060" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b4tD-ZzzlabRzyOu3xef-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="nvq_core" vertex="1">
+          <mxGeometry height="40" width="120" x="710" y="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
