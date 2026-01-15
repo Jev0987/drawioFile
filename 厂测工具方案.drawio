@@ -108,8 +108,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xz_hzs5x_PMiSv8soS7c-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;start factory test&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="170" y="149.5" as="geometry" />
+        <mxCell id="xz_hzs5x_PMiSv8soS7c-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;1. start factory test&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="165" y="149.5" as="geometry" />
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-5" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#eeeeee;strokeColor=#36393d;" value="&lt;b&gt;remote joystick&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="250" x="30" y="60" as="geometry" />
@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FactoryTestNode" vertex="1">
-          <mxGeometry height="40" width="350" x="360" y="390" as="geometry" />
+          <mxGeometry height="40" width="350" x="364" y="340" as="geometry" />
         </mxCell>
         <mxCell id="xz_hzs5x_PMiSv8soS7c-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="test mission service" vertex="1">
           <mxGeometry height="40" width="193" x="360" y="460" as="geometry" />
@@ -153,11 +153,11 @@
         <mxCell id="G9HHOQrzTs-9nKW_aALO-3" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="540" y="240" as="sourcePoint" />
-            <mxPoint x="540" y="380" as="targetPoint" />
+            <mxPoint x="540" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9HHOQrzTs-9nKW_aALO-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="configure factroy test node&lt;div&gt;activate factroy test node&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="160" x="560" y="290" as="geometry" />
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;2. configure factroy test node&lt;/b&gt;&lt;div&gt;&lt;b&gt;3. activate factroy test node&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="190" x="560" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
