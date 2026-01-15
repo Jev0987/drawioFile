@@ -141,7 +141,7 @@
             <mxPoint x="320" y="14.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9HHOQrzTs-9nKW_aALO-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="VehicleService" vertex="1">
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;VehicleService&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="360" x="360" y="179.5" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-2" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#eeeeee;strokeColor=#36393d;" value="&lt;b&gt;Robot&lt;/b&gt;" vertex="1">
@@ -160,13 +160,16 @@
           <mxGeometry height="40" width="130" x="20" y="179.5" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Launcher" vertex="1">
-          <mxGeometry height="40" width="263" x="850" y="179.5" as="geometry" />
+          <mxGeometry height="40" width="263" x="880" y="179.5" as="geometry" />
         </mxCell>
         <mxCell id="G9HHOQrzTs-9nKW_aALO-10" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="747" y="199" as="sourcePoint" />
-            <mxPoint x="827" y="199" as="targetPoint" />
+            <mxPoint x="860" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G9HHOQrzTs-9nKW_aALO-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="acvitvate launcher" vertex="1">
+          <mxGeometry height="30" width="120" x="730" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
