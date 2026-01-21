@@ -104,10 +104,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rNP8tNEoCdJHll3Eft19" name="厂测工具项目架构图">
-    <mxGraphModel dx="1957" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Jj4LkxXGINVl0_0huty0-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="610" width="790" x="120" y="-450" as="geometry" />
+        </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="90" width="380" x="170" y="-690" as="geometry" />
         </mxCell>
