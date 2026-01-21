@@ -303,8 +303,8 @@
         <mxCell id="Jj4LkxXGINVl0_0huty0-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;其他应用&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="38" width="200" x="-240" y="-869" as="geometry" />
         </mxCell>
-        <mxCell id="Jj4LkxXGINVl0_0huty0-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="data: {&lt;br&gt;}" vertex="1">
-          <mxGeometry height="30" width="60" x="40" y="-260" as="geometry" />
+        <mxCell id="Jj4LkxXGINVl0_0huty0-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="对应的结构为：&lt;br&gt;data: {&lt;br&gt;xxx:&amp;nbsp;&lt;br&gt;}&lt;br&gt;例如开灯，开哪里的灯，什么颜色" vertex="1">
+          <mxGeometry height="100" width="190" x="-60" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cmd: ?" vertex="1">
           <mxGeometry height="30" width="60" x="40" y="50" as="geometry" />
