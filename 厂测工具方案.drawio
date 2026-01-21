@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.1" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3" pages="4">
   <diagram name="大致框架" id="yN_SK3_mCdllKciUz6Yi">
     <mxGraphModel dx="1764" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,10 +104,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rNP8tNEoCdJHll3Eft19" name="厂测工具项目架构图">
-    <mxGraphModel dx="1356" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="935" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pDa9x6_ZQD9xrdYE2ho7-6" edge="1" parent="1" source="pDa9x6_ZQD9xrdYE2ho7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pDa9x6_ZQD9xrdYE2ho7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDa9x6_ZQD9xrdYE2ho7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TcpServerChannel" vertex="1">
+          <mxGeometry height="60" width="140" x="50" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="pDa9x6_ZQD9xrdYE2ho7-9" edge="1" parent="1" source="pDa9x6_ZQD9xrdYE2ho7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pDa9x6_ZQD9xrdYE2ho7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDa9x6_ZQD9xrdYE2ho7-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="IChannel （模版）" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pDa9x6_ZQD9xrdYE2ho7-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="IChannelBase" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="525" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
