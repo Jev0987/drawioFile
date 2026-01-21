@@ -109,10 +109,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Jj4LkxXGINVl0_0huty0-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="260" width="880" x="75" y="-120" as="geometry" />
+          <mxGeometry height="260" width="880" x="74" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="120" width="620" x="200" y="-100" as="geometry" />
+          <mxGeometry height="120" width="620" x="199" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="pDa9x6_ZQD9xrdYE2ho7-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="290" width="920" x="55" y="200" as="geometry" />
@@ -184,19 +184,19 @@
           <mxGeometry height="30" width="170" x="430" y="200" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;MessageRouter&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="490" x="269" y="70" as="geometry" />
+          <mxGeometry height="50" width="490" x="268" y="70" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="&lt;b&gt;CommonHandler&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="150" x="230" y="-60" as="geometry" />
+          <mxGeometry height="60" width="150" x="229" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="&lt;b&gt;SystemInfoHandler&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="150" x="430" y="-60" as="geometry" />
+          <mxGeometry height="60" width="150" x="429" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="&lt;b&gt;SensorHandler&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="150" x="634" y="-60" as="geometry" />
+          <mxGeometry height="60" width="150" x="633" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=1;fontSize=16;" value="&lt;b&gt;IHandler&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="170" x="420" y="-100" as="geometry" />
+          <mxGeometry height="30" width="170" x="419" y="-100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
