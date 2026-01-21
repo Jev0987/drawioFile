@@ -112,10 +112,10 @@
           <mxGeometry height="110" width="660" x="179" y="-400" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="260" width="710" x="150" y="-128" as="geometry" />
+          <mxGeometry height="260" width="710" x="160" y="-128" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="120" width="620" x="199" y="-108" as="geometry" />
+          <mxGeometry height="120" width="620" x="209" y="-108" as="geometry" />
         </mxCell>
         <mxCell id="pDa9x6_ZQD9xrdYE2ho7-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="290" width="920" x="55" y="200" as="geometry" />
@@ -186,20 +186,29 @@
         <mxCell id="pDa9x6_ZQD9xrdYE2ho7-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=1;fontSize=16;" value="&lt;b&gt;Control_Channel&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="170" x="430" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="Jj4LkxXGINVl0_0huty0-20" edge="1" parent="1" source="Jj4LkxXGINVl0_0huty0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Jj4LkxXGINVl0_0huty0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj4LkxXGINVl0_0huty0-21" edge="1" parent="1" source="Jj4LkxXGINVl0_0huty0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Jj4LkxXGINVl0_0huty0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj4LkxXGINVl0_0huty0-22" edge="1" parent="1" source="Jj4LkxXGINVl0_0huty0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Jj4LkxXGINVl0_0huty0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;MessageRouter&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="490" x="268" y="62" as="geometry" />
+          <mxGeometry height="50" width="490" x="270" y="62" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="&lt;b&gt;CommonHandler&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="150" x="229" y="-68" as="geometry" />
+          <mxGeometry height="60" width="150" x="239" y="-68" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="&lt;b&gt;SystemInfoHandler&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="150" x="429" y="-68" as="geometry" />
+          <mxGeometry height="60" width="150" x="439" y="-68" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="&lt;b&gt;SensorHandler&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="150" x="633" y="-68" as="geometry" />
+          <mxGeometry height="60" width="150" x="643" y="-68" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=1;fontSize=16;" value="&lt;b&gt;IHandler&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="170" x="419" y="-108" as="geometry" />
+          <mxGeometry height="30" width="170" x="429" y="-108" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;TestExecutor&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="490" x="270" y="-260" as="geometry" />
