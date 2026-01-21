@@ -249,6 +249,9 @@
         <mxCell id="Jj4LkxXGINVl0_0huty0-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;远程调用数据接受和解析&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="250" x="-220" y="325" as="geometry" />
         </mxCell>
+        <mxCell id="Jj4LkxXGINVl0_0huty0-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;根据消息对应的字段分配任务&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="38" width="330" x="-250" y="-17" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
