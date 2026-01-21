@@ -129,6 +129,9 @@
         <mxCell id="pDa9x6_ZQD9xrdYE2ho7-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OtherChannel&lt;br&gt;（未来可以实现其他的通信方式）" vertex="1">
           <mxGeometry height="60" width="150" x="50" y="320" as="geometry" />
         </mxCell>
+        <mxCell id="pDa9x6_ZQD9xrdYE2ho7-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="JsonControlMessage&lt;br&gt;（定义好的json协议）" vertex="1">
+          <mxGeometry height="60" width="150" x="540" y="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
