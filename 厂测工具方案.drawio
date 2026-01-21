@@ -306,8 +306,8 @@
         <mxCell id="Jj4LkxXGINVl0_0huty0-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="对应的结构为：&lt;br&gt;data: {&lt;br&gt;xxx:&amp;nbsp;&lt;br&gt;}&lt;br&gt;例如开灯，开哪里的灯，什么颜色" vertex="1">
           <mxGeometry height="100" width="190" x="-60" y="-270" as="geometry" />
         </mxCell>
-        <mxCell id="Jj4LkxXGINVl0_0huty0-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cmd: ?" vertex="1">
-          <mxGeometry height="30" width="60" x="40" y="50" as="geometry" />
+        <mxCell id="Jj4LkxXGINVl0_0huty0-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cmd？&lt;div&gt;确定什么具体是什么任务&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="-10" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
