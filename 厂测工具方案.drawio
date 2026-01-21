@@ -291,8 +291,8 @@
             <mxPoint x="518.58" y="-480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jj4LkxXGINVl0_0huty0-45" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="通过 ros 里的各类通信方式 获取数据" vertex="1">
-          <mxGeometry height="100" width="325" x="55" y="-900" as="geometry" />
+        <mxCell id="Jj4LkxXGINVl0_0huty0-45" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="已支持的 ros 通信方式获取的厂测数据，或者service执行的指令" vertex="1">
+          <mxGeometry height="100" width="340" x="40" y="-900" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-46" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="通过执行系统指令等方式 获取数据" vertex="1">
           <mxGeometry height="100" width="325" x="489" y="-900" as="geometry" />
