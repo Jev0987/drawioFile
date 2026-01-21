@@ -112,16 +112,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pDa9x6_ZQD9xrdYE2ho7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TcpServerChannel" vertex="1">
-          <mxGeometry height="60" width="202.5" x="18.75" y="340" as="geometry" />
+          <mxGeometry height="60" width="150" x="280" y="320" as="geometry" />
         </mxCell>
         <mxCell id="pDa9x6_ZQD9xrdYE2ho7-9" edge="1" parent="1" source="pDa9x6_ZQD9xrdYE2ho7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pDa9x6_ZQD9xrdYE2ho7-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pDa9x6_ZQD9xrdYE2ho7-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="IChannel （模版）" vertex="1">
-          <mxGeometry height="60" width="120" x="60" y="430" as="geometry" />
+          <mxGeometry height="60" width="120" x="180" y="430" as="geometry" />
         </mxCell>
         <mxCell id="pDa9x6_ZQD9xrdYE2ho7-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="IChannelBase" vertex="1">
-          <mxGeometry height="60" width="120" x="60" y="525" as="geometry" />
+          <mxGeometry height="60" width="120" x="180" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="pDa9x6_ZQD9xrdYE2ho7-12" edge="1" parent="1" source="pDa9x6_ZQD9xrdYE2ho7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pDa9x6_ZQD9xrdYE2ho7-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDa9x6_ZQD9xrdYE2ho7-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OtherChannel&lt;br&gt;（未来可以实现其他的通信方式）" vertex="1">
+          <mxGeometry height="60" width="150" x="50" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
