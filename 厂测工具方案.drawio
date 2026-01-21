@@ -309,8 +309,8 @@
         <mxCell id="Jj4LkxXGINVl0_0huty0-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="解析具体的任务数据：&lt;br&gt;data: {&lt;br&gt;xxx:&amp;nbsp;&lt;br&gt;}&lt;br&gt;例如开灯，开哪里的灯，什么颜色" vertex="1">
           <mxGeometry height="100" width="190" x="-71" y="-280" as="geometry" />
         </mxCell>
-        <mxCell id="Jj4LkxXGINVl0_0huty0-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="处理接收到的message，拉起执行器执行，组装回复数据信息" vertex="1">
-          <mxGeometry height="88" width="230" x="-100" y="21" as="geometry" />
+        <mxCell id="Jj4LkxXGINVl0_0huty0-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="处理接收到的message，拉起执行器执行（start还是stop等信息），组装回复数据信息" vertex="1">
+          <mxGeometry height="88" width="230" x="-140" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="业务相关" vertex="1">
           <mxGeometry height="30" width="90" x="910" y="-400" as="geometry" />
