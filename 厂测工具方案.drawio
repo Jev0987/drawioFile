@@ -252,6 +252,12 @@
         <mxCell id="Jj4LkxXGINVl0_0huty0-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;根据消息对应的字段分配任务&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="38" width="330" x="-250" y="-17" as="geometry" />
         </mxCell>
+        <mxCell id="Jj4LkxXGINVl0_0huty0-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;执行对应的任务&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="38" width="330" x="-250" y="-329" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj4LkxXGINVl0_0huty0-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;数据获取&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="38" width="200" x="-195" y="-630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
