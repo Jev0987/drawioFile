@@ -278,8 +278,8 @@
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-38" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=40;endSize=13.275;width=40;fillColor=#f5f5f5;strokeColor=#666666;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="430" y="-290" as="sourcePoint" />
-            <mxPoint x="430" y="-360" as="targetPoint" />
+            <mxPoint x="459" y="-280" as="sourcePoint" />
+            <mxPoint x="459" y="-350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-45" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="已支持的 ros 通信方式获取的厂测数据，或者service执行的指令" vertex="1">
