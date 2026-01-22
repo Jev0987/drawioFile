@@ -104,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rNP8tNEoCdJHll3Eft19" name="厂测工具项目架构图">
-    <mxGraphModel dx="1957" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3292" dy="2776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,7 +259,7 @@
           <mxGeometry height="38" width="330" x="-305" y="-240" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;具体执行&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="38" width="200" x="-255" y="-584" as="geometry" />
+          <mxGeometry height="38" width="200" x="-240" y="-480" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-47" edge="1" parent="1" source="Jj4LkxXGINVl0_0huty0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Jj4LkxXGINVl0_0huty0-33">
           <mxGeometry relative="1" as="geometry" />
@@ -292,16 +292,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-45" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="已支持的 ros 通信方式获取的厂测数据，或者service执行的指令" vertex="1">
-          <mxGeometry height="100" width="340" x="64" y="-780" as="geometry" />
+          <mxGeometry height="100" width="340" x="44" y="-720" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-46" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="通过执行系统指令等方式 获取的厂测数据" vertex="1">
-          <mxGeometry height="100" width="325" x="463" y="-780" as="geometry" />
+          <mxGeometry height="100" width="325" x="443" y="-720" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="开闭原则，数据获取只关注获取的方式，跟谁发送指令，谁给我回传数据" vertex="1">
-          <mxGeometry height="30" width="300" x="-305" y="-530" as="geometry" />
+          <mxGeometry height="30" width="300" x="-290" y="-426" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;其他应用&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="38" width="200" x="-235" y="-749" as="geometry" />
+          <mxGeometry height="38" width="200" x="-255" y="-689" as="geometry" />
         </mxCell>
         <mxCell id="Jj4LkxXGINVl0_0huty0-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="解析具体的任务数据：&lt;br&gt;data: {&lt;br&gt;xxx:&amp;nbsp;&lt;br&gt;}&lt;br&gt;例如开灯，开哪里的灯，什么颜色" vertex="1">
           <mxGeometry height="100" width="190" x="-235" y="-195" as="geometry" />
