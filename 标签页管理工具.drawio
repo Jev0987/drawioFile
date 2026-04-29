@@ -25,6 +25,18 @@
         <mxCell id="pPcpMXGQ_Em91JcSBRp--11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="最近关闭数量" vertex="1">
           <mxGeometry height="40" width="130" x="380" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="pPcpMXGQ_Em91JcSBRp--12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="页面tag" vertex="1">
+          <mxGeometry height="80" width="130" x="270" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pPcpMXGQ_Em91JcSBRp--13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="370" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pPcpMXGQ_Em91JcSBRp--14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="页面tag" vertex="1">
+          <mxGeometry height="80" width="130" x="440" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pPcpMXGQ_Em91JcSBRp--15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="540" y="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
