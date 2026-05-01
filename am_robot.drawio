@@ -29,10 +29,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0J0jtPP8bCpQZUBdG7A1-11" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="GMSL2" vertex="1">
-          <mxGeometry height="40" width="240" x="-550" y="460" as="geometry" />
+          <mxGeometry height="40" width="240" x="-545" y="440" as="geometry" />
         </mxCell>
         <mxCell id="0J0jtPP8bCpQZUBdG7A1-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;data interface&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="150" x="-710" y="460" as="geometry" />
+          <mxGeometry height="40" width="150" x="-680" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
