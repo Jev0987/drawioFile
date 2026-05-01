@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="if_Ictj8y_H9tt94Ulmm-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="150" width="380" x="-310" y="120" as="geometry" />
+          <mxGeometry height="150" width="380" x="-380" y="130" as="geometry" />
         </mxCell>
         <mxCell id="if_Ictj8y_H9tt94Ulmm-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot;&gt;&lt;b&gt;Torso RGB Camera&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe WPC, Segoe UI, system-ui, Ubuntu, Droid Sans, sans-serif&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe WPC, Segoe UI, system-ui, Ubuntu, Droid Sans, sans-serif&quot;&gt;OX08D10 * 4&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="200" x="490" y="210" as="geometry" />
@@ -14,16 +14,22 @@
           <mxGeometry height="70" width="200" x="170" y="210" as="geometry" />
         </mxCell>
         <mxCell id="0J0jtPP8bCpQZUBdG7A1-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IMU" vertex="1">
-          <mxGeometry height="60" width="80" x="-300" y="190" as="geometry" />
+          <mxGeometry height="60" width="80" x="-370" y="200" as="geometry" />
         </mxCell>
         <mxCell id="0J0jtPP8bCpQZUBdG7A1-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RGB Cmaera" vertex="1">
-          <mxGeometry height="60" width="110" x="-190" y="190" as="geometry" />
+          <mxGeometry height="60" width="110" x="-260" y="200" as="geometry" />
         </mxCell>
         <mxCell id="0J0jtPP8bCpQZUBdG7A1-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dTOF" vertex="1">
-          <mxGeometry height="60" width="110" x="-55" y="190" as="geometry" />
+          <mxGeometry height="60" width="110" x="-125" y="200" as="geometry" />
         </mxCell>
         <mxCell id="0J0jtPP8bCpQZUBdG7A1-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(225, 228, 232), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Head Sensor&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;Robosense AC2&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="130" x="-310" y="120" as="geometry" />
+          <mxGeometry height="60" width="130" x="-380" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0J0jtPP8bCpQZUBdG7A1-12" edge="1" parent="1" source="0J0jtPP8bCpQZUBdG7A1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="if_Ictj8y_H9tt94Ulmm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0J0jtPP8bCpQZUBdG7A1-11" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="GMSL2" vertex="1">
+          <mxGeometry height="40" width="240" x="-310" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
