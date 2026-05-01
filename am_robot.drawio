@@ -11,7 +11,7 @@
           <mxGeometry height="70" width="200" x="490" y="210" as="geometry" />
         </mxCell>
         <mxCell id="0J0jtPP8bCpQZUBdG7A1-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(225, 228, 232), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Head Camera&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;OX08D10&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="200" x="170" y="210" as="geometry" />
+          <mxGeometry height="70" width="200" x="90" y="210" as="geometry" />
         </mxCell>
         <mxCell id="0J0jtPP8bCpQZUBdG7A1-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IMU" vertex="1">
           <mxGeometry height="60" width="80" x="-370" y="200" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0J0jtPP8bCpQZUBdG7A1-11" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="GMSL2" vertex="1">
-          <mxGeometry height="40" width="240" x="-310" y="360" as="geometry" />
+          <mxGeometry height="40" width="240" x="-310" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
