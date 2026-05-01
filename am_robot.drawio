@@ -8,7 +8,7 @@
           <mxGeometry height="150" width="370" x="-610" y="210" as="geometry" />
         </mxCell>
         <mxCell id="if_Ictj8y_H9tt94Ulmm-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot;&gt;&lt;b&gt;Torso RGB Camera&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe WPC, Segoe UI, system-ui, Ubuntu, Droid Sans, sans-serif&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe WPC, Segoe UI, system-ui, Ubuntu, Droid Sans, sans-serif&quot;&gt;OX05C1S * 4&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="200" x="150" y="210" as="geometry" />
+          <mxGeometry height="70" width="200" x="350" y="210" as="geometry" />
         </mxCell>
         <mxCell id="0J0jtPP8bCpQZUBdG7A1-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(225, 228, 232), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Head Camera&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;OX08D10&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="200" x="-200" y="210" as="geometry" />
@@ -34,8 +34,11 @@
         <mxCell id="0J0jtPP8bCpQZUBdG7A1-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;data interface&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="150" x="-680" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="0J0jtPP8bCpQZUBdG7A1-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=39;" value="&lt;b&gt;/head&lt;/b&gt;" vertex="1">
+        <mxCell id="0J0jtPP8bCpQZUBdG7A1-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=39;" value="&lt;b&gt;head/&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="220" x="-450" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0J0jtPP8bCpQZUBdG7A1-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=39;" value="&lt;b&gt;torso/&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="340" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
