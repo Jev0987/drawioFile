@@ -189,6 +189,9 @@
         <mxCell id="skCvFzUwKgBFfsEvXePk-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="rclcpp&lt;div&gt;loaned_message.hpp&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="170" x="280" y="330" as="geometry" />
         </mxCell>
+        <mxCell id="skCvFzUwKgBFfsEvXePk-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;LoanedMessage constructor&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="275" y="450" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
