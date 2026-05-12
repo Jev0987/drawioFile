@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="3">
+<mxfile host="app.diagrams.net" pages="4">
   <diagram name="传感器整理" id="LXRXHt9DRMbfsnbOX2XS">
     <mxGraphModel dx="1947" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,7 +214,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="GhrSKVijYYVfrErtVXDF" name="第 3 页">
+  <diagram id="GhrSKVijYYVfrErtVXDF" name="IMU 模块">
     <mxGraphModel dx="1178" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -264,6 +264,14 @@
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="IIO transport" vertex="1">
           <mxGeometry height="50" width="140" x="370" y="640" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7N0vlgR0ey4P1Qe9cjhQ" name="Sensors Service">
+    <mxGraphModel dx="1414" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
