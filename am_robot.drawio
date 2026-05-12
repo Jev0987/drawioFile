@@ -234,13 +234,13 @@
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;imu ros2 control&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="240" x="150" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="Ru1WT_m4c4hWzEnMTlha-13" edge="1" parent="1" source="Ru1WT_m4c4hWzEnMTlha-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ru1WT_m4c4hWzEnMTlha-7">
+        <mxCell id="Ru1WT_m4c4hWzEnMTlha-13" edge="1" parent="1" source="Ru1WT_m4c4hWzEnMTlha-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;fontStyle=1" target="Ru1WT_m4c4hWzEnMTlha-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ru1WT_m4c4hWzEnMTlha-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="ethercat driver ros2" vertex="1">
+        <mxCell id="Ru1WT_m4c4hWzEnMTlha-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;fontStyle=1" value="ethercat driver ros2" vertex="1">
           <mxGeometry height="60" width="240" x="810" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="Ru1WT_m4c4hWzEnMTlha-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="ethercat gable imus" vertex="1">
+        <mxCell id="Ru1WT_m4c4hWzEnMTlha-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;fontStyle=1" value="ethercat gable imus" vertex="1">
           <mxGeometry height="50" width="310" x="775" y="370" as="geometry" />
         </mxCell>
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="ros2 control state interfaces" vertex="1">
