@@ -220,10 +220,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="IMU driver core" vertex="1">
-          <mxGeometry height="50" width="390" x="270" y="370" as="geometry" />
+          <mxGeometry height="50" width="310" x="310" y="370" as="geometry" />
         </mxCell>
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="IMU ros2 control" vertex="1">
-          <mxGeometry height="60" width="180" x="375" y="250" as="geometry" />
+          <mxGeometry height="60" width="240" x="350" y="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
