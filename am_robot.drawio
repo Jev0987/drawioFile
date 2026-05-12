@@ -275,9 +275,6 @@
         <mxCell id="9bkxJWFnYjGxdFiEm-mG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="Sensor Manager(Lifecycle Node)" vertex="1">
           <mxGeometry height="60" width="220" x="300" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="9bkxJWFnYjGxdFiEm-mG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" value="Sensor Manager" vertex="1">
-          <mxGeometry height="60" width="220" x="300" y="390" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
