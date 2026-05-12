@@ -222,6 +222,9 @@
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-8" edge="1" parent="1" source="Ru1WT_m4c4hWzEnMTlha-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ru1WT_m4c4hWzEnMTlha-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ru1WT_m4c4hWzEnMTlha-12" edge="1" parent="1" source="Ru1WT_m4c4hWzEnMTlha-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ru1WT_m4c4hWzEnMTlha-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="IMU driver core" vertex="1">
           <mxGeometry height="50" width="310" x="275" y="370" as="geometry" />
         </mxCell>
@@ -232,13 +235,13 @@
           <mxGeometry height="60" width="240" x="310" y="250" as="geometry" />
         </mxCell>
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="IMU driver plugins" vertex="1">
-          <mxGeometry height="50" width="290" x="60" y="490" as="geometry" />
+          <mxGeometry height="50" width="290" x="40" y="500" as="geometry" />
         </mxCell>
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="spi" vertex="1">
-          <mxGeometry height="50" width="160" x="-10" y="590" as="geometry" />
+          <mxGeometry height="50" width="160" x="-30" y="585" as="geometry" />
         </mxCell>
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="serial" vertex="1">
-          <mxGeometry height="50" width="160" x="220" y="590" as="geometry" />
+          <mxGeometry height="50" width="160" x="200" y="585" as="geometry" />
         </mxCell>
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="ethercat driver ros2" vertex="1">
           <mxGeometry height="60" width="240" x="810" y="250" as="geometry" />
@@ -248,6 +251,9 @@
         </mxCell>
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="ros2 control state interfaces" vertex="1">
           <mxGeometry height="60" width="600" x="400" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ru1WT_m4c4hWzEnMTlha-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="IMU SDK" vertex="1">
+          <mxGeometry height="50" width="290" x="400" y="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
