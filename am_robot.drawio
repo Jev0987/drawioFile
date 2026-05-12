@@ -304,7 +304,7 @@
           <mxGeometry height="60" width="600" x="320" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="cvnPv9ZbsnhkHY8fehKB-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" value="&lt;b&gt;wrtie state&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="180" x="280" y="370" as="geometry" />
+          <mxGeometry height="30" width="180" x="380" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
