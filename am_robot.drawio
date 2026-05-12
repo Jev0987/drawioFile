@@ -237,6 +237,9 @@
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="ethercat driver ros2" vertex="1">
           <mxGeometry height="60" width="240" x="810" y="250" as="geometry" />
         </mxCell>
+        <mxCell id="Ru1WT_m4c4hWzEnMTlha-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="ethercat gable imus" vertex="1">
+          <mxGeometry height="50" width="310" x="775" y="370" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
