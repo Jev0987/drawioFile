@@ -225,6 +225,15 @@
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="IMU ros2 control" vertex="1">
           <mxGeometry height="60" width="240" x="350" y="250" as="geometry" />
         </mxCell>
+        <mxCell id="Ru1WT_m4c4hWzEnMTlha-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="IMU driver plugins" vertex="1">
+          <mxGeometry height="50" width="290" x="100" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="Ru1WT_m4c4hWzEnMTlha-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="spi" vertex="1">
+          <mxGeometry height="50" width="160" x="30" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="Ru1WT_m4c4hWzEnMTlha-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="serial" vertex="1">
+          <mxGeometry height="50" width="160" x="240" y="590" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
