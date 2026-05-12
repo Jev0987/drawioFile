@@ -276,7 +276,7 @@
         <mxCell id="cvnPv9ZbsnhkHY8fehKB-5" edge="1" parent="1" source="cvnPv9ZbsnhkHY8fehKB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cvnPv9ZbsnhkHY8fehKB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cvnPv9ZbsnhkHY8fehKB-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="independent SDK" vertex="1">
+        <mxCell id="cvnPv9ZbsnhkHY8fehKB-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="Specify SDK" vertex="1">
           <mxGeometry height="100" width="275" x="355" y="670" as="geometry" />
         </mxCell>
       </root>
