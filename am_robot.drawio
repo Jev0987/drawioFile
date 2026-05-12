@@ -244,7 +244,7 @@
           <mxGeometry height="50" width="310" x="775" y="370" as="geometry" />
         </mxCell>
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="ros2 control state interfaces" vertex="1">
-          <mxGeometry height="60" width="600" x="370" y="50" as="geometry" />
+          <mxGeometry height="60" width="600" x="330" y="100" as="geometry" />
         </mxCell>
         <mxCell id="Ru1WT_m4c4hWzEnMTlha-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="imu_device1" vertex="1">
           <mxGeometry height="50" width="140" x="90" y="480" as="geometry" />
