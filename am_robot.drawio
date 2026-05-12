@@ -300,8 +300,8 @@
         <mxCell id="cvnPv9ZbsnhkHY8fehKB-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;plugin slave&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="980" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="cvnPv9ZbsnhkHY8fehKB-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;controller/broadcaster&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="600" x="320" y="-60" as="geometry" />
+        <mxCell id="cvnPv9ZbsnhkHY8fehKB-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;controller / imu_broadcaster&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="600" x="320" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="cvnPv9ZbsnhkHY8fehKB-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" value="&lt;b&gt;wrtie state&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="180" x="380" y="260" as="geometry" />
