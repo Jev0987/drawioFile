@@ -409,13 +409,13 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5TdowDTHYUq1irnb6D2N" name="第 5 页">
+  <diagram id="5TdowDTHYUq1irnb6D2N" name="robosence">
     <mxGraphModel dx="1414" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-H6D0qSlLAcUIRDL_1JC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fontSize=13;" value="SensorAdapter" vertex="1">
-          <mxGeometry height="60" width="220" x="160" y="210" as="geometry" />
+        <mxCell id="-H6D0qSlLAcUIRDL_1JC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fontSize=13;" value="RoboSence SDK" vertex="1">
+          <mxGeometry height="60" width="366" x="194" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
