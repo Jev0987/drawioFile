@@ -438,13 +438,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wHYwxBsC8ajSfEZg22FV-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fontSize=13;" value="" vertex="1">
-          <mxGeometry height="160" width="530" x="240" y="240" as="geometry" />
+          <mxGeometry height="150" width="530" x="240" y="240" as="geometry" />
         </mxCell>
         <mxCell id="wHYwxBsC8ajSfEZg22FV-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fontSize=13;" value="NvidiaGmlsCameraAdapter" vertex="1">
           <mxGeometry height="60" width="220" x="260" y="310" as="geometry" />
         </mxCell>
         <mxCell id="wHYwxBsC8ajSfEZg22FV-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;SensorAdapter&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="250" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wHYwxBsC8ajSfEZg22FV-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fontSize=13;" value="otherAdapter" vertex="1">
+          <mxGeometry height="60" width="220" x="530" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
