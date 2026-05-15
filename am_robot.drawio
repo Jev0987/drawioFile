@@ -314,6 +314,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mAqpczqkmv-Og0WuSx6j-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="1110" x="-150" y="260" as="geometry" />
+        </mxCell>
         <mxCell id="9bkxJWFnYjGxdFiEm-mG-5" edge="1" parent="1" source="9bkxJWFnYjGxdFiEm-mG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=13;" target="9bkxJWFnYjGxdFiEm-mG-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400.00000000000045" y="240" as="targetPoint" />
@@ -401,6 +404,9 @@
         </mxCell>
         <mxCell id="mAqpczqkmv-Og0WuSx6j-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=26;" value="&lt;b&gt;Sensor Manifest&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="270" x="-640" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mAqpczqkmv-Og0WuSx6j-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="&lt;b&gt;&lt;font&gt;Lifecycle Node&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="-150" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
