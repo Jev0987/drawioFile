@@ -381,7 +381,7 @@
         <mxCell id="62004qnI6-Heg2RzLFqb-14" edge="1" parent="1" source="62004qnI6-Heg2RzLFqb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=13;" target="62004qnI6-Heg2RzLFqb-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="62004qnI6-Heg2RzLFqb-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fontSize=13;" value="Fake Data" vertex="1">
+        <mxCell id="62004qnI6-Heg2RzLFqb-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fontSize=13;" value="RoboSenceAC2 SDK" vertex="1">
           <mxGeometry height="70" width="220" x="697" y="450" as="geometry" />
         </mxCell>
         <mxCell id="62004qnI6-Heg2RzLFqb-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fontSize=13;" value="L3 Diagnostics Service" vertex="1">
