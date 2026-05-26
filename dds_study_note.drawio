@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CdBaPtaR014crQh5ZqR6-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ROS2 Node" vertex="1">
-          <mxGeometry height="70" width="200" x="280" y="260" as="geometry" />
+          <mxGeometry height="70" width="200" x="280" y="280" as="geometry" />
         </mxCell>
         <mxCell id="iibKUEZEilDxI7rWxDAY-2" edge="1" parent="1" source="CdBaPtaR014crQh5ZqR6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CdBaPtaR014crQh5ZqR6-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CdBaPtaR014crQh5ZqR6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="rclcpp(C++ API)" vertex="1">
-          <mxGeometry height="70" width="200" x="280" y="390" as="geometry" />
+          <mxGeometry height="70" width="200" x="280" y="400" as="geometry" />
         </mxCell>
         <mxCell id="iibKUEZEilDxI7rWxDAY-3" edge="1" parent="1" source="CdBaPtaR014crQh5ZqR6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CdBaPtaR014crQh5ZqR6-4" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CdBaPtaR014crQh5ZqR6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="rmw(C API)" vertex="1">
-          <mxGeometry height="70" width="200" x="280" y="650" as="geometry" />
+          <mxGeometry height="70" width="200" x="280" y="630" as="geometry" />
         </mxCell>
         <mxCell id="iibKUEZEilDxI7rWxDAY-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CycloneDDS" vertex="1">
           <mxGeometry height="100" width="110" x="150" y="780" as="geometry" />
