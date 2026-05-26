@@ -7,13 +7,13 @@
         <mxCell id="CdBaPtaR014crQh5ZqR6-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ROS2 Node" vertex="1">
           <mxGeometry height="70" width="200" x="280" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="CdBaPtaR014crQh5ZqR6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="rclcpp" vertex="1">
+        <mxCell id="CdBaPtaR014crQh5ZqR6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="rclcpp(C++ API)" vertex="1">
           <mxGeometry height="70" width="200" x="280" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="CdBaPtaR014crQh5ZqR6-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="rcl" vertex="1">
+        <mxCell id="CdBaPtaR014crQh5ZqR6-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="rcl(C API)" vertex="1">
           <mxGeometry height="70" width="200" x="280" y="515" as="geometry" />
         </mxCell>
-        <mxCell id="CdBaPtaR014crQh5ZqR6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="rmw" vertex="1">
+        <mxCell id="CdBaPtaR014crQh5ZqR6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="rmw(C API)" vertex="1">
           <mxGeometry height="70" width="200" x="280" y="640" as="geometry" />
         </mxCell>
       </root>
