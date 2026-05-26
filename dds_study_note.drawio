@@ -25,6 +25,15 @@
         <mxCell id="CdBaPtaR014crQh5ZqR6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="rmw(C API)" vertex="1">
           <mxGeometry height="70" width="200" x="280" y="650" as="geometry" />
         </mxCell>
+        <mxCell id="iibKUEZEilDxI7rWxDAY-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CycloneDDS" vertex="1">
+          <mxGeometry height="100" width="110" x="150" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="iibKUEZEilDxI7rWxDAY-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FastDDS" vertex="1">
+          <mxGeometry height="100" width="110" x="325" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="iibKUEZEilDxI7rWxDAY-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OtherDDS" vertex="1">
+          <mxGeometry height="100" width="110" x="510" y="780" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
