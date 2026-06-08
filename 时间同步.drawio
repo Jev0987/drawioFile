@@ -103,19 +103,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uSZY_ewHzDrN7uc-WTs2-6" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;System Clock&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="140" x="70" y="270" as="geometry" />
+          <mxGeometry height="80" width="180" x="50" y="270" as="geometry" />
         </mxCell>
         <mxCell id="uSZY_ewHzDrN7uc-WTs2-13" edge="1" parent="1" source="uSZY_ewHzDrN7uc-WTs2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uSZY_ewHzDrN7uc-WTs2-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uSZY_ewHzDrN7uc-WTs2-8" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;PHC Clock&lt;/b&gt;&lt;div&gt;&lt;b&gt;/dev/ptpX&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="140" x="70" y="480" as="geometry" />
+          <mxGeometry height="80" width="180" x="50" y="480" as="geometry" />
         </mxCell>
         <mxCell id="uSZY_ewHzDrN7uc-WTs2-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=17;" value="phc2sys&lt;div&gt;source: CLOCK_REALTIME&lt;/div&gt;&lt;div&gt;target: /dev/ptpX&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="154" y="380" as="geometry" />
         </mxCell>
         <mxCell id="uSZY_ewHzDrN7uc-WTs2-12" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;eth0 PTP Master&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="140" x="70" y="650" as="geometry" />
+          <mxGeometry height="80" width="180" x="50" y="650" as="geometry" />
         </mxCell>
         <mxCell id="uSZY_ewHzDrN7uc-WTs2-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=17;" value="ptp4l&lt;div&gt;port state: MASTER&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="186" x="154" y="570" as="geometry" />
