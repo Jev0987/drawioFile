@@ -77,7 +77,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pe8oF_gbf7CqQSt0RiPm" name="D5w双板ptp时间同步">
-    <mxGraphModel dx="1627" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1627" dy="2033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,15 +86,15 @@
         </mxCell>
         <mxCell id="Pu6wP6B6mg4jkD0TQuWZ-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="360" y="230" as="sourcePoint" />
-            <mxPoint x="1080" y="230" as="targetPoint" />
+            <mxPoint x="170" y="-40" as="sourcePoint" />
+            <mxPoint x="1240" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pu6wP6B6mg4jkD0TQuWZ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=23;" value="RK&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3588&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="100" x="410" y="180" as="geometry" />
+          <mxGeometry height="30" width="100" x="290" y="-90" as="geometry" />
         </mxCell>
         <mxCell id="Pu6wP6B6mg4jkD0TQuWZ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=23;" value="Orin" vertex="1">
-          <mxGeometry height="30" width="100" x="930" y="180" as="geometry" />
+          <mxGeometry height="30" width="100" x="1010" y="-90" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-1" edge="1" parent="1" source="2JuG4ByyhzTQoiQMa3O2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2JuG4ByyhzTQoiQMa3O2-4" value="">
           <mxGeometry relative="1" as="geometry" />
