@@ -180,6 +180,9 @@
         <mxCell id="hyHQc6qYZTDK12X6ojay-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;fontColor=light-dark(#000000,#33FFFF);strokeColor=light-dark(#000000,#66FFFF);" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Orin 以 NTP 校准 System Clock,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;再经 phc2sys 同步到 PHC&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;最后有 ptp4l 作为 PTP Master 对外授时&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="310" x="1270" y="887" as="geometry" />
         </mxCell>
+        <mxCell id="hyHQc6qYZTDK12X6ojay-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;fontColor=light-dark(#000000,#33FFFF);strokeColor=light-dark(#000000,#66FFFF);" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;RK3588 作为 PTP Slave, ptp4l 仅同步 PHC&lt;/span&gt;" vertex="1">
+          <mxGeometry height="150" width="160" x="40" y="1100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
