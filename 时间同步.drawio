@@ -49,6 +49,9 @@
         <mxCell id="9tWx0qsMY7gKmuM-r2hu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PTP slave" vertex="1">
           <mxGeometry height="60" width="120" x="524" y="500" as="geometry" />
         </mxCell>
+        <mxCell id="9tWx0qsMY7gKmuM-r2hu-24" edge="1" parent="1" source="9tWx0qsMY7gKmuM-r2hu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" target="9tWx0qsMY7gKmuM-r2hu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9tWx0qsMY7gKmuM-r2hu-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PHC Clock&lt;br&gt;/dev/ptp0" vertex="1">
           <mxGeometry height="60" width="120" x="524" y="370" as="geometry" />
         </mxCell>
@@ -71,7 +74,7 @@
           <mxGeometry height="30" width="60" x="660" y="385" as="geometry" />
         </mxCell>
         <mxCell id="9tWx0qsMY7gKmuM-r2hu-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="phc2sys" vertex="1">
-          <mxGeometry height="30" width="60" x="620" y="320" as="geometry" />
+          <mxGeometry height="30" width="60" x="600" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
