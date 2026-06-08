@@ -13,11 +13,20 @@
         <mxCell id="473n1farRfXXC9yVkO81-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UTC" vertex="1">
           <mxGeometry height="30" width="60" x="70" y="70" as="geometry" />
         </mxCell>
+        <mxCell id="9tWx0qsMY7gKmuM-r2hu-3" edge="1" parent="1" source="473n1farRfXXC9yVkO81-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9tWx0qsMY7gKmuM-r2hu-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="473n1farRfXXC9yVkO81-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="System Clock" vertex="1">
           <mxGeometry height="60" width="120" x="35" y="230" as="geometry" />
         </mxCell>
+        <mxCell id="9tWx0qsMY7gKmuM-r2hu-5" edge="1" parent="1" source="9tWx0qsMY7gKmuM-r2hu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9tWx0qsMY7gKmuM-r2hu-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9tWx0qsMY7gKmuM-r2hu-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eth Clock" vertex="1">
-          <mxGeometry height="60" width="120" x="35" y="350" as="geometry" />
+          <mxGeometry height="60" width="120" x="35" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="9tWx0qsMY7gKmuM-r2hu-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PTP master" vertex="1">
+          <mxGeometry height="60" width="120" x="35" y="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
