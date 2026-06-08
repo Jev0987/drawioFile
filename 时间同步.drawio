@@ -49,11 +49,17 @@
         <mxCell id="9tWx0qsMY7gKmuM-r2hu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PTP slave" vertex="1">
           <mxGeometry height="60" width="120" x="414" y="490" as="geometry" />
         </mxCell>
+        <mxCell id="9tWx0qsMY7gKmuM-r2hu-15" edge="1" parent="1" source="9tWx0qsMY7gKmuM-r2hu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9tWx0qsMY7gKmuM-r2hu-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9tWx0qsMY7gKmuM-r2hu-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PHC" vertex="1">
           <mxGeometry height="60" width="120" x="414" y="360" as="geometry" />
         </mxCell>
         <mxCell id="9tWx0qsMY7gKmuM-r2hu-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="phc4l" vertex="1">
           <mxGeometry height="30" width="60" x="490" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="9tWx0qsMY7gKmuM-r2hu-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="System Clock" vertex="1">
+          <mxGeometry height="60" width="120" x="414" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
