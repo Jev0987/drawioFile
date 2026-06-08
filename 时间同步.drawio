@@ -77,12 +77,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pe8oF_gbf7CqQSt0RiPm" name="D5w双板ptp时间同步">
-    <mxGraphModel dx="1627" dy="2033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1914" dy="2185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5SfUiUVYjCzxrczaQe4S-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;ptp4l -i eth0 -m -H -E -2 -s&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="220" x="230" y="750" as="geometry" />
+          <mxGeometry height="40" width="220" x="160" y="1090" as="geometry" />
         </mxCell>
         <mxCell id="Pu6wP6B6mg4jkD0TQuWZ-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pu6wP6B6mg4jkD0TQuWZ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=23;" value="RK&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3588&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="100" x="290" y="-90" as="geometry" />
+          <mxGeometry height="30" width="100" x="314" y="-90" as="geometry" />
         </mxCell>
         <mxCell id="Pu6wP6B6mg4jkD0TQuWZ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=23;" value="Orin" vertex="1">
           <mxGeometry height="30" width="100" x="1010" y="-90" as="geometry" />
@@ -103,67 +103,70 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" value="NTP Server&lt;div&gt;10.254.254.10&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="140" x="390" y="270" as="geometry" />
+          <mxGeometry height="55" width="140" x="320" y="610" as="geometry" />
         </mxCell>
         <mxCell id="hyHQc6qYZTDK12X6ojay-8" edge="1" parent="1" source="2JuG4ByyhzTQoiQMa3O2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2JuG4ByyhzTQoiQMa3O2-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-4" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;System Clock&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="370" y="410" as="geometry" />
+          <mxGeometry height="80" width="180" x="300" y="750" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-6" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;PHC Clock&lt;/b&gt;&lt;div&gt;&lt;b&gt;/dev/ptp0&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="370" y="620" as="geometry" />
+          <mxGeometry height="80" width="180" x="300" y="960" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-19" edge="1" parent="1" source="2JuG4ByyhzTQoiQMa3O2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="2JuG4ByyhzTQoiQMa3O2-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-7" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;eth0 PTP slave&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="370" y="820" as="geometry" />
+          <mxGeometry height="80" width="180" x="300" y="1160" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-15" edge="1" parent="1" source="2JuG4ByyhzTQoiQMa3O2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2JuG4ByyhzTQoiQMa3O2-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-9" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;System Clock&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="890" y="410" as="geometry" />
+          <mxGeometry height="80" width="180" x="820" y="750" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-16" edge="1" parent="1" source="2JuG4ByyhzTQoiQMa3O2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2JuG4ByyhzTQoiQMa3O2-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-10" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;PHC Clock&lt;/b&gt;&lt;div&gt;&lt;b&gt;/dev/ptp0&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="890" y="620" as="geometry" />
+          <mxGeometry height="80" width="180" x="820" y="960" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-18" edge="1" parent="1" source="2JuG4ByyhzTQoiQMa3O2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="2JuG4ByyhzTQoiQMa3O2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-11" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;eth0 PTP master&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="890" y="820" as="geometry" />
+          <mxGeometry height="80" width="180" x="820" y="1160" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-14" edge="1" parent="1" source="2JuG4ByyhzTQoiQMa3O2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2JuG4ByyhzTQoiQMa3O2-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" value="chronyd(NTP Client)" vertex="1">
-          <mxGeometry height="30" width="220" x="870" y="282.5" as="geometry" />
+          <mxGeometry height="30" width="220" x="800" y="622.5" as="geometry" />
         </mxCell>
         <mxCell id="BkjFSNhpkxBzATLW0pgd-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=17;" value="phc2sys&lt;div&gt;-s CLOCK_REALTIME&lt;/div&gt;&lt;div&gt;-c /dev/ptp0&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="260" x="1000" y="510" as="geometry" />
+          <mxGeometry height="80" width="260" x="930" y="850" as="geometry" />
         </mxCell>
         <mxCell id="hyHQc6qYZTDK12X6ojay-6" edge="1" parent="1" source="hyHQc6qYZTDK12X6ojay-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hyHQc6qYZTDK12X6ojay-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hyHQc6qYZTDK12X6ojay-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=17;" value="ptp4l&lt;div&gt;-i eth0&lt;/div&gt;&lt;div&gt;-f /etc/linuxptp/ptp4l-master.conf&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="290" x="1000" y="720" as="geometry" />
+          <mxGeometry height="80" width="290" x="930" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="hyHQc6qYZTDK12X6ojay-3" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="710" y="950" as="sourcePoint" />
-            <mxPoint x="710" y="170" as="targetPoint" />
+            <mxPoint x="640" y="1290" as="sourcePoint" />
+            <mxPoint x="640" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hyHQc6qYZTDK12X6ojay-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="&lt;div&gt;&lt;span&gt;[global]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# 确保 AGX Orin 作为主时钟 (Master)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;gmCapable&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1&amp;nbsp; &amp;nbsp;#&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;允许本机成为 Grandmaster&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;priority1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;128&amp;nbsp; #&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BMCA 选主优先级，128 是比较默认的值&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;priority2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;128&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# PTP 域编号 (默认 0)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;domainNumber&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# === PTP E2E L2 关键配置 ===&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# 1. 传输方式：Layer 2 (以太网帧)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;network_transport&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;L2&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# 2. 延时机制：End-to-End (端到端)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;delay_mechanism&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;E2E&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# 3. 目标 MAC：标准 PTP L2 多播地址 (与 gPTP 的 MAC 地址不同!)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;ptp_dst_mac&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;01:1B:19:00:00:00&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# 4. 传输特定字段：标准 PTP L2 为 0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;transportSpecific&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# === 报文发送频率 ===&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# Announce 报文频率: 2^0 = 1秒一次&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;logAnnounceInterval&amp;nbsp; &amp;nbsp; &amp;nbsp;0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# Sync 报文频率: 2^-4 = 1/16 秒一次 (16Hz)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;logSyncInterval&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;-4&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# Delay Request 报文频率: 2^-4 = 1/16 秒一次&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;logMinDelayReqInterval&amp;nbsp; -4&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# === 硬件及调试 ===&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;assume_two_step&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;time_stamping&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;hardware&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;# 解决 AGX Orin 驱动超时问题&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;tx_timestamp_timeout&amp;nbsp; &amp;nbsp; 50&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="625" width="570" x="1750" y="447.5" as="geometry" />
         </mxCell>
         <mxCell id="hyHQc6qYZTDK12X6ojay-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="NTP / UDP 123" vertex="1">
-          <mxGeometry height="20" width="180" x="610" y="312.5" as="geometry" />
+          <mxGeometry height="20" width="180" x="540" y="652.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hyHQc6qYZTDK12X6ojay-10" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;b&gt;公网 NTP&lt;/b&gt;&lt;div&gt;&lt;b&gt;pool.ntp.org&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;time.cloudflare.com&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;time.google.com&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="360" x="184" y="-20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
