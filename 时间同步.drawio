@@ -81,8 +81,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5SfUiUVYjCzxrczaQe4S-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ptp4l -i eth0 -m -H -E -2 -s" vertex="1">
-          <mxGeometry height="40" width="190" x="580" y="20" as="geometry" />
+        <mxCell id="5SfUiUVYjCzxrczaQe4S-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;ptp4l -i eth0 -m -H -E -2 -s&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="230" y="750" as="geometry" />
         </mxCell>
         <mxCell id="Pu6wP6B6mg4jkD0TQuWZ-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
