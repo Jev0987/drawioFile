@@ -130,7 +130,10 @@
           <mxGeometry height="80" width="180" x="550" y="650" as="geometry" />
         </mxCell>
         <mxCell id="uSZY_ewHzDrN7uc-WTs2-17" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;PHC Clock&lt;/b&gt;&lt;div&gt;&lt;b&gt;/dev/ptp0&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="550" y="820" as="geometry" />
+          <mxGeometry height="80" width="180" x="550" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="uSZY_ewHzDrN7uc-WTs2-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=17;" value="ptp4l&lt;div&gt;source: PTP Masger&lt;/div&gt;&lt;div&gt;target: /dev/ptp0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="186" x="650" y="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
