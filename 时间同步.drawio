@@ -177,11 +177,11 @@
         <mxCell id="hyHQc6qYZTDK12X6ojay-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=21;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(103, 171, 159));&quot;&gt;PTP 时间链路&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="170" x="170" y="717" as="geometry" />
         </mxCell>
-        <mxCell id="hyHQc6qYZTDK12X6ojay-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;fontColor=light-dark(#000000,#33FFFF);strokeColor=light-dark(#000000,#66FFFF);" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Orin 以 NTP 校准 System Clock,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;再经 phc2sys 同步到 PHC&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;最后有 ptp4l 作为 PTP Master 对外授时&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="310" x="1270" y="887" as="geometry" />
+        <mxCell id="hyHQc6qYZTDK12X6ojay-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;fontColor=light-dark(#000000,#33FFFF);strokeColor=light-dark(#000000,#66FFFF);fontSize=21;" value="&lt;font&gt;Orin 以 NTP 校准 System Clock,&lt;/font&gt;&lt;div&gt;&lt;font&gt;再经 phc2sys 同步到 PHC&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;最后有 ptp4l 作为 PTP Master 对外授时&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="356" x="1244" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="hyHQc6qYZTDK12X6ojay-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;fontColor=light-dark(#000000,#33FFFF);strokeColor=light-dark(#000000,#66FFFF);" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;RK3588 作为 PTP Slave, ptp4l 仅同步 PHC&lt;/span&gt;" vertex="1">
-          <mxGeometry height="150" width="160" x="40" y="1100" as="geometry" />
+        <mxCell id="hyHQc6qYZTDK12X6ojay-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;fontColor=light-dark(#000000,#33FFFF);strokeColor=light-dark(#000000,#66FFFF);fontSize=21;" value="&lt;span&gt;RK3588 作为 PTP Slave, ptp4l 仅同步 PHC&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="190" x="40" y="1059" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
