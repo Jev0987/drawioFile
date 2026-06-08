@@ -34,7 +34,7 @@
         <mxCell id="uSZY_ewHzDrN7uc-WTs2-8" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;PHC Clock&lt;/b&gt;&lt;div&gt;&lt;b&gt;/dev/ptp0&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="50" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="uSZY_ewHzDrN7uc-WTs2-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=17;" value="phc2sys&lt;div&gt;-s CLOCK_REALTIME&lt;/div&gt;&lt;div&gt;-c /dev/ptpX&lt;/div&gt;" vertex="1">
+        <mxCell id="uSZY_ewHzDrN7uc-WTs2-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=17;" value="phc2sys&lt;div&gt;-s CLOCK_REALTIME&lt;/div&gt;&lt;div&gt;-c /dev/ptp0&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="154" y="380" as="geometry" />
         </mxCell>
         <mxCell id="uSZY_ewHzDrN7uc-WTs2-16" edge="1" parent="1" source="uSZY_ewHzDrN7uc-WTs2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uSZY_ewHzDrN7uc-WTs2-15">
