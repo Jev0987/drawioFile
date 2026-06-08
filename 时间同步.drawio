@@ -141,6 +141,9 @@
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" value="Chrony" vertex="1">
           <mxGeometry height="30" width="60" x="950" y="295" as="geometry" />
         </mxCell>
+        <mxCell id="BkjFSNhpkxBzATLW0pgd-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=17;" value="phc2sys&lt;div&gt;-s CLOCK_REALTIME&lt;/div&gt;&lt;div&gt;-c /dev/ptp0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="260" x="990" y="510" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
