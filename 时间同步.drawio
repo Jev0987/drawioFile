@@ -105,6 +105,9 @@
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" value="NTP Server&lt;div&gt;10.254.254.10&lt;/div&gt;" vertex="1">
           <mxGeometry height="55" width="140" x="390" y="270" as="geometry" />
         </mxCell>
+        <mxCell id="hyHQc6qYZTDK12X6ojay-8" edge="1" parent="1" source="2JuG4ByyhzTQoiQMa3O2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2JuG4ByyhzTQoiQMa3O2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-4" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;System Clock&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="370" y="410" as="geometry" />
         </mxCell>
