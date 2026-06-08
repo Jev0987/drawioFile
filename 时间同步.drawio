@@ -118,7 +118,7 @@
           <mxGeometry height="80" width="140" x="70" y="650" as="geometry" />
         </mxCell>
         <mxCell id="uSZY_ewHzDrN7uc-WTs2-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=17;" value="ptp4l&lt;div&gt;port state: MASTER&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="260" x="160" y="570" as="geometry" />
+          <mxGeometry height="80" width="186" x="154" y="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
