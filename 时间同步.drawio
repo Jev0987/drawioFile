@@ -106,7 +106,10 @@
           <mxGeometry height="80" width="140" x="70" y="270" as="geometry" />
         </mxCell>
         <mxCell id="uSZY_ewHzDrN7uc-WTs2-8" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;PHC Clock&lt;/b&gt;&lt;div&gt;&lt;b&gt;/dev/ptpX&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="140" x="70" y="430" as="geometry" />
+          <mxGeometry height="80" width="140" x="70" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="uSZY_ewHzDrN7uc-WTs2-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=17;" value="phc2sys&lt;div&gt;source: CLOCK_REALTIME&lt;/div&gt;&lt;div&gt;target: /dev/ptpX&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="260" x="154" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
