@@ -174,8 +174,14 @@
         <mxCell id="hyHQc6qYZTDK12X6ojay-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=21;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(103, 171, 159));&quot;&gt;NTP 时间链路&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="170" x="170" y="-20" as="geometry" />
         </mxCell>
+        <mxCell id="hyHQc6qYZTDK12X6ojay-16" edge="1" parent="1" source="hyHQc6qYZTDK12X6ojay-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hyHQc6qYZTDK12X6ojay-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hyHQc6qYZTDK12X6ojay-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;chronyd&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(NTP Client + NTP Server)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;10.254.254.10&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="273" x="252" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hyHQc6qYZTDK12X6ojay-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;System Clock&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(CLOCK_REALTIME)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="273" x="252" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
