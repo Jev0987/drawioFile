@@ -76,7 +76,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rDyXB4jTLcWEuoXOIsCu" name="以前的双板架构的ptp时间同步">
+  <diagram id="rDyXB4jTLcWEuoXOIsCu" name="旧双板架构的ptp时间同步">
     <mxGraphModel dx="1627" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
