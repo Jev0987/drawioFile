@@ -61,6 +61,12 @@
         <mxCell id="9tWx0qsMY7gKmuM-r2hu-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="System Clock" vertex="1">
           <mxGeometry height="60" width="120" x="414" y="230" as="geometry" />
         </mxCell>
+        <mxCell id="9tWx0qsMY7gKmuM-r2hu-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" value="RK3588" vertex="1">
+          <mxGeometry height="40" width="120" x="35" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="9tWx0qsMY7gKmuM-r2hu-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" value="ORIN" vertex="1">
+          <mxGeometry height="40" width="120" x="414" y="600" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
