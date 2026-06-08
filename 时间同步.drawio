@@ -86,15 +86,15 @@
         </mxCell>
         <mxCell id="Pu6wP6B6mg4jkD0TQuWZ-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="360" y="260" as="sourcePoint" />
-            <mxPoint x="1080" y="260" as="targetPoint" />
+            <mxPoint x="360" y="230" as="sourcePoint" />
+            <mxPoint x="1080" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pu6wP6B6mg4jkD0TQuWZ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=23;" value="RK&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3588&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="100" x="410" y="210" as="geometry" />
+          <mxGeometry height="30" width="100" x="410" y="180" as="geometry" />
         </mxCell>
         <mxCell id="Pu6wP6B6mg4jkD0TQuWZ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=23;" value="Orin" vertex="1">
-          <mxGeometry height="30" width="100" x="930" y="210" as="geometry" />
+          <mxGeometry height="30" width="100" x="930" y="180" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-1" edge="1" parent="1" source="2JuG4ByyhzTQoiQMa3O2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2JuG4ByyhzTQoiQMa3O2-4" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -102,8 +102,8 @@
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-17" edge="1" parent="1" source="2JuG4ByyhzTQoiQMa3O2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2JuG4ByyhzTQoiQMa3O2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2JuG4ByyhzTQoiQMa3O2-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" value="NTP Server" vertex="1">
-          <mxGeometry height="30" width="140" x="390" y="295" as="geometry" />
+        <mxCell id="2JuG4ByyhzTQoiQMa3O2-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" value="NTP Server&lt;div&gt;10.254.254.10&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="140" x="390" y="270" as="geometry" />
         </mxCell>
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-4" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="&lt;b&gt;System Clock&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="370" y="410" as="geometry" />
@@ -138,8 +138,8 @@
         <mxCell id="2JuG4ByyhzTQoiQMa3O2-14" edge="1" parent="1" source="2JuG4ByyhzTQoiQMa3O2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2JuG4ByyhzTQoiQMa3O2-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2JuG4ByyhzTQoiQMa3O2-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" value="Chrony(NTP Client)" vertex="1">
-          <mxGeometry height="30" width="220" x="870" y="295" as="geometry" />
+        <mxCell id="2JuG4ByyhzTQoiQMa3O2-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" value="chronyd(NTP Client)" vertex="1">
+          <mxGeometry height="30" width="220" x="870" y="282.5" as="geometry" />
         </mxCell>
         <mxCell id="BkjFSNhpkxBzATLW0pgd-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=17;" value="phc2sys&lt;div&gt;-s CLOCK_REALTIME&lt;/div&gt;&lt;div&gt;-c /dev/ptp0&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="1000" y="510" as="geometry" />
