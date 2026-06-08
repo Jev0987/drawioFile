@@ -87,6 +87,15 @@
             <mxPoint x="760" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uSZY_ewHzDrN7uc-WTs2-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=23;" value="RK&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3588&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="90" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uSZY_ewHzDrN7uc-WTs2-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=23;" value="Orin" vertex="1">
+          <mxGeometry height="30" width="100" x="610" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uSZY_ewHzDrN7uc-WTs2-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" value="NTP" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
