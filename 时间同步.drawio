@@ -198,6 +198,9 @@
         <mxCell id="hyHQc6qYZTDK12X6ojay-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="NTP / UDP 123" vertex="1">
           <mxGeometry height="20" width="180" x="640" y="310" as="geometry" />
         </mxCell>
+        <mxCell id="hyHQc6qYZTDK12X6ojay-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;phc2sys&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;System Clock -&amp;gt; PHC -s CLOCK_REALTIME -c eth0&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="273" x="923.5" y="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
