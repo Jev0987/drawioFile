@@ -318,7 +318,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3GDduFNzZ6zGu9JJBw4-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="dt1 = imu_time_sync_t1 - ptp_time_t1" vertex="1">
-          <mxGeometry height="30" width="220" x="304" y="380" as="geometry" />
+          <mxGeometry height="30" width="220" x="303" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
