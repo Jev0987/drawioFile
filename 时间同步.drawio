@@ -187,7 +187,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BjKNJcUybp3U0NTXt2xb" name="第 3 页">
-    <mxGraphModel dx="1949" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,7 +318,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3GDduFNzZ6zGu9JJBw4-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="dt1 = imu_time_sync_t1 - ptp_time_t1" vertex="1">
-          <mxGeometry height="30" width="220" x="303" y="400" as="geometry" />
+          <mxGeometry height="30" width="220" x="300" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
