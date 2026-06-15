@@ -383,7 +383,7 @@
         <mxCell id="U3GDduFNzZ6zGu9JJBw4-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="topic t3 = imu t3 - dt3" vertex="1">
           <mxGeometry height="30" width="150" x="-230" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="U3GDduFNzZ6zGu9JJBw4-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="topic t1 = imu t1 - dt1" vertex="1">
+        <mxCell id="U3GDduFNzZ6zGu9JJBw4-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="topic tn = imu tn - dtn" vertex="1">
           <mxGeometry height="30" width="150" x="-230" y="660" as="geometry" />
         </mxCell>
       </root>
