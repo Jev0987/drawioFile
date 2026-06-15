@@ -236,26 +236,26 @@
         <mxCell id="U3GDduFNzZ6zGu9JJBw4-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="imu time sync tn" vertex="1">
           <mxGeometry height="20" width="100" x="160" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="U3GDduFNzZ6zGu9JJBw4-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IMU TIME SYNC (0XC9)" vertex="1">
-          <mxGeometry height="40" width="120" x="510" y="330" as="geometry" />
+        <mxCell id="U3GDduFNzZ6zGu9JJBw4-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PPS TIME SYNC (0XC9)" vertex="1">
+          <mxGeometry height="40" width="120" x="500" y="330" as="geometry" />
         </mxCell>
         <mxCell id="U3GDduFNzZ6zGu9JJBw4-17" edge="1" parent="1" source="U3GDduFNzZ6zGu9JJBw4-21" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="U3GDduFNzZ6zGu9JJBw4-16" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="570" y="680" as="sourcePoint" />
-            <mxPoint x="570" y="370" as="targetPoint" />
+            <mxPoint x="560" y="680" as="sourcePoint" />
+            <mxPoint x="560" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U3GDduFNzZ6zGu9JJBw4-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="imu time sync t1" vertex="1">
-          <mxGeometry height="20" width="100" x="520" y="420" as="geometry" />
+        <mxCell id="U3GDduFNzZ6zGu9JJBw4-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pps time sync t1" vertex="1">
+          <mxGeometry height="20" width="100" x="510" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="U3GDduFNzZ6zGu9JJBw4-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="imu time sync t2" vertex="1">
-          <mxGeometry height="20" width="100" x="520" y="480" as="geometry" />
+        <mxCell id="U3GDduFNzZ6zGu9JJBw4-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pps time sync t2" vertex="1">
+          <mxGeometry height="20" width="100" x="510" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="U3GDduFNzZ6zGu9JJBw4-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="imu time sync t3" vertex="1">
-          <mxGeometry height="20" width="100" x="520" y="540" as="geometry" />
+        <mxCell id="U3GDduFNzZ6zGu9JJBw4-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pps time sync t3" vertex="1">
+          <mxGeometry height="20" width="100" x="510" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="U3GDduFNzZ6zGu9JJBw4-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="imu time sync tn" vertex="1">
-          <mxGeometry height="20" width="100" x="520" y="680" as="geometry" />
+        <mxCell id="U3GDduFNzZ6zGu9JJBw4-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pps time sync tn" vertex="1">
+          <mxGeometry height="20" width="100" x="510" y="680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
