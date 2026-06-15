@@ -236,7 +236,7 @@
         <mxCell id="U3GDduFNzZ6zGu9JJBw4-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="imu time sync tn" vertex="1">
           <mxGeometry height="20" width="100" x="160" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="U3GDduFNzZ6zGu9JJBw4-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PPS TIME SYNC (0XC9)" vertex="1">
+        <mxCell id="U3GDduFNzZ6zGu9JJBw4-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PPS TIME SYNC" vertex="1">
           <mxGeometry height="40" width="120" x="500" y="330" as="geometry" />
         </mxCell>
         <mxCell id="U3GDduFNzZ6zGu9JJBw4-17" edge="1" parent="1" source="U3GDduFNzZ6zGu9JJBw4-21" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="U3GDduFNzZ6zGu9JJBw4-16" value="">
