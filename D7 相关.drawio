@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="第 1 页" id="ybuJFLsuspTRZjUBc2Sj">
     <mxGraphModel dx="1122" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,6 +13,14 @@
         <mxCell id="IlZ43ksjCjAGZCLtcrJK-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="VR Control" vertex="1">
           <mxGeometry height="80" width="190" x="80" y="505" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ERyvKfnW-TPwMhuBreaX" name="第 2 页">
+    <mxGraphModel dx="1627" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
