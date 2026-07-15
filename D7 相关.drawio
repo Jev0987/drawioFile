@@ -324,7 +324,10 @@
           <mxGeometry height="60" width="390" x="330" y="1150" as="geometry" />
         </mxCell>
         <mxCell id="HSbAlWco6_mB_B7kPBK5-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="数据预览 (开始,结束)" vertex="1">
-          <mxGeometry height="60" width="390" x="330" y="1240" as="geometry" />
+          <mxGeometry height="60" width="390" x="330" y="1412.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HSbAlWco6_mB_B7kPBK5-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="数据回放 ( 获取 mcap文件, 播放)" vertex="1">
+          <mxGeometry height="60" width="390" x="330" y="1230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
