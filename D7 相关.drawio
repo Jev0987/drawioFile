@@ -287,6 +287,12 @@
         <mxCell id="HSbAlWco6_mB_B7kPBK5-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="WebSocket" vertex="1">
           <mxGeometry height="400" width="100" x="660" y="1095" as="geometry" />
         </mxCell>
+        <mxCell id="HSbAlWco6_mB_B7kPBK5-7" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;startWidth=8;startSize=7;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="790" y="1300" as="sourcePoint" />
+            <mxPoint x="1140" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
