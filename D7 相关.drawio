@@ -83,7 +83,7 @@
           <mxGeometry height="30" width="100" x="420" y="530" as="geometry" />
         </mxCell>
         <mxCell id="PG_7JgB4xY41xIrBQNpI-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="listen topic" vertex="1">
-          <mxGeometry height="50" width="200" x="1010" y="990" as="geometry" />
+          <mxGeometry height="50" width="200" x="990" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="PG_7JgB4xY41xIrBQNpI-31" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" value="DDS Domain" vertex="1">
           <mxGeometry height="200" width="510" x="1150" y="330" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PG_7JgB4xY41xIrBQNpI-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="" vertex="1">
-          <mxGeometry height="130" width="240" x="440" y="1020" as="geometry" />
+          <mxGeometry height="90" width="240" x="440" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="PG_7JgB4xY41xIrBQNpI-45" edge="1" parent="1" source="PG_7JgB4xY41xIrBQNpI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" target="PG_7JgB4xY41xIrBQNpI-31">
           <mxGeometry relative="1" as="geometry" />
@@ -149,10 +149,10 @@
           <mxGeometry height="40" width="180" x="1250" y="600" as="geometry" />
         </mxCell>
         <mxCell id="PG_7JgB4xY41xIrBQNpI-56" parent="1" style="whiteSpace=wrap;html=1;" value="config" vertex="1">
-          <mxGeometry height="60" width="120" x="500" y="1060" as="geometry" />
+          <mxGeometry height="40" width="120" x="500" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="PG_7JgB4xY41xIrBQNpI-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="rstp_streamer" vertex="1">
-          <mxGeometry height="40" width="130" x="500" y="1020" as="geometry" />
+          <mxGeometry height="40" width="130" x="495" y="1040" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
