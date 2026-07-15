@@ -13,14 +13,17 @@
             <mxPoint x="170" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PG_7JgB4xY41xIrBQNpI-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="data_hub_helper" vertex="1">
-          <mxGeometry height="60" width="240" x="490" y="510" as="geometry" />
+        <mxCell id="PG_7JgB4xY41xIrBQNpI-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="data_platform_helper" vertex="1">
+          <mxGeometry height="60" width="240" x="490" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="PG_7JgB4xY41xIrBQNpI-9" edge="1" parent="1" source="PG_7JgB4xY41xIrBQNpI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PG_7JgB4xY41xIrBQNpI-4" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PG_7JgB4xY41xIrBQNpI-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="vr_control_service" vertex="1">
-          <mxGeometry height="50" width="240" x="490" y="360" as="geometry" />
+          <mxGeometry height="50" width="240" x="490" y="320" as="geometry" />
         </mxCell>
         <mxCell id="PG_7JgB4xY41xIrBQNpI-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="robot_data_platform" vertex="1">
-          <mxGeometry height="60" width="240" x="-280" y="360" as="geometry" />
+          <mxGeometry height="300" width="140" x="-30" y="330" as="geometry" />
         </mxCell>
         <mxCell id="PG_7JgB4xY41xIrBQNpI-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" value="PC (Windows | Linxu)" vertex="1">
           <mxGeometry height="50" width="250" x="-280" y="170" as="geometry" />
