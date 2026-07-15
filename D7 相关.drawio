@@ -157,8 +157,8 @@
         <mxCell id="PG_7JgB4xY41xIrBQNpI-62" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;" value="" vertex="1">
           <mxGeometry height="275" width="20" x="600" y="615" as="geometry" />
         </mxCell>
-        <mxCell id="PG_7JgB4xY41xIrBQNpI-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Websocket Command" vertex="1">
-          <mxGeometry height="30" width="135" x="640" y="737.5" as="geometry" />
+        <mxCell id="PG_7JgB4xY41xIrBQNpI-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Websocket Command&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="210" x="625" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
