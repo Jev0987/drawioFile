@@ -7,7 +7,7 @@
         <mxCell id="PG_7JgB4xY41xIrBQNpI-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" value="ORIN" vertex="1">
           <mxGeometry height="50" width="250" x="640" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="PG_7JgB4xY41xIrBQNpI-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="PG_7JgB4xY41xIrBQNpI-3" edge="1" parent="1" source="PG_7JgB4xY41xIrBQNpI-25" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="170" y="1140" as="sourcePoint" />
             <mxPoint x="170" y="230" as="targetPoint" />
@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="PG_7JgB4xY41xIrBQNpI-10" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="20" y="490" as="sourcePoint" />
+            <mxPoint y="490" as="sourcePoint" />
             <mxPoint x="410" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -79,9 +79,6 @@
         <mxCell id="PG_7JgB4xY41xIrBQNpI-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="static ip:port" vertex="1">
           <mxGeometry height="30" width="100" x="420" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="PG_7JgB4xY41xIrBQNpI-25" parent="1" style="whiteSpace=wrap;html=1;" value="configs" vertex="1">
-          <mxGeometry height="60" width="120" x="100" y="590" as="geometry" />
-        </mxCell>
         <mxCell id="PG_7JgB4xY41xIrBQNpI-28" edge="1" parent="1" source="PG_7JgB4xY41xIrBQNpI-4" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;" target="PG_7JgB4xY41xIrBQNpI-31" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="740" y="570" as="sourcePoint" />
@@ -114,6 +111,21 @@
         </mxCell>
         <mxCell id="PG_7JgB4xY41xIrBQNpI-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mission" vertex="1">
           <mxGeometry height="60" width="120" x="100" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="PG_7JgB4xY41xIrBQNpI-40" edge="1" parent="1" source="PG_7JgB4xY41xIrBQNpI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="PG_7JgB4xY41xIrBQNpI-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PG_7JgB4xY41xIrBQNpI-39" parent="1" style="whiteSpace=wrap;html=1;" value="configs" vertex="1">
+          <mxGeometry height="60" width="120" x="-533" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="PG_7JgB4xY41xIrBQNpI-41" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="PG_7JgB4xY41xIrBQNpI-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="1140" as="sourcePoint" />
+            <mxPoint x="170" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG_7JgB4xY41xIrBQNpI-25" parent="1" style="whiteSpace=wrap;html=1;" value="configs" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
