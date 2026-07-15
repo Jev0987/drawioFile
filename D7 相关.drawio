@@ -315,7 +315,7 @@
           <mxGeometry height="60" width="390" x="330" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="TQEzzxjfaQ6LxeBbg4gr-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="UI" vertex="1">
-          <mxGeometry height="410" width="100" x="220" y="1060" as="geometry" />
+          <mxGeometry height="400" width="100" x="220" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="TQEzzxjfaQ6LxeBbg4gr-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
           <mxGeometry height="140" width="90" y="1230" as="geometry" />
@@ -324,10 +324,13 @@
           <mxGeometry height="60" width="390" x="330" y="1150" as="geometry" />
         </mxCell>
         <mxCell id="HSbAlWco6_mB_B7kPBK5-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="数据预览 (开始,结束)" vertex="1">
-          <mxGeometry height="60" width="390" x="330" y="1412.5" as="geometry" />
+          <mxGeometry height="60" width="390" x="330" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="HSbAlWco6_mB_B7kPBK5-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="数据回放 ( 获取 mcap文件, 播放)" vertex="1">
           <mxGeometry height="60" width="390" x="330" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="HSbAlWco6_mB_B7kPBK5-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="数据导出" vertex="1">
+          <mxGeometry height="60" width="390" x="330" y="1312.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
