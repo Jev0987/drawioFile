@@ -317,6 +317,9 @@
         <mxCell id="TQEzzxjfaQ6LxeBbg4gr-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="UI" vertex="1">
           <mxGeometry height="490" width="100" x="220" y="1060" as="geometry" />
         </mxCell>
+        <mxCell id="TQEzzxjfaQ6LxeBbg4gr-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="140" width="90" y="1230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
