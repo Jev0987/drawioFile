@@ -199,7 +199,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ERyvKfnW-TPwMhuBreaX" name="第 2 页">
-    <mxGraphModel dx="1914" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2741" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,7 +219,7 @@
           <mxGeometry height="50" width="240" x="1283" y="950" as="geometry" />
         </mxCell>
         <mxCell id="NmLRNJMx1JGBUZRl9U11-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" value="robot_data_platform" vertex="1">
-          <mxGeometry height="90" width="620" x="220" y="960" as="geometry" />
+          <mxGeometry height="90" width="620" x="140" y="995" as="geometry" />
         </mxCell>
         <mxCell id="NmLRNJMx1JGBUZRl9U11-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" value="PC (Windows | Linxu)" vertex="1">
           <mxGeometry height="50" width="250" x="370" y="830" as="geometry" />
@@ -312,28 +312,28 @@
           <mxGeometry height="100" width="210" x="1478" y="1372.5" as="geometry" />
         </mxCell>
         <mxCell id="TQEzzxjfaQ6LxeBbg4gr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="Configs" vertex="1">
-          <mxGeometry height="60" width="390" x="330" y="1060" as="geometry" />
+          <mxGeometry height="60" width="390" x="250" y="1095" as="geometry" />
         </mxCell>
         <mxCell id="TQEzzxjfaQ6LxeBbg4gr-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="UI" vertex="1">
-          <mxGeometry height="400" width="100" x="220" y="1060" as="geometry" />
+          <mxGeometry height="400" width="100" x="140" y="1095" as="geometry" />
         </mxCell>
         <mxCell id="TQEzzxjfaQ6LxeBbg4gr-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
-          <mxGeometry height="140" width="90" y="1230" as="geometry" />
+          <mxGeometry height="140" width="90" x="-100" y="1225" as="geometry" />
         </mxCell>
         <mxCell id="HSbAlWco6_mB_B7kPBK5-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="数据采集 (开始, 结束)" vertex="1">
-          <mxGeometry height="60" width="390" x="330" y="1150" as="geometry" />
+          <mxGeometry height="60" width="390" x="250" y="1185" as="geometry" />
         </mxCell>
         <mxCell id="HSbAlWco6_mB_B7kPBK5-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="数据预览 (开始,结束)" vertex="1">
-          <mxGeometry height="60" width="390" x="330" y="1400" as="geometry" />
+          <mxGeometry height="60" width="390" x="250" y="1435" as="geometry" />
         </mxCell>
         <mxCell id="HSbAlWco6_mB_B7kPBK5-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="数据回放 ( 获取 mcap文件, 播放)" vertex="1">
-          <mxGeometry height="60" width="390" x="330" y="1230" as="geometry" />
+          <mxGeometry height="60" width="390" x="250" y="1265" as="geometry" />
         </mxCell>
         <mxCell id="HSbAlWco6_mB_B7kPBK5-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="数据导出" vertex="1">
-          <mxGeometry height="60" width="390" x="330" y="1312.5" as="geometry" />
+          <mxGeometry height="60" width="390" x="250" y="1347.5" as="geometry" />
         </mxCell>
         <mxCell id="HSbAlWco6_mB_B7kPBK5-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="WebSocket" vertex="1">
-          <mxGeometry height="400" width="100" x="740" y="1060" as="geometry" />
+          <mxGeometry height="400" width="100" x="660" y="1095" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
