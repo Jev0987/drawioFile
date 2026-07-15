@@ -219,7 +219,7 @@
           <mxGeometry height="50" width="240" x="1283" y="950" as="geometry" />
         </mxCell>
         <mxCell id="NmLRNJMx1JGBUZRl9U11-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" value="robot_data_platform" vertex="1">
-          <mxGeometry height="90" width="507" x="220" y="960" as="geometry" />
+          <mxGeometry height="90" width="620" x="220" y="960" as="geometry" />
         </mxCell>
         <mxCell id="NmLRNJMx1JGBUZRl9U11-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" value="PC (Windows | Linxu)" vertex="1">
           <mxGeometry height="50" width="250" x="370" y="830" as="geometry" />
@@ -331,6 +331,9 @@
         </mxCell>
         <mxCell id="HSbAlWco6_mB_B7kPBK5-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="数据导出" vertex="1">
           <mxGeometry height="60" width="390" x="330" y="1312.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HSbAlWco6_mB_B7kPBK5-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="WebSocket" vertex="1">
+          <mxGeometry height="400" width="100" x="740" y="1060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
