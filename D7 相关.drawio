@@ -240,7 +240,7 @@
           <mxGeometry height="435" width="100" x="140" y="1095" as="geometry" />
         </mxCell>
         <mxCell id="TQEzzxjfaQ6LxeBbg4gr-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="采集员" vertex="1">
-          <mxGeometry height="140" width="90" x="-180" y="1225" as="geometry" />
+          <mxGeometry height="235" width="180" x="-290" y="1142.5" as="geometry" />
         </mxCell>
         <mxCell id="HSbAlWco6_mB_B7kPBK5-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="数据采集 (开始, 结束)" vertex="1">
           <mxGeometry height="60" width="350" x="270" y="1185" as="geometry" />
