@@ -314,6 +314,9 @@
         <mxCell id="TQEzzxjfaQ6LxeBbg4gr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Configs" vertex="1">
           <mxGeometry height="60" width="390" x="330" y="1060" as="geometry" />
         </mxCell>
+        <mxCell id="TQEzzxjfaQ6LxeBbg4gr-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="UI" vertex="1">
+          <mxGeometry height="490" width="100" x="220" y="1060" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
