@@ -240,7 +240,7 @@
           <mxGeometry height="435" width="100" x="140" y="1095" as="geometry" />
         </mxCell>
         <mxCell id="TQEzzxjfaQ6LxeBbg4gr-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="采集员" vertex="1">
-          <mxGeometry height="235" width="180" x="-290" y="1142.5" as="geometry" />
+          <mxGeometry height="235" width="180" x="-380" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="HSbAlWco6_mB_B7kPBK5-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="数据采集 (开始, 结束)" vertex="1">
           <mxGeometry height="60" width="350" x="270" y="1185" as="geometry" />
@@ -321,6 +321,12 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1100" y="2120" as="sourcePoint" />
             <mxPoint x="570" y="1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaCcHXcHp9jJnMoTi0pB-25" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=176;endSize=20;width=93;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-120" y="1240" as="sourcePoint" />
+            <mxPoint x="30" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
