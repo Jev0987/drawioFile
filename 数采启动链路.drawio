@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="hlM9xvJ5eLQtyOJEehLv">
+    <mxGraphModel dx="1627" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BhZb4dtTcJBQKvJAxlD7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;PuduOS&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="300" width="280" x="260" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
