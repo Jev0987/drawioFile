@@ -69,14 +69,8 @@
         <mxCell id="IZO40XITl3NWpHd0sAFo-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;数采工厂 Lifecycle Node&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="310" x="10" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="IZO40XITl3NWpHd0sAFo-7" edge="1" parent="1" source="IZO40XITl3NWpHd0sAFo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IZO40XITl3NWpHd0sAFo-6" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IZO40XITl3NWpHd0sAFo-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="Lifecycel state" vertex="1">
           <mxGeometry height="70" width="260" x="450" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="IZO40XITl3NWpHd0sAFo-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="拉起采集节点" vertex="1">
-          <mxGeometry height="70" width="260" x="800" y="210" as="geometry" />
         </mxCell>
         <mxCell id="IZO40XITl3NWpHd0sAFo-20" edge="1" parent="1" source="IZO40XITl3NWpHd0sAFo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IZO40XITl3NWpHd0sAFo-19" value="">
           <mxGeometry relative="1" as="geometry" />
