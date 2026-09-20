@@ -19,7 +19,7 @@
         <mxCell id="kIMMRZuLENNP9s_YscPd-6" edge="1" parent="1" source="kIMMRZuLENNP9s_YscPd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kIMMRZuLENNP9s_YscPd-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kIMMRZuLENNP9s_YscPd-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数采 LifecycleNode&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="kIMMRZuLENNP9s_YscPd-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数采 LifecycleNode ?&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="350" x="265" y="437" as="geometry" />
         </mxCell>
         <mxCell id="kIMMRZuLENNP9s_YscPd-8" edge="1" parent="1" source="kIMMRZuLENNP9s_YscPd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kIMMRZuLENNP9s_YscPd-7" value="">
@@ -28,7 +28,7 @@
         <mxCell id="kIMMRZuLENNP9s_YscPd-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Web&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="175" x="352.5" y="567" as="geometry" />
         </mxCell>
-        <mxCell id="kIMMRZuLENNP9s_YscPd-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;gr_data_recorder&lt;/b&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="kIMMRZuLENNP9s_YscPd-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;gr_data_recorder node?&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="175" x="352.5" y="687" as="geometry" />
         </mxCell>
         <mxCell id="kIMMRZuLENNP9s_YscPd-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;nvq&lt;/font&gt;&lt;/b&gt;" vertex="1">
