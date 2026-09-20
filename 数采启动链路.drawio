@@ -4,8 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kIMMRZuLENNP9s_YscPd-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;数采&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="375" width="490" x="190" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="kIMMRZuLENNP9s_YscPd-2" edge="1" parent="1" source="BhZb4dtTcJBQKvJAxlD7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kIMMRZuLENNP9s_YscPd-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BhZb4dtTcJBQKvJAxlD7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;PuduOS&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="700" x="90" y="310" as="geometry" />
+          <mxGeometry height="80" width="700" x="90" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="kIMMRZuLENNP9s_YscPd-6" edge="1" parent="1" source="kIMMRZuLENNP9s_YscPd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kIMMRZuLENNP9s_YscPd-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIMMRZuLENNP9s_YscPd-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数采 LifecycleNode&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="350" x="265" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="kIMMRZuLENNP9s_YscPd-8" edge="1" parent="1" source="kIMMRZuLENNP9s_YscPd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kIMMRZuLENNP9s_YscPd-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIMMRZuLENNP9s_YscPd-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Web&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="175" x="352.5" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="kIMMRZuLENNP9s_YscPd-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;gr_data_recorder&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="175" x="352.5" y="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
