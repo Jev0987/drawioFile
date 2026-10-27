@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="cAc3M01C-BtgcmEdT_Yb">
+    <mxGraphModel dx="1032" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5FRkC_0gkfBGaKKjjcrL-1" parent="1" style="whiteSpace=wrap;html=1;" value="Device manager" vertex="1">
+          <mxGeometry height="40" width="520" x="154" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5FRkC_0gkfBGaKKjjcrL-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NVQ_Hardware" vertex="1">
+          <mxGeometry height="30" width="180" x="40" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
