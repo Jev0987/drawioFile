@@ -8,7 +8,7 @@
           <mxGeometry height="40" width="520" x="154" y="280" as="geometry" />
         </mxCell>
         <mxCell id="5FRkC_0gkfBGaKKjjcrL-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NVQ_Hardware" vertex="1">
-          <mxGeometry height="30" width="180" x="40" y="210" as="geometry" />
+          <mxGeometry height="30" width="180" x="10" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
