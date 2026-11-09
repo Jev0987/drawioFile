@@ -13,6 +13,12 @@
         <mxCell id="4yfuOKm64Ca9sACACI4b-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="前端入口,修改machineinfo" vertex="1">
           <mxGeometry height="100" width="121" x="-160" y="270" as="geometry" />
         </mxCell>
+        <mxCell id="4yfuOKm64Ca9sACACI4b-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="3588" vertex="1">
+          <mxGeometry height="40" width="500" x="330" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4yfuOKm64Ca9sACACI4b-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="websocket 协议, 接收修改machineinfo" vertex="1">
+          <mxGeometry height="100" width="100" x="330" y="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
