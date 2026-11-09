@@ -1,11 +1,17 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="78n0apXlGEr-YAsE-SrN">
-    <mxGraphModel dx="1039" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1866" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6k2nzKYxE2MJfZCXmnhv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="遥控器" vertex="1">
-          <mxGeometry height="90" width="140" x="10" y="280" as="geometry" />
+          <mxGeometry height="40" width="260" x="-160" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4yfuOKm64Ca9sACACI4b-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="websocket 协议, 修改machineinfo" vertex="1">
+          <mxGeometry height="100" width="121" x="-20" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="4yfuOKm64Ca9sACACI4b-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="前端入口,修改machineinfo" vertex="1">
+          <mxGeometry height="100" width="121" x="-160" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
