@@ -10,16 +10,16 @@
         <mxCell id="4yfuOKm64Ca9sACACI4b-5" edge="1" parent="1" source="4yfuOKm64Ca9sACACI4b-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="4yfuOKm64Ca9sACACI4b-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4yfuOKm64Ca9sACACI4b-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="websocket 协议, 修改machineinfo" vertex="1">
-          <mxGeometry height="100" width="121" x="-20" y="259" as="geometry" />
+        <mxCell id="4yfuOKm64Ca9sACACI4b-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="websocket" vertex="1">
+          <mxGeometry height="100" width="71" x="30" y="259" as="geometry" />
         </mxCell>
         <mxCell id="4yfuOKm64Ca9sACACI4b-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="设置-调试-机器信息" vertex="1">
-          <mxGeometry height="100" width="121" x="-160" y="259" as="geometry" />
+          <mxGeometry height="100" width="180" x="-160" y="259" as="geometry" />
         </mxCell>
         <mxCell id="4yfuOKm64Ca9sACACI4b-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="3588" vertex="1">
           <mxGeometry height="40" width="350" x="330" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="4yfuOKm64Ca9sACACI4b-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="websocket 协议, 接收修改machineinfo" vertex="1">
+        <mxCell id="4yfuOKm64Ca9sACACI4b-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="websocket protocol" vertex="1">
           <mxGeometry height="100" width="350" x="330" y="259" as="geometry" />
         </mxCell>
         <mxCell id="4yfuOKm64Ca9sACACI4b-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="message" vertex="1">
